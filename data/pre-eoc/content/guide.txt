@@ -1,0 +1,192 @@
+#Pvm Rare Drops
+Empty.
+
+#Teleporting
+To teleport, use a spellbook button to open up the teleport
+interface.
+--
+You may also talk to the Teleporter just west of Edgeville
+bank.
+
+#Economy info
+- Main currency?
+Dawntained is an Rsps based around Blood money rather
+than the old fashioned coins. Earn blood money through
+Pking, Pvming, Voting & even Skilling!
+--
+- Where do i spend my blood money?
+You may spend them at the blood money void npc at ::shops
+--
+- Can i spawn items?
+You can spawn cheap items for free by using the
+amazing Quick set-up feature on your Quest tab.
+You can also buy many free welfare items such as Mystics
+Rune, Dragon scimitar & much more for free by shopping
+at ::shops
+
+#Shops
+Shops are located north west of Edgeville bank. You may
+teleport there using ::shops
+--
+You will find most Npcs you would need at the ::shops area.
+Be sure to right click the npcs and fully explore their
+options!
+
+#Money Making
+- Pking:
+Kill players for artefacts & items at Edgeville/Deep wild.
+Use ::artefacts to know the top Pking type for better
+rewards. Click on the artefact to redeem it for blood
+money!
+--
+- Pvming:
+Kill dangerous bosses in the Wilderness for up to 25,000
+blood money per hour! This is one of the fastest money
+making methods on Dawntained.
+--
+You may also kill safe bosses for a bit less. Open
+up the spellbook buttons to teleport to your destination.
+--
+- Skill for resources at Entrana and other skilling areas. 
+Sell the resources you gathered back to any shop for
+profit.
+--
+- Voting:
+You may vote for 4,000 Blood money using ::vote
+After you have voted on every site, type in ::claimvote
+Then you may spend your vote tickest at the vote
+manager npc at ::shops
+--
+- Events:
+Join in on world events to earn bonus blood money
+Use the ::events command to see the upcoming events
+and the event schedule.
+--
+- Donating:
+You can get very rich by supporting Dawntained.
+Donators get exclusive money making perks along with
+alot of in-game wealth, check ::donate
+
+#Rare drops
+Find the 'Pvm rare drops' button on the top left on this
+interface. It will also inform you of other types of rare
+loot not related to Pvm.
+
+#Minigames
+The most popular minigames on Dawntained is
+staking at ::duel and gambling at ::dice
+Use your blood money wisely and never go all in!
+
+#Altar
+The altar is located in the building north of Edgeville bank.
+
+#Untradeables
+All untradeables are kept on death except for Rune pouch
+which is sent to the untradeable shop. It can be purchased
+back for 10% of its price right clicking the Void Knight
+npc at ::shops
+
+#Commands
+You may view the entire command list by typing in
+::commands
+
+#Market
+To buy/sell items, please head over to ::market
+Use the command ::type yourAdvertismentHere
+to enable the auto chat system. It is only useable
+in the market area. To turn it off, use the
+command ::type
+
+#Achievements
+Go to Quest tab > Achievement button.
+You may use your unlocked titles at the fairy located
+at ::shops. You can also buy your unlocked items
+by talking to Achievement rewards npc at the shops area.
+
+#Player titles
+Talk to the Fairy at ::shops to view all player titles.
+
+#Donate
+You can help support Dawntained and help it grow by
+Donating. You will be rewarded alot of wealth.
+There are also tonnes of perks for Donators!
+Type in ::donate to view the full list of perks!
+
+#Voting
+You may vote for 4,000 blood money using ::vote
+There is also a chance to win Ags/Dragon claws!
+
+#Price guide
+Type in ::price to open up the website price guide.
+
+#Killstreak skulls
+Earn better looking skulls above your head by
+accumulating a high killstreak.
+Kill players with high killstreaks to earn shutdown blood
+money!
+The higher your killstreak, the better bonus blood money
+you will earn per kill! See below.
+--
+To know the exact rewards, type in ::pkingloot
+
+#Detailed guides
+You may view more detailed guides created by players
+by typing in ::guides
+
+#Set combat skill
+You may change your combat skill by right clicking the
+specific skill icon in the skill tab.
+
+--
+No experience will be lost if you set your stats to a
+lower level.
+
+#Wild protection
+- If you have not left Edgeville 1-5 wild, then you will
+be protected from raggers, pjers and you cannot be
+attacked after you get a kill for 30 seconds.
+--
+- You may also use ::blacklist to completely stop raggers.
+--
+- Happy pking!
+
+#Bob
+Bob is located in the building north of Edgeville bank.
+
+#Make-over mage
+You can find him inside Edgeville bank.
+
+#Slayer master
+There is one global Slayer master located in Edgeville bank.
+
+#Max cape
+If you max out every non-combat skill, you may purchase
+the Max cape which comes in many colours at the Max cape
+stand in the building north of Edgeville bank.
+
+#Infernal cape
+If you achieve 1,000 wilderness kills, you may purchase
+the overpowered Infernal cape at the Cape stand in the
+building north of Edgeville bank.
+
+#Highscores
+You may view the top Dawntained players at the statue
+in the building north of Edgeville bank.
+
+#Pets
+On Dawntained there are 25+ pets to collect!
+Including every skilling pet through skilling, Pvm pets
+through Pvming & even a Dharok pet & Karil pet from
+Pking!
+
+#Ring of wealth
+Ring of wealth gives 1% rare drop bonus.
+The imbued version gives 3%!
+You can buy it off players or craft it from scratch.
+
+#Help me
+- Contact a staff member on ::staff
+- Ask a question in the 'Dawntained' clan chat for
+other veteran players to answer you.
+- Contact a staff member on ::discord
+- Ask for help on the ::forums

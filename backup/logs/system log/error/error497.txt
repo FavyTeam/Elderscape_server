@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
+	at core.Server.main(Server.java:168)

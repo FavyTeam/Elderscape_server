@@ -1,0 +1,269 @@
+Achievement title: 10 Hybrid Kills
+Description Sub Text: Kill 10 players as a Hybrid
+Description Sub Text:
+Title Unlocked: Hybrid Cadet
+Item Rewards: 7400 7399 7398
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 1
+
+Achievement title: 30 Hybrid Kills
+Description Sub Text: Kill 30 players as a Hybrid
+Description Sub Text:
+Title Unlocked: Hybrid Soldier
+Item Rewards: 2673 2669 2671 3480 2675 10382 10378 10380 10376
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 2
+
+Achievement title: 60 Hybrid Kills
+Description Sub Text: Kill 60 players as a Hybrid
+Description Sub Text:
+Title Unlocked: Hybrid Sergeant
+Item Rewards: 2657 2653 2655 3478 2659 10374 10370 10372 10368
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 3
+
+Achievement title: 100 Hybrid Kills
+Description Sub Text: Kill 100 players as a Hybrid
+Description Sub Text:
+Title Unlocked: Hybrid General
+Item Rewards: 2665 2661 2663 3479 2667 10390 10386 10388 10384
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 4
+
+Achievement title: 150 Hybrid Kills
+Description Sub Text: Kill 150 players as a Hybrid
+Description Sub Text:
+Title Unlocked: Hybrid Legend
+Item Rewards: 12476 12470 12472 12474 12478 12512 12508 12510 12506
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 5
+
+Achievement title: 10 Berserker Kills
+Description Sub Text: Kill 10 players as a Berserker
+Description Sub Text:
+Title Unlocked: Berserker Cadet
+Item Rewards: 6128 6129 6130 6145 6151
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 6
+
+Achievement title: 30 Berserker Kills
+Description Sub Text: Kill 30 players as a Berserker
+Description Sub Text:
+Title Unlocked: Berserker Soldier
+Item Rewards: 2627 2623 2625 3477 2629
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 7
+
+Achievement title: 60 Berserker Kills
+Description Sub Text: Kill 60 players as a Berserker
+Description Sub Text:
+Title Unlocked: Berserker Sergeant
+Item Rewards: 2619 2615 2617 3476 2621 8494 8744
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 8
+
+Achievement title: 100 Berserker Kills
+Description Sub Text: Kill 100 players as a Berserker
+Description Sub Text:
+Title Unlocked: Berserker General
+Item Rewards: 12466 12460 12462 12464 12468
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 9
+
+Achievement title: 150 Berserker Kills
+Description Sub Text: Kill 150 players as a Berserker
+Description Sub Text:
+Title Unlocked: Berserker Legend
+Item Rewards: 3486 3481 3483 3485 3488
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 10
+
+Achievement title: 10 Ranged Tank Kills
+Description Sub Text: Kill 10 players as a Ranged Tank
+Description Sub Text:
+Title Unlocked: Ranged Tank Cadet
+Item Rewards: 2627 2623 2625 3477 2629
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 11
+
+Achievement title: 30 Ranged Tank Kills
+Description Sub Text: Kill 30 players as a Ranged Tank
+Description Sub Text:
+Title Unlocked: Ranged Tank Soldier
+Item Rewards: 2619 2615 2617 3476 2621 8494 8744
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 12
+
+Achievement title: 60 Ranged Tank Kills
+Description Sub Text: Kill 60 players as a Ranged Tank
+Description Sub Text:
+Title Unlocked: Ranged Tank Sergeant
+Item Rewards: 2673 2669 2671 3480 2675 10382 10378 10380 10376
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 13
+
+Achievement title: 100 Ranged Tank Kills
+Description Sub Text: Kill 100 players as a Ranged Tank
+Description Sub Text:
+Title Unlocked: Ranged Tank General
+Item Rewards: 2657 2653 2655 3478 2659 10374 10370 10372 10368
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 14
+
+Achievement title: 150 Ranged Tank Kills
+Description Sub Text: Kill 150 players as a Ranged Tank
+Description Sub Text:
+Title Unlocked: Ranged Tank Legend
+Item Rewards: 2665 2661 2663 3479 2667 10390 10386 10388 10384
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 15
+
+Achievement title: 10 Pure Kills
+Description Sub Text: Kill 10 players as a Pure
+Description Sub Text:
+Title Unlocked: Pure Cadet
+Item Rewards: 7396 7392 7388
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 16
+
+Achievement title: 30 Pure Kills
+Description Sub Text: Kill 30 players as a Pure
+Description Sub Text:
+Title Unlocked: Pure Soldier
+Item Rewards: 7394 7390 7386
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 17
+
+Achievement title: 60 Pure Kills
+Description Sub Text: Kill 60 players as a Pure
+Description Sub Text:
+Title Unlocked: Pure Sergeant
+Item Rewards: 10454 10462 10466 10472 10448 10442
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 18
+
+Achievement title: 100 Pure Kills
+Description Sub Text: Kill 100 players as a Pure
+Description Sub Text:
+Title Unlocked: Pure General
+Item Rewards: 10456 10460 10468 10474 10450 10444
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 19
+
+Achievement title: 150 Pure Kills
+Description Sub Text: Kill 150 players as a Pure
+Description Sub Text:
+Title Unlocked: Pure Legend
+Item Rewards: 10452 10458 10464 10470 10446 10440
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 20
+
+Achievement title: 10 Melee Kills
+Description Sub Text: Kill 10 players as a Melee Main
+Description Sub Text:
+Title Unlocked: Melee Cadet
+Item Rewards: 2627 2623 2625 3477 2629
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 21
+
+Achievement title: 30 Melee Kills
+Description Sub Text: Kill 30 players as a Melee Main
+Description Sub Text:
+Title Unlocked: Melee Soldier
+Item Rewards: 2619 2615 2617 3476 2621
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 22
+
+Achievement title: 60 Melee Kills
+Description Sub Text: Kill 60 players as a Melee Main
+Description Sub Text:
+Title Unlocked: Melee Sergeant
+Item Rewards: 2673 2669 2671 3480 2675
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 23
+
+Achievement title: 100 Melee Kills
+Description Sub Text: Kill 100 players as a Melee Main
+Description Sub Text:
+Title Unlocked: Melee General
+Item Rewards: 2657 2653 2655 3478 2659
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 24
+
+Achievement title: 150 Melee Kills
+Description Sub Text: Kill 150 players as a Melee Main
+Description Sub Text:
+Title Unlocked: Melee Legend
+Item Rewards: 2665 2661 2663 3479 2667
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 25
+
+Achievement title: 10 F2P Kills
+Description Sub Text: Kill 10 players as a F2P PKer
+Description Sub Text:
+Title Unlocked: F2P Cadet
+Item Rewards: 2627 2623 2625 3477 2629
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 26
+
+Achievement title: 30 F2P Kills
+Description Sub Text: Kill 30 players as a F2P PKer
+Description Sub Text:
+Title Unlocked: F2P Soldier
+Item Rewards: 2619 2615 2617 3476 2621
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 27
+
+Achievement title: 60 F2P Kills
+Description Sub Text: Kill 60 players as a F2P PKer
+Description Sub Text:
+Title Unlocked: F2P Sergeant
+Item Rewards: 2673 2669 2671 3480 2675
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 28
+
+Achievement title: 100 F2P Kills
+Description Sub Text: Kill 100 players as a F2P PKer
+Description Sub Text:
+Title Unlocked: F2P General
+Item Rewards: 2657 2653 2655 3478 2659
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 29
+
+Achievement title: 150 F2P Kills
+Description Sub Text: Kill 150 players as a F2P PKer
+Description Sub Text:
+Title Unlocked: F2P Legend
+Item Rewards: 2665 2661 2663 3479 2667
+Achievement Save Name:
+Complete Amount: 150
+Achievement Id: 30

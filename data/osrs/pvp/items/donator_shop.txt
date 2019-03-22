@@ -1,0 +1,199 @@
+Shop tab: Bundles
+
+Name: Partyhat set
+Item reward: 1038 1040 1042 1044 1046 1048
+Price: 4000
+Discount: 20
+Sprite: 983
+
+Name: Ancestral set
+Item reward: 21018 21021 21024
+Price: 550
+Discount: 10
+Sprite: 985
+
+Name: Spirit shield set
+Item reward: 12817 12825 12821 12831 12829
+Price: 1000
+Discount: 13
+Sprite: 986
+
+Name: Halloween set
+Item reward: 1053 1057 1055 11847
+Price: 1000
+Discount: 15
+Sprite: 987
+
+Name: 3rd age ranged set
+Item reward: 10334 10330 10332 10336 12424
+Price: 725
+Discount: 25
+Sprite: 988
+
+Name: 3rd age melee set
+Item reward: 10350 10348 10346 10352 12437 12426
+Price: 775
+Discount: 15
+Sprite: 989
+
+Name: 3rd age mage set
+Item reward: 10342 10338 10340 10344 12422
+Price: 725
+Discount: 20
+Sprite: 990
+
+Name: Ankou set
+Item reward: 20095 20098 20104 20107 20101
+Price: 600
+Discount: 20
+Sprite: 994
+
+Shop tab: Normal
+
+Name: Blood money 10k
+Price: 10
+Item reward: 16001
+
+Name: Mystery box
+Price: 20
+Item reward: 16084
+
+Name: Super Mystery box
+Price: 50
+Item reward: 16086
+
+Name: Legendary Mystery box
+Price: 100
+Item reward: 16088
+
+Name: Mega Mystery box
+Price: 150
+Item reward: 16436
+
+Name: Pet Mystery box
+Price: 200
+Item reward: 6199
+
+Name: Stray dog pet
+Price: 100
+Item reward: 16205
+
+Name: Name change scroll
+Price: 50
+Item reward: 1505
+
+Name: X1 Custom pet point scroll
+Price: 900
+Item reward: 16254
+
+Name: Unlock Infernal, Max capes & Imbued capes scroll
+Price: 1880
+Item reward: 16266
+
+Name: Dice (up to 100)
+Price: 500
+Item reward: 16004
+
+Name: Kodai wand
+Price: 200
+Item reward: 21006
+
+Name: Ancestral hat
+Price: 100
+Item reward: 21018
+
+Name: Ancestral robe top
+Price: 250
+Item reward: 21021
+
+Name: Ancestral robe bottom
+Price: 200
+Item reward: 21024
+
+Name: Elysian spirit shield
+Price: 690
+Item reward: 12817
+
+Name: Arcane spirit shield
+Price: 200
+Item reward: 12825
+
+Name: Spectral spirit shield
+Price: 100
+Item reward: 12821
+
+Name: Dragon claws
+Price: 100
+Item reward: 20784
+
+Name: Dinh's bulwark
+Price: 100
+Item reward: 21015
+
+Name: Rainbow partyhat
+Price: 4500
+Item reward: 11863
+
+Name: Black partyhat
+Price: 1590
+Item reward: 11862
+
+Name: Christmas cracker
+Price: 490
+Item reward: 962
+
+Name: Green h'ween mask
+Price: 200
+Item reward: 1053
+
+Name: Blue h'ween mask
+Price: 200
+Item reward: 1055
+
+Name: Red h'ween mask
+Price: 200
+Item reward: 1057
+
+Name: Black h'ween mask
+Price: 400
+Item reward: 11847
+
+Name: Wise old man's santa hat
+Price: 900
+Item reward: 21859
+
+Name: Santa hat
+Price: 240
+Item reward: 1050
+
+Name: Black santa hat
+Price: 480
+Item reward: 13343
+
+Name: Inverted santa hat
+Price: 480
+Item reward: 13344
+
+Name: White partyhat
+Price: 670
+Item reward: 1048
+
+Name: Purple partyhat
+Price: 670
+Item reward: 1046
+
+Name: Green partyhat
+Price: 670
+Item reward: 1044
+
+Name: Blue partyhat
+Price: 670
+Item reward: 1042
+
+Name: Yellow partyhat
+Price: 670
+Item reward: 1040
+
+Name: Red partyhat
+Price: 670
+Item reward: 1038

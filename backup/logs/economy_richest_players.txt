@@ -1,0 +1,144 @@
+[29/04/2018, 01:20: PM]
+Stage 2 finished: 6,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 6,000,000
+Economy increased by: 5.9m
+
+[29/04/2018, 01:21: PM]
+Stage 2 finished: 6,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 6,000,000
+Economy increased by: 5.9m
+
+[29/04/2018, 01:21: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:21: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:22: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:23: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:26: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:26: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:27: PM]
+Stage 2 finished: 60,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 2
+Economy now: 60,000,000
+Economy increased by: 59.9m
+
+[29/04/2018, 01:28: PM]
+Stage 2 finished: 60,000,001, tokens this hour: 0
+Previous economy scan an hour ago: 3
+Economy now: 60,000,001
+Economy increased by: 59.9m
+
+[29/04/2018, 01:28: PM]
+Stage 2 finished: 60,000,001, tokens this hour: 0
+Previous economy scan an hour ago: 3
+Economy now: 60,000,001
+Economy increased by: 59.9m
+
+[29/04/2018, 03:49: PM]
+Stage 2 finished: 61,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 1,000,002
+Economy now: 61,000,000
+Economy increased by: 59.9m
+m g  t gained 59.9m, 
+[29/04/2018, 03:50: PM]
+Stage 2 finished: 120,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 1,000,002
+Economy now: 120,000,000
+Economy increased by: 118.9m
+m g  t gained 118.9m, 
+[29/04/2018, 03:51: PM]
+Stage 2 finished: 120,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 3
+Economy now: 120,000,000
+Economy increased by: 119.9m
+
+[29/04/2018, 03:51: PM]
+Stage 2 finished: 66,000,000, tokens this hour: 0
+Previous economy scan an hour ago: 1,000,002
+Economy now: 66,000,000
+Economy increased by: 64.9m
+m g  t gained 64.9m, 
+[29/04/2018, 04:27: PM]
+Stage 2 finished: 9013173455, tokens this hour: 0
+Previous economy scan an hour ago: 8881770230
+Economy now: 9013173455
+Economy increased by: 131.4m
+gin gained 119.6m, sm axe gained 8.1m, thuggahhh gained 7.6m, pot noodle gained 2.6m, lookin fresh gained 914k, d clawed k0 gained 658k, bollocks gained 564k, osodgk gained 522k, bonesz gained 471k, ipkerofrs gained 446k, 0o00oo0o0oo gained 419k, tony gained 404k, zerosaitama gained 401k, v1777711711 gained 393k, mex gained 353k, 
+[04/05/2018, 09:42: PM]
+Stage 2 finished: 782,282,770, tokens this hour: 0
+Previous economy scan an hour ago: 762,470,369
+Economy now: 782,282,770
+Economy increased by: 19.8m
+
+[04/05/2018, 09:55: PM]
+Stage 2 finished: 782,282,770, tokens this hour: 0
+Previous economy scan an hour ago: 762,470,369
+Economy now: 782,282,770
+Economy increased by: 19.8m
+
+[04/05/2018, 09:56: PM]
+Stage 2 finished: 418,976,163, tokens this hour: 0
+Previous economy scan an hour ago: 399,163,762
+Economy now: 418,976,163
+Economy increased by: 19.8m
+
+[04/05/2018, 09:57: PM]
+Stage 2 finished: 418,976,163, tokens this hour: 0
+Previous economy scan an hour ago: 399,163,762
+Economy now: 418,976,163
+Economy increased by: 19.8m
+
+[04/05/2018, 10:07: PM]
+Stage 2 finished: 418,976,163, tokens this hour: 0
+Previous economy scan an hour ago: 399,163,762
+Economy now: 418,976,163
+Economy increased by: 19.8m
+a(new) gained 19.8m, 
+[04/05/2018, 10:09: PM]
+Stage 2 finished: 418,976,163, tokens this hour: 0
+Previous economy scan an hour ago: 399,163,762
+Economy now: 418,976,163
+Economy increased by: 19.8m
+a(new) gained 19.8m, 
+[09/05/2018, 08:58: PM] 
+Stage 2 finished: 7628060116, tokens this hour: 0
+Previous economy scan an hour ago: 755,079,031
+Economy now: 7628060116
+Economy increased by: 6872m
+a gained 6750m, c(new) gained 122.9m, 
+[09/05/2018, 09:02: PM] 
+Stage 2 finished: 84,031,510, tokens this hour: 0
+Previous economy scan an hour ago: 6,000,000
+Economy now: 84,031,510
+Economy increased by: 78m
+c(new) gained 69m, a gained 9m, 

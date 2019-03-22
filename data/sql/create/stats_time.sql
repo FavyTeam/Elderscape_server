@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `stats_time` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `time` varchar(255) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=62 DEFAULT CHARSET=latin1;

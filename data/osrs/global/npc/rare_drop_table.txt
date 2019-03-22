@@ -1,0 +1,32 @@
+// If the npc is 1 hp, the chance will be 16 in 64, if it is 150 hp, the chance will be 1 in 16. Any other hitpoints will be calculated and be in between.
+Lowest chance: 16
+Highest chance: 64
+Highest hitpoints: 250
+
+364 1249 1 // Dragon spear
+273 2366 1 // Shield left half
+137 1247 1 // Rune spear
+128 1149 1 // Dragon med helm
+128 1201 1 // Rune kiteshield
+128 1617 1 // Uncut diamond
+64 1185 1 // Rune sq shield
+64 443 100 // Silver ore
+64 1615 1 // Dragonstone
+64 829 20 // Adamant javelin
+64 892 42 // Rune arrow
+64 886 150 // Steel arrow
+64 560 45 // Death rune
+64 563 45 // Law rune
+42 1373 1 // Rune battleaxe
+42 1319 1 // Rune 2h sword
+42 561 67 // Nature rune
+32 1462 1 // Nature talisman
+32 1619 1 // Uncut ruby
+32 1621 1 // Uncut emerald
+32 830 5 // Rune javelin
+25 2363 1 // Runite bar
+8 1452 1 // Chaos talisman
+8 1623 1 // Uncut sapphire
+6 985 1 // Tooth half of key
+6 987 1 // Loop half of key
+5 617 3000 // Coins

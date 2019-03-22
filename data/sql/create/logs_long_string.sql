@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `logs_long_string` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `length` int(11) DEFAULT NULL,
+  `content` varchar(8192) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;

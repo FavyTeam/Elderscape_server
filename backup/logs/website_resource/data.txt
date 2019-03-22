@@ -1,0 +1,11 @@
+websiteClientLatestVersion=301
+voteReward=1000
+extraRunelocusTickets=5
+mainCacheDownloadLink=https://www.dropbox.com/s/v185ri3bjajwbs2/osrscache.zip?dl=1
+spriteCacheDownloadLink=https://www.dropbox.com/s/lwppval64jlm2nw/spriteosrs.zip?dl=1
+fullClientDownloadLink=http://www.dawntained.com/game/dawntained_client.jar
+fullClientDownloadLinkSecondary=http://www.dropbox.com/s/57ggn2t5iya0g5s/dawntained_client.jar?dl=1
+pvpIp=54.36.126.177
+ecoIp=127.0.0.1
+port=43595
+voteRewardEco=750000

@@ -1,0 +1,132 @@
+Title: the Defiled
+Title After Name: Yes
+Requirements Sub Text: Open 10 Barrows chests
+Requirements Sub Text:
+Title Id: 54
+Complete Amount: 10
+
+Title: the Tainted
+Title After Name: Yes
+Requirements Sub Text: Open 20 Barrows chests
+Requirements Sub Text:
+Title Id: 55
+Complete Amount: 20
+
+Title: the Infested
+Title After Name: Yes
+Requirements Sub Text: Open 35 Barrows chests
+Requirements Sub Text:
+Title Id: 56
+Complete Amount: 35
+
+Title: the Blighted
+Title After Name: Yes
+Requirements Sub Text: Open 55 Barrows chests
+Requirements Sub Text:
+Title Id: 57
+Complete Amount: 55
+
+Title: the Corrupted
+Title After Name: Yes
+Requirements Sub Text: Open 75 Barrows chests
+Requirements Sub Text:
+Title Id: 58
+Complete Amount: 75
+
+Title: the Wretched
+Title After Name: Yes
+Requirements Sub Text: Open 100 Barrows chests
+Requirements Sub Text:
+Title Id: 59
+Complete Amount: 100
+
+Title: Big Cheese
+Title After Name: No
+Requirements Sub Text: Receive 5 rare drops
+Requirements Sub Text:
+Title Id: 60
+Complete Amount: 5
+
+Title: Lucky
+Title After Name: No
+Requirements Sub Text: Receive 10 rare drops
+Requirements Sub Text:
+Title Id: 61
+Complete Amount: 10
+
+Title: the Blessed
+Title After Name: Yes
+Requirements Sub Text: Receive 20 rare drops
+Requirements Sub Text:
+Title Id: 62
+Complete Amount: 20
+
+Title: The Awesome
+Title After Name: No
+Requirements Sub Text: Receive 40 rare drops
+Requirements Sub Text:
+Title Id: 63
+Complete Amount: 40
+
+Title: the Blazing
+Title After Name: Yes
+Requirements Sub Text: Receive 65 rare drops
+Requirements Sub Text:
+Title Id: 64
+Complete Amount: 65
+
+Title: the Glorious
+Title After Name: Yes
+Requirements Sub Text: Receive 100 rare drops
+Requirements Sub Text:
+Title Id: 65
+Complete Amount: 100
+
+Title: the Brave
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 500
+Title Id: 66
+Complete Amount: 500
+
+Title: the Mighty
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 1000
+Title Id: 67
+Complete Amount: 1000
+
+Title: the Valiant
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 2000
+Title Id: 68
+Complete Amount: 2000
+
+Title: the Warrior
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 3000
+Title Id: 69
+Complete Amount: 3000
+
+Title: the Champion
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 4000
+Title Id: 70
+Complete Amount: 4000
+
+Title: the Annihilator
+Title After Name: Yes
+Requirements Sub Text: Achieve a boss score of
+Requirements Sub Text: 5000
+Title Id: 71
+Complete Amount: 5000
+
+Title: the Completionist
+Title After Name: Yes
+Requirements Sub Text: 99 in all skills &
+Requirements Sub Text: Hard achievements completed
+Title Id: 53
+Complete Amount: 2079

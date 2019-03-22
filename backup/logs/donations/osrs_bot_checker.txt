@@ -1,0 +1,4 @@
+[26/08/2018, 10:10: PM] real amount: 2m
+[26/08/2018, 10:17: PM] real amount: 2m, expected: 0
+[05/09/2018, 09:25: PM] real amount: 1.0m, expected: 3.0m
+[05/09/2018, 09:30: PM] real amount: 2.0m, expected: 5.0m

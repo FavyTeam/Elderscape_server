@@ -1,0 +1,9 @@
+Exception in thread "main" java.lang.NoClassDefFoundError: org/python/core/PyException
+	at core.Server.loadSystems(Server.java:422)
+	at core.Server.main(Server.java:160)
+Caused by: java.lang.ClassNotFoundException: org.python.core.PyException
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more

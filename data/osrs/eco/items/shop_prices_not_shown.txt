@@ -1,0 +1,2 @@
+// Shops ids where the item prices are not shown on the interface and instead it will show the item quantity.
+8 // General store

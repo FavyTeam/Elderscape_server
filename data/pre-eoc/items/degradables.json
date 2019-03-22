@@ -1,0 +1,287 @@
+[
+	{
+      "id": 13884,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": 13886,
+      "nextItem": 13886
+    },
+    {
+      "id": 13890,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": 13892,
+      "nextItem": 13892
+    },
+    {
+      "id": 13896,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": 13898,
+      "nextItem": 13898
+    },
+    {
+      "id": 13886,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13892,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13898,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    
+    {
+      "id": 13870,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": 13872,
+      "nextItem": 13872
+    },
+    {
+      "id": 13873,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": 13875,
+      "nextItem": 13875
+    },
+    {
+      "id": 13876,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": 13878,
+      "nextItem": 13878
+    },
+    {
+      "id": 13872,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13875,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13878,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    
+    {
+      "id": 13887,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": 13889,
+      "nextItem": 13889
+    },
+    {
+      "id": 13893,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": 13895,
+      "nextItem": 13895
+    },
+    {
+      "id": 13889,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13895,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    
+    {
+      "id": 13858,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": 13860,
+      "nextItem": 13860
+    },
+    {
+      "id": 13861,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": 13863,
+      "nextItem": 13863
+    },
+    {
+      "id": 13864,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": 13866,
+      "nextItem": 13866
+    },
+    {
+      "id": 13867,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 13869,
+      "nextItem": 13869
+    },
+    {
+      "id": 13860,
+      "hitsRemaining": 250,
+      "slot": 4,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13863,
+      "hitsRemaining": 250,
+      "slot": 7,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13866,
+      "hitsRemaining": 250,
+      "slot": 0,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13869,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    
+    {
+      "id": 13899,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 13901,
+      "nextItem": 13901
+    },
+    {
+      "id": 13902,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 13904,
+      "nextItem": 13904
+    },
+    {
+      "id": 13905,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 13907,
+      "nextItem": 13907
+    },
+    {
+      "id": 13901,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13904,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    {
+      "id": 13907,
+      "hitsRemaining": 250,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": -1,
+      "nextItem": -1
+    },
+    
+    {
+      "id": 18365,
+      "hitsRemaining": 200,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 18366,
+      "nextItem": 18366
+    },
+    {
+      "id": 18367,
+      "hitsRemaining": 200,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 18368,
+      "nextItem": 18368
+    },
+    {
+      "id": 18369,
+      "hitsRemaining": 200,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 18370,
+      "nextItem": 18370
+    },
+    {
+      "id": 18371,
+      "hitsRemaining": 200,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 18372,
+      "nextItem": 18372
+    },
+    {
+      "id": 18373,
+      "hitsRemaining": 200,
+      "slot": 3,
+      "degradeOnCombat": false,
+      "dropItem": 18374,
+      "nextItem": 18374
+    }
+]

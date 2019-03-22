@@ -1,0 +1,9 @@
+Exception in thread "Timer-3" java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Unknown Source)
+	at java.util.Arrays$ArrayList.<init>(Unknown Source)
+	at java.util.Arrays.asList(Unknown Source)
+	at utility.FileUtility.getFilesList(FileUtility.java:79)
+	at utility.OsBotCommunication.readAndDeleteAFileFromDirectory(OsBotCommunication.java:69)
+	at utility.OsBotCommunication$1.run(OsBotCommunication.java:56)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)

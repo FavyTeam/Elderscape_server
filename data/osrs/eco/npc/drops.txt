@@ -1,0 +1,3063 @@
+// means do not announce.
+// add the highest rarity drop first.
+// 1 in x, itemId, amount, // name.
+// add announce at the end only if drop will be announced or pet which means it's a boss pet drop.
+
+// Zulrah
+Npc: 2043 2044 2042
+600 12921 1 pet // Pet snakeling
+6553 13201 1 // Magma mutagen
+6553 13200 1 // Tanzanite mutagen
+3000 12936 1 // Jar of swamp
+512 6571 1 // Uncut onyx
+512 12927 1 // Serpentine visage
+512 12932 1 // Magic fang
+512 12922 1 // Tanzanite fang
+256 4207 1 // Crystal seed
+256 5317 1 // Spirit seed
+128 5304 1 // Torstol seed
+128 5303 2 // Dwarf weed seed
+128 5300 1 // Snapdragon seed
+128 5296 2 // Toadflax seed
+128 270 10 // Torstol
+128 268 30 // Dwarf weed
+128 3001 10 // Snapdragon
+128 2999 25 // Toadflax
+128 3204 1 // Dragon halberd
+128 1149 1 // Dragon med helm
+75 12073 1 // Clue scroll (elite)
+64 5316 1 // Magic seed
+32 2362 20 // Adamantite bar
+32 6694 10 // Crushed nest
+32 1939 1000 // Swamp tar
+32 392 35 // Manta ray
+32 1392 10 // Battlestaff
+32 12934 500 // Zulrah's scales
+32 5288 3 // Papaya tree seed
+32 5289 1 // Palm tree seed
+32 5290 2 // Calquat tree seed
+32 452 2 // Runite ore
+32 454 200 // Coal
+32 6332 50 // Mahogany logs
+32 7937 1500 // Pure essence
+32 562 500 // Chaos rune
+32 560 300 // Death rune
+25 1780 1000 // Flax
+17 12938 4 // Zul-andra teleport
+8 1988 250 // Grapes
+8 5975 20 // Coconut
+8 537 12 // Dragon bones
+8 1516 35 // Yew logs
+8 9193 12 // Dragonstone bolt tips
+8 6290 35 // Snakeskin
+8 563 200 // Law rune
+1 12934 100-300 // Zulrah's scales
+
+// Cerberus
+Npc: 5862
+3000 13247 1 pet // Hellpuppy
+2000 13245 1 // Jar of souls
+512 13233 1 // Smouldering stone
+512 13227 1 announce // Eternal crystal
+512 13229 1 announce // Pegasian crystal
+512 13231 1 announce // Primordial crystal
+100 12073 1 // Clue scroll (elite)
+64 13249 3 // Key master teleport
+32 452 5 // Runite ore
+32 220 6 // Grimy torstol
+32 5304 3 // Torstol seed
+32 2 50 // Cannonball
+32 9381 40 // Runite bolts (unf)
+32 565 60 // Blood rune
+32 1127 1 // Rune platebody
+32 1113 1 // Rune chainbody
+32 1275 1 // Rune pickaxe
+32 1359 1 // Rune axe
+32 1163 1 // Rune full helm
+32 2503 1 // Black d'hide body
+32 3202 1 // Rune halberd
+32 1319 1 // Rune 2h sword
+8 1618 5 // Uncut diamond
+8 570 20 // Fire orb
+8 246 15 // Wine of zamorak
+8 537 20 // Dragon bones
+8 593 50 // Ashes
+8 7218 3 // Summer pie
+8 1724 1 // Unholy symbol
+8 995 10000-20000 // Coins
+8 454 120 // Coal
+8 3024 2 // Super restore(4)
+8 566 100 // Soul rune
+8 560 100 // Death rune
+8 554 300 // Fire rune
+8 7937 300 // Pure essence
+8 1392 6 // Battlestaff
+8 3053 1 // Lava battlestaff
+1 592 1 // Ashes
+
+// Corporeal beast
+Npc: 319
+5000 12816 1 pet // Pet dark core
+4095 12819 1 announce // Elysian sigil
+1365 12827 1 anounce // Arcane sigil
+1365 12823 1 announce // Spectral sigil
+171 12833 1 // Holy elixir
+128 5295 10 // Ranarr seed
+64 12829 1 // Spirit shield
+32 7060 30 // Tuna potato
+32 9735 120 // Desert goat horn
+32 240 120 // White berries
+32 384 70 // Raw shark
+32 1754 100 // Green dragonhide
+32 1514 75 // Magic logs
+32 6332 150 // Mahogany logs
+32 8781 100 // Teak plank
+32 2362 35 // Adamantite bar
+32 452 20 // Runite ore
+32 450 125 // Adamantite ore
+32 566 250 // Soul rune
+32 560 300 // Death rune
+32 564 500 // Cosmic rune
+32 563 250 // Law rune
+32 7937 2500 // Pure essence
+32 4093 1 // Mystic robe bottom (blue)
+32 4091 1 // Mystic robe top (blue)
+32 1401 1 // Mystic fire staff
+32 1407 1 // Mystic earth staff
+32 1403 1 // Mystic water staff
+32 1405 1 // Mystic air staff
+32 9144 250 // Runite bolts
+32 890 750 // Adamant arrow
+32 1462 1 // Nature talisman
+32 1631 1 // Uncut dragonstone
+32 1617 1 // Uncut diamond
+32 1619 1 // Uncut ruby
+30 2 2000 // Cannonball
+26 9245 175 // Onyx bolts (e)
+8 5321 24 // Watermelon seed
+8 1621 1 // Uncut emerald
+8 1623 1 // Uncut sapphire
+8 995 250-3000 // Coins
+
+// Giant mole
+Npc: 5779
+3000 12646 1 pet // Baby mole
+500 12073 1 // Clue scroll (elite)
+128 413 1 // Oyster pearls
+128 2359 1 // Mithril bar
+128 560 7 // Death rune
+32 385 4 // Shark
+32 441 100 // Iron ore
+32 1147 1 // Rune med helm
+32 884 690 // Iron arrow
+32 563 15 // Law rune
+12 1516 100 // Yew logs
+8 1725 1 // Amulet of strength
+8 1121 1 // Mithril platebody
+8 1369 1 // Mithril battleaxe
+8 1355 1 // Mithril axe
+8 1301 1 // Adamant longsword
+8 565 15 // Blood rune
+8 554 105 // Fire rune
+8 556 105 // Air rune
+1 7418 1-3 // Mole skin
+1 7416 1 // Mole claw
+1 532 1 // Big bones
+
+// Kalphite Queen
+Npc: 963
+3000 12647 1 pet // Kalphite princess
+2000 12885 1 // Jar of sand
+256 7158 1 announce // Dragon 2h sword
+128 7981 1 // Kq head
+128 5289 2 // Palm tree seed
+128 5288 2 // Papaya tree seed
+128 220 25 // Grimy torstol
+128 3052 25 // Grimy snapdragon
+128 3140 1 // Dragon chainbody
+128 1392 10 // Battlestaff
+100 12073 1 // Clue scroll (elite)
+42 5316 2 // Magic seed
+32 445 250 // Gold ore
+32 6017 10 // Cactus spine
+32 1784 100 // Bucket of sand
+32 1988 100 // Grapes
+32 1514 60 // Magic logs
+32 2364 3 // Runite bar
+32 995 15000-20000 // Coins
+32 1618 25 // Uncut diamond
+32 1622 25 // Uncut emerald
+32 1620 25 // Uncut ruby
+32 560 150 // Death rune
+32 892 250 // Rune arrow
+32 5304 2 // Torstol seed
+32 5321 25 // Watermelon seed
+32 208 25 // Grimy ranarr weed
+32 3050 25 // Grimy toadflax
+32 2434 2 // Prayer potion(4)
+32 3024 1 // Super restore(4)
+32 6685 1 // Saradomin brew(4)
+32 11936 2 // Dark crab
+32 5667 25 // Rune knife(p++)
+32 2501 1 // Red d'hide body
+32 3053 1 // Lava battlestaff
+32 1113 1 // Rune chainbody
+20 13489 1 // Ensouled kalphite head
+12 246 60 // Wine of zamorak
+8 3139 100 // Potato cactus
+8 888 500 // Mithril arrow
+8 565 100 // Blood rune
+8 169 1 // Ranging potion(3)
+8 12699 1 // Super combat potion(2)
+8 385 2 // Shark
+8 7946 3 // Monkfish
+
+// Demonic gorilla
+Npc: 7144
+3000 16028 1 pet // Demonic gorilla pet
+1500 19610 1 // Monkey tail
+1500 19589 1 // Heavy frame
+750 19586 1 // Light frame
+600 5317 2 // Spirit seed
+500 12073 1 // Clue scroll (elite)
+500 19601 1 // Ballista spring
+500 19592 1 // Ballista limbs
+400 5289 1-2 // Palm tree seed
+300 19529 1 // Zenyte shard
+128 5316 2 // Magic seed
+128 5315 2 // Yew seed
+128 5314 2 // Maple seed
+128 5313 2 // Willow seed
+128 5288 2 // Papaya tree seed
+100 12542 1 // Clue scroll (hard)
+32 19582 5-43 // Dragon javelin heads
+32 19580 31-55 // Rune javelin heads
+32 2364 3 // Runite bar
+32 2362 6 // Adamantite bar
+32 1602 46 // Diamond
+32 5304 1-2 // Torstol seed
+32 5300 2 // Snapdragon seed
+32 5295 2 // Ranarr seed
+32 5321 30 // Watermelon seed
+32 218 7-12 // Grimy dwarf weed
+32 4587 1 // Dragon scimitar
+32 9144 100-150 // Runite bolts
+8 19584 266-1238 // Javelin shaft
+8 995 5162-9991 // Coins
+8 2486 7-13 // Grimy lantadyme
+8 216 7-13 // Grimy cadantine
+8 214 7-13 // Grimy kwuarm
+8 385 2-3 // Shark
+8 6689 1 // Saradomin brew(2)
+8 139 2 // Prayer potion(3)
+8 560 50-75 // Death rune
+8 563 50-75 // Law rune
+8 1113 1 // Rune chainbody
+8 1093 1 // Rune plateskirt
+8 1079 1 // Rune platelegs
+1 592 1 // Ashes
+
+// Lizard shaman
+Npc: 6766
+4000 16261 1 pet // Spawn pet
+5000 10977 1 // Curved bone
+5000 13576 1 announce // Dragon warhammer
+1200 12073 1 // Clue scroll (elite)
+400 10976 1 // Long bone
+250 13392 1 // Xeric's talisman (inert)
+200 12542 1 // Clue scroll (hard)
+128 5317 1 // Spirit seed
+128 5316 1 // Magic seed
+128 5315 1 // Yew seed
+128 5289 1 // Palm tree seed
+128 5288 1 // Papaya tree seed
+128 5314 1 // Maple seed
+128 5313 1 // Willow seed
+128 5304 1 // Torstol seed
+128 5321 15 // Watermelon seed
+128 5300 1 // Snapdragon seed
+128 5295 1 // Ranarr seed
+128 452 35 // Runite ore
+32 560 20-30 // Death rune
+32 554 66-80 // Fire rune
+32 562 40-60 // Chaos rune
+32 216 13 // Grimy cadantine
+32 2486 13 // Grimy lantadyme
+32 218 13 // Grimy dwarf weed
+32 214 13 // Grimy kwuarm
+32 1347 1 // Rune warhammer
+32 1113 1 // Rune chainbody
+32 1147 1 // Rune med helm
+32 1399 1 // Earth battlestaff
+32 1407 1 // Mystic earth staff
+32 2489 1 // Red d'hide vamb
+8 7054 2 // Chilli potato
+8 13391 10-14 // Lizardman fang
+8 13383 2 // Xerician fabric
+8 995 100-6000 // Coins
+8 556 60-80 // Air rune
+8 454 20-25 // Coal
+8 441 24-35 // Iron ore
+1 532 1 // Big bones
+
+// Scorpia
+Npc: 6615
+2000 13181 1 pet // Scorpia's offspring
+256 11924 1 announce // Malediction ward
+256 11926 1 announce // Odium ward
+128 12542 1 // Clue scroll (hard)
+128 4587 1 // Dragon scimitar
+32 214 4 // Grimy kwuarm
+32 4696 30 // Dust rune
+32 1319 1 // Rune 2h sword
+32 1347 1 // Rune warhammer
+32 1289 1 // Rune sword
+32 1247 1 // Rune spear
+32 1333 1 // Rune scimitar
+32 1275 1 // Rune pickaxe
+32 1113 1 // Rune chainbody
+32 11090 1 // Phoenix necklace
+30 11941 1 // Looting bag
+18 13459 1 // Ensouled scorpion head
+8 1622 6 // Uncut emerald
+8 1624 4 // Uncut sapphire
+8 385 1 // Shark
+8 2434 1 // Prayer potion(4)
+8 6017 10 // Cactus spine
+8 1784 25 // Bucket of sand
+8 2298 8 // Anchovy pizza
+8 7198 3 // Admiral pie
+8 995 500-3987 // Coins
+
+// Crazy Archaeologist
+Npc: 6618
+3512 16250 1 pet // Giant rat pet
+256 11924 1 announce // Malediction ward
+256 11926 1 announce // Odium ward
+128 11990 1 // Fedora
+128 12542 1 // Clue scroll (hard)
+128 10976 1 // Long bone
+128 11212 75 // Dragon arrow
+32 9194 12 // Onyx bolt tips
+32 240 10 // White berries
+32 1750 10 // Red dragonhide
+32 991 1 // Muddy key
+32 2 150 // Cannonball
+32 4698 30 // Mud rune
+32 868 10 // Rune knife
+32 2501 1 // Red d'hide body
+30 11941 1 // Looting bag
+25 9185 2 // Rune crossbow
+8 1622 6 // Uncut emerald
+8 1624 4 // Uncut sapphire
+8 443 40 // Silver ore
+8 995 522-4000 // Coins
+8 2434 1 // Prayer potion(4)
+8 6705 3 // Potato with cheese
+8 2298 8 // Anchovy pizza
+8 385 1 // Shark
+8 218 4 // Grimy dwarf weed
+8 1731 1 // Amulet of power
+1 526 1 // Bones
+
+// Kraken
+Npc: 496
+3000 12655 1 pet // Pet kraken
+600 12007 1 // Jar of dirt
+512 11905 1 // Trident of the seas (full)
+500 12073 1 // Clue scroll (elite)
+300 12004 1 // Kraken tentacle
+128 1645 1 // Dragonstone ring
+128 5316 1 // Magic seed
+64 384 50 // Raw shark
+32 686 1 // Rusty sword
+32 989 1 // Crystal key
+32 10925 2 // Sanfew serum(4)
+32 1925 1 // Bucket
+32 311 1 // Harpoon
+32 3052 6 // Grimy snapdragon
+32 7945 100 // Raw monkfish
+32 2363 2 // Runite bar
+32 8779 60 // Oak plank
+32 1602 8 // Diamond
+32 568 50 // Unpowered orb
+32 1392 10 // Battlestaff
+32 5304 2 // Torstol seed
+32 565 60 // Blood rune
+32 560 150 // Death rune
+32 4093 1 // Mystic robe bottom (blue)
+32 4091 1 // Mystic robe top (blue)
+32 1303 1 // Rune longsword
+32 1347 1 // Rune warhammer
+32 1403 1 // Mystic water staff
+32 7114 1 // Pirate boots
+18 385 5 // Shark
+8 403 5 // Edible seaweed
+8 995 10000-19999 // Coins
+8 402 125 // Seaweed
+8 5321 24 // Watermelon seed
+8 566 50 // Soul rune
+8 562 250 // Chaos rune
+8 4695 100 // Mist rune
+8 555 400 // Water rune
+
+// Chaos Fanatic
+Npc: 6619
+3216 16157 1 pet // Pet white chaos elemental
+256 11924 1 announce // Malediction ward
+256 11926 1 announce // Odium ward
+128 12542 1 // Clue scroll (hard)
+128 4675 1 // Ancient staff
+32 993 1 // Sinister key
+32 2486 4 // Grimy lantadyme
+32 565 50 // Blood rune
+32 562 175 // Chaos rune
+32 554 250 // Fire rune
+32 3389 1 // Splitbark legs
+32 3387 1 // Splitbark body
+32 2570 1 // Ring of life
+32 1392 5 // Battlestaff
+32 1033 1 // Zamorak robe (bottom)
+32 1035 1 // Zamorak robe (top)
+30 11941 1 // Looting bag
+8 246 10 // Wine of zamorak
+8 7937 250 // Pure essence
+8 1462 1 // Nature talisman
+8 1452 1 // Chaos talisman
+8 1622 6 // Uncut emerald
+8 1624 4 // Uncut sapphire
+8 995 600-4000 // Coins
+8 2434 1 // Prayer potion(4)
+8 385 1 // Shark
+8 7946 3 // Monkfish
+8 2298 8 // Anchovy pizza
+8 4697 30 // Smoke rune
+5 12746 1 // Mysterious emblem
+1 526 1 // Bones
+
+// Vet'ion
+Npc: 6611
+2000 13179 1 pet // Vet'ion jr.
+512 12601 1 announce // Ring of the gods
+400 10976 1 // Long bone
+256 7158 1 // Dragon 2h sword
+171 11920 1 // Dragon pickaxe
+128 208 100 // Grimy ranarr weed
+128 5316 1 // Magic seed
+128 11940 375 // Dark fishing bait
+128 2971 200 // Mort myre fungus
+128 5315 1 // Yew seed
+128 5289 1 // Palm tree seed
+128 2 250 // Cannonball
+128 1319 1 // Rune 2h sword
+100 12073 1 // Clue scroll (elite)
+43 4675 1 // Ancient staff
+32 8779 300 // Oak plank
+32 1631 1 // Uncut dragonstone
+32 537 100 // Dragon bones
+32 445 300 // Gold ore
+32 1514 100 // Magic logs
+32 10926 10 // Sanfew serum(4)
+32 565 200 // Blood rune
+32 560 300 // Death rune
+32 562 400 // Chaos rune
+30 11941 1 // Looting bag
+8 1618 10 // Uncut diamond
+8 1620 20 // Uncut ruby
+8 226 50 // Limpwurt root
+8 995 15000-20000 // Coins
+8 3024 3 // Super restore(4)
+8 11936 8 // Dark crab
+8 1275 1 // Rune pickaxe
+1 532 1 // Big bones
+
+// Tormented demon
+Npc: 11011
+2852 16007 1 pet // Tormented demon pet
+812 20784 1 announce // Dragon claws
+156 3140 1 // Dragon chainbody
+156 1187 1 // Dragon sq shield
+156 4087 1 // Dragon platelegs
+156 11840 1 // Dragon boots
+156 4585 1 // Dragon plateskirt
+32 9194 65 // Onyx bolt tips
+32 240 10 // White berries
+32 1750 10 // Red dragonhide
+32 991 1 // Muddy key
+32 4698 30 // Mud rune
+30 11941 1 // Looting bag
+25 9185 2 // Rune crossbow
+8 1622 6 // Uncut emerald
+8 995 522-16000 // Coins
+8 2434 1 // Prayer potion(4)
+8 6705 3 // Potato with cheese
+8 2298 8 // Anchovy pizza
+8 385 2 // Shark
+8 218 4 // Grimy dwarf weed
+8 1731 1 // Amulet of power
+1 592 1 // Ashes
+
+// Callisto
+Npc: 6503
+2000 13178 1 pet // Callisto cub
+512 12603 1 announce // Tyrannical ring
+256 7158 1 // Dragon 2h sword
+171 11920 1 // Dragon pickaxe
+128 11940 375 // Dark fishing bait
+128 3050 100 // Grimy toadflax
+128 1631 1 // Uncut dragonstone
+128 5289 1 // Palm tree seed
+128 5316 1 // Magic seed
+128 5315 1 // Yew seed
+100 12073 1 // Clue scroll (elite)
+32 6332 400 // Mahogany logs
+32 1750 75 // Red dragonhide
+32 226 50 // Limpwurt root
+32 1514 100 // Magic logs
+32 2 250 // Cannonball
+32 6694 75 // Crushed nest
+32 5975 60 // Coconut
+32 1618 10 // Uncut diamond
+32 1620 20 // Uncut ruby
+32 5295 5 // Ranarr seed
+32 5300 3 // Snapdragon seed
+32 565 200 // Blood rune
+32 562 400 // Chaos rune
+32 560 300 // Death rune
+32 566 250 // Soul rune
+32 1319 1 // Rune 2h sword
+30 11941 1 // Looting bag
+8 995 12000-20000 // Coins
+8 3024 3 // Super restore(4)
+8 11936 8 // Dark crab
+8 1275 1 // Rune pickaxe
+1 532 1 // Big bones
+
+// Ice Strykewyrm
+Npc: 11006
+3100 16008 1 pet // Ice strykewyrm pet
+600 12904 1 announce // Toxic staff of the dead
+350 11791 1 announce // Staff of the dead
+32 2486 4 // Grimy lantadyme
+32 565 99 // Blood rune
+32 562 175 // Chaos rune
+32 554 250 // Fire rune
+32 1392 5 // Battlestaff
+30 11941 1 // Looting bag
+8 7937 250 // Pure essence
+8 1622 6 // Uncut emerald
+8 1624 4 // Uncut sapphire
+8 995 1200-9000 // Coins
+8 2434 1 // Prayer potion(4)
+8 385 1 // Shark
+8 7946 3 // Monkfish
+8 2298 8 // Anchovy pizza
+
+// Chaos elemental
+Npc: 2054
+300 11995 1 pet // Pet chaos elemental
+256 11920 1 // Dragon pickaxe
+200 12073 1 // Clue scroll (elite)
+128 217 1-5 // Grimy dwarf weed
+128 2485 1-5 // Grimy lantadyme
+128 215 1-5 // Grimy cadantine
+128 7158 1 // Dragon 2h sword
+32 995 7500 // Coins
+32 534 2 // Babydragon bones
+32 536 1 // Dragon bones
+32 361 5 // Tuna
+32 213 1-5 // Grimy kwuarm
+32 211 1-5 // Grimy avantoe
+32 209 1-5 // Grimy irit leaf
+32 207 1-5 // Grimy ranarr weed
+32 205 1-5 // Grimy harralander
+32 565 75 // Blood rune
+32 560 125 // Death rune
+32 556 500 // Air rune
+32 562 250 // Chaos rune
+32 1215 1 // Dragon dagger
+30 11941 1 // Looting bag
+8 465 10 // Strange fruit
+8 532 3 // Big bones
+8 530 5 // Bat bones
+8 526 4 // Bones
+8 2297 3 // Anchovy pizza
+8 2442 1 // Super defence(4)
+8 2436 1 // Super attack(4)
+8 2440 1 // Super strength(4)
+8 203 1-5 // Grimy tarromin
+8 201 1-5 // Grimy marrentill
+8 199 1-5 // Grimy guam leaf
+8 892 150 // Rune arrow
+8 809 300 // Mithril dart
+
+// Venenatis
+Npc: 6504
+2000 13177 1 pet // Venenatis spiderling
+512 12605 1 // Treasonous ring
+256 7158 1 // Dragon 2h sword
+171 11920 1 // Dragon pickaxe
+128 11940 375 // Dark fishing bait
+128 3052 100 // Grimy snapdragon
+128 5289 1 // Palm tree seed
+128 5316 1 // Magic seed
+128 5315 1 // Yew seed
+128 1631 1 // Uncut dragonstone
+128 226 50 // Limpwurt root
+100 12073 1 // Clue scroll (elite)
+42 224 500 // Red spiders' eggs
+32 1514 100 // Magic logs
+32 2 250 // Cannonball
+32 445 300 // Gold ore
+32 238 100 // Unicorn horn
+32 868 60 // Rune knife
+32 1319 1 // Rune 2h sword
+32 9243 100 // Diamond bolts (e)
+30 11941 1 // Looting bag
+25 9194 60 // Onyx bolt tips
+8 995 15000-20000 // Coins
+8 3024 3 // Super restore(4)
+8 11936 8 // Dark crab
+8 1618 10 // Uncut diamond
+8 1620 20 // Uncut ruby
+8 565 200 // Blood rune
+8 560 300 // Death rune
+8 562 400 // Chaos rune
+8 1275 1 // Rune pickaxe
+
+// King Black Dragon
+Npc: 239
+3000 12653 1 pet // Prince black dragon
+5000 11286 1 announce // Draconic visage
+1500 11920 1 announce // Dragon pickaxe
+450 12073 1 // Clue scroll (elite)
+128 7980 1 // Kbd heads
+128 1149 1 // Dragon med helm
+32 2361 3 // Adamantite bar
+32 2363 1 // Runite bar
+32 9431 1 // Runite limbs
+32 445 100 // Gold ore
+32 385 4 // Shark
+32 19582 15 // Dragon javelin heads
+32 11237 5-14 // Dragon arrowtips
+32 11232 5-14 // Dragon dart tip
+32 9144 10-25 // Runite bolts
+32 884 690 // Iron arrow
+32 1199 1 // Adamant kiteshield
+8 1516 150 // Yew logs
+8 1731 1 // Amulet of power
+8 563 30 // Law rune
+8 565 30 // Blood rune
+8 556 300 // Air rune
+8 554 300 // Fire rune
+8 1123 1 // Adamant platebody
+8 1303 1 // Rune longsword
+1 1747 2 // Black dragonhide
+1 536 1 // Dragon bones
+
+// Dagannoth Supreme
+Npc: 2265
+5000 12643 1 pet // Pet dagannoth supreme
+750 12073 1 // Clue scroll (elite)
+128 9431 1 // Runite limbs
+128 314 1-500 // Feather
+128 5304 1 // Torstol seed
+128 5303 1 // Dwarf weed seed
+128 5302 1 // Lantadyme seed
+128 5301 1 // Cadantine seed
+128 5299 1 // Kwuarm seed
+128 6733 1 // Archers ring
+128 3749 1 // Archer helm
+128 6135 1 // Spined chaps
+128 6133 1 // Spined body
+128 6739 1 // Dragon axe
+128 6724 1 // Seercull
+42 12542 1 // Clue scroll (hard)
+32 207 1 // Grimy ranarr weed
+32 1518 25-140 // Maple logs
+32 1516 50-143 // Yew logs
+32 385 5 // Shark
+32 5298 1 // Avantoe seed
+32 5296 1 // Toadflax seed
+32 5297 1 // Irit seed
+32 5106 1 // Poison ivy seed
+32 5280 1 // Cactus seed
+32 5281 1 // Belladonna seed
+32 3758 1 // Fremennik shield
+32 9144 2-14 // Runite bolts
+32 830 1-10 // Rune javelin
+32 805 5-10 // Rune thrownaxe
+32 866 31-69 // Mithril knife
+32 865 54-132 // Steel knife
+32 863 214-500 // Iron knife
+32 1357 1 // Adamant axe
+20 13492 1 // Ensouled dagannoth head
+8 413 1 // Oyster pearls
+8 995 900-3000 // Coins
+8 2489 1 // Red d'hide vamb
+8 886 54-98 // Steel arrow
+8 884 218-590 // Iron arrow
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// Dagannoth Prime
+Npc: 2266
+5000 12644 1 pet // Pet dagannoth prime
+750 12073 1 // Clue scroll (elite)
+128 5300 1 // Snapdragon seed
+128 5303 1 // Dwarf weed seed
+128 5302 1 // Lantadyme seed
+128 5301 1 // Cadantine seed
+128 5299 1 // Kwuarm seed
+128 6731 1 // Seers ring
+128 3755 1 // Farseer helm
+128 6141 1 // Skeletal bottoms
+128 6139 1 // Skeletal top
+128 6739 1 // Dragon axe
+128 6562 1 // Mud battlestaff
+128 1392 110 // Battlestaff
+64 565 22-85 // Blood rune
+42 12542 1 // Clue scroll (hard)
+32 385 5 // Shark
+32 207 1 // Grimy ranarr weed
+32 7937 150 // Pure essence
+32 5298 1 // Avantoe seed
+32 5296 1 // Toadflax seed
+32 5297 1 // Irit seed
+32 5106 1 // Poison ivy seed
+32 5280 1 // Cactus seed
+32 5281 1 // Belladonna seed
+32 3758 1 // Fremennik shield
+32 560 22-85 // Death rune
+32 4698 32-44 // Mud rune
+32 556 155 // Air rune
+32 1445 180 // Water talisman
+32 1441 180 // Earth talisman
+32 1439 180 // Air talisman
+20 13492 1 // Ensouled dagannoth head
+8 995 972-3000 // Coins
+8 1395 1 // Water battlestaff
+8 1399 1 // Earth battlestaff
+8 1397 1 // Air battlestaff
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// Dagannoth Rex
+Npc: 2267
+5000 12645 1 pet // Pet dagannoth rex
+896 1454 1 // Cosmic talisman
+896 1446 1 // Body talisman
+896 1442 1 // Fire talisman
+896 1440 1 // Earth talisman
+896 1444 1 // Water talisman
+896 1448 1 // Mind talisman
+896 1438 1 // Air talisman
+750 12073 1 // Clue scroll (elite)
+128 2354 15-38 // Steel bar
+128 441 150 // Iron ore
+128 6735 1 // Warrior ring
+128 6737 1 // Berserker ring
+128 2570 1 // Ring of life
+128 6130 1 // Rock-shell legs
+128 6129 1 // Rock-shell plate
+128 6739 1 // Dragon axe
+42 12542 1 // Clue scroll (hard)
+32 207 1 // Grimy ranarr weed
+32 995 126-3000 // Coins
+32 385 5 // Shark
+32 373 5 // Swordfish
+32 365 5 // Bass
+32 454 100 // Coal
+32 448 25 // Mithril ore
+32 2361 1 // Adamantite bar
+32 129 1 // Restore potion(2)
+32 191 1 // Zamorak brew(2)
+32 165 1 // Super defence(2)
+32 159 1 // Super strength(2)
+32 147 1 // Super attack(2)
+32 141 1 // Prayer potion(2)
+32 2456 1 // Antifire potion(2)
+32 3758 1 // Fremennik shield
+32 1123 1 // Adamant platebody
+32 1359 1 // Rune axe
+32 1273 1 // Mithril pickaxe
+32 1315 1 // Mithril 2h sword
+20 13492 1 // Ensouled dagannoth head
+18 1357 1 // Adamant axe
+8 1119 1 // Steel platebody
+8 1193 1 // Steel kiteshield
+8 1343 1 // Mithril warhammer
+8 3757 1 // Fremennik blade
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// K'ril Tsutsaroth
+Npc: 3129
+5000 12652 1 pet // Pet k'ril tsutsaroth
+508 11816 1 announce // Zamorak hilt
+508 11791 1 announce // Staff of the dead
+406 1289 1 // Rune sword
+256 11822 1 // Godsword shard 3
+256 11820 1 // Godsword shard 2
+256 11818 1 // Godsword shard 1
+250 12073 1 // Clue scroll (elite)
+128 11824 1 // Zamorakian spear
+128 11787 1 // Steam battlestaff
+32 5302 3 // Lantadyme seed
+32 2486 7-13 // Grimy lantadyme
+32 565 80-90 // Blood rune
+32 1215 1 // Dragon dagger
+32 1333 1 // Rune scimitar
+8 560 120-125 // Death rune
+8 995 19362-20073 // Coins
+8 189 3 // Zamorak brew(3)
+8 3026 3 // Super restore(3)
+8 157 3 // Super strength(3)
+8 145 3 // Super attack(3)
+8 1123 1 // Adamant platebody
+8 1079 1 // Rune platelegs
+8 890 295-300 // Adamant arrow
+1 592 1 // Ashes
+
+// Commander Zilyana
+Npc: 2205
+5000 12651 1 pet // Pet zilyana
+508 11814 1 announce // Saradomin hilt
+508 11785 1 announce // Armadyl crossbow
+406 1289 1 // Rune sword
+256 11822 1 // Godsword shard 3
+256 11820 1 // Godsword shard 2
+256 11818 1 // Godsword shard 1
+254 13256 1 // Saradomin's light
+250 12073 1 // Clue scroll (elite)
+128 5316 1 // Magic seed
+127 11838 1 // Saradomin sword
+32 1602 6 // Diamond
+32 3042 3 // Magic potion(3)
+32 2442 3 // Super defence(4)
+32 1201 1 // Rune kiteshield
+32 1123 1 // Adamant platebody
+21 3024 3 // Super restore(4)
+21 6687 3 // Saradomin brew(3)
+15 2434 3 // Prayer potion(4)
+8 995 19362-20300 // Coins
+8 5295 2 // Ranarr seed
+8 208 5 // Grimy ranarr weed
+8 1093 1 // Rune plateskirt
+8 563 95-105 // Law rune
+8 811 35-40 // Rune dart
+1 526 1 // Bones
+
+// General Graardor
+Npc: 2215
+5000 12650 1 pet // Pet general graardor
+508 11812 1 announce // Bandos hilt
+384 11836 1 announce // Bandos boots
+384 11834 1 announce // Bandos tassets
+384 11832 1 announce // Bandos chestplate
+256 11822 1 // Godsword shard 3
+256 11820 1 // Godsword shard 2
+256 11818 1 // Godsword shard 1
+250 12073 1 // Clue scroll (elite)
+32 3052 3 // Grimy snapdragon
+32 3024 3 // Super restore(4)
+32 1514 15-20 // Magic logs
+32 5300 1 // Snapdragon seed
+32 561 60-70 // Nature rune
+8 995 19581-21000 // Coins
+8 454 115-120 // Coal
+8 450 15-20 // Adamantite ore
+8 1127 1 // Rune platebody
+8 1303 1 // Rune longsword
+8 1275 1 // Rune pickaxe
+8 1319 1 // Rune 2h sword
+1 532 1 // Big bones
+
+// Kree'arra
+Npc: 3162
+5000 12649 1 pet // Pet kree'arra
+508 11810 1 announce // Armadyl hilt
+384 11830 1 announce // Armadyl chainskirt
+384 11828 1 announce // Armadyl chestplate
+384 11826 1 announce // Armadyl helmet
+256 11822 1 // Godsword shard 3
+256 11820 1 // Godsword shard 2
+256 11818 1 // Godsword shard 1
+250 12073 1 // Clue scroll (elite)
+128 5315 1 // Yew seed
+64 989 1 // Crystal key
+32 163 3 // Super defence(3)
+32 169 3 // Ranging potion(3)
+32 9244 5-15 // Dragonstone bolts (e)
+32 892 100-105 // Rune arrow
+32 558 500-601 // Mind rune
+8 5303 3 // Dwarf weed seed
+8 268 5-22 // Dwarf weed
+8 995 18000-21000 // Coins
+8 9144 18-25 // Runite bolts
+8 2503 1 // Black d'hide body
+8 9185 1 // Rune crossbow
+1 314 1-15 // Feather
+1 532 1 // Big bones
+
+// Elder chaos druid
+Npc: 6607
+500 20520 1 // Elder chaos robe
+500 20517 1 // Elder chaos top
+500 20595 1 // Elder chaos hood
+128 12542 1 // Clue scroll (hard)
+128 1594 1 // Unholy mould
+128 231 4 // Snape grass
+128 11940 10-24 // Dark fishing bait
+128 227 4 // Vial of water
+128 217 1-4 // Grimy dwarf weed
+128 2485 1-4 // Grimy lantadyme
+128 215 1-4 // Grimy cadantine
+128 207 1-4 // Grimy ranarr weed
+128 1033 1 // Zamorak robe (bottom)
+128 1035 1 // Zamorak robe (top)
+128 561 12 // Nature rune
+128 561 3 // Nature rune
+32 211 1-4 // Grimy avantoe
+32 1295 1 // Steel longsword
+32 562 7 // Chaos rune
+32 557 19 // Earth rune
+30 11941 1 // Looting bag
+20 13471 1 // Ensouled chaos druid head
+8 995 80-250 // Coins
+8 213 1-4 // Grimy kwuarm
+8 209 1-4 // Grimy irit leaf
+8 205 1-4 // Grimy harralander
+8 203 1-4 // Grimy tarromin
+8 201 1-4 // Grimy marrentill
+8 199 1-4 // Grimy guam leaf
+8 9142 2-28 // Mithril bolts
+8 563 6 // Law rune
+8 558 22 // Mind rune
+8 559 19 // Body rune
+8 559 9 // Body rune
+8 556 56 // Air rune
+8 556 9-36 // Air rune
+1 526 1 // Bones
+
+// Abyssal demon
+Npc: 415
+32768 13265 1 announce // Abyssal dagger
+1200 12073 1 // Clue scroll (elite)
+512 4151 1 announce // Abyssal whip
+128 12542 1 // Clue scroll (hard)
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 1319 1 // Rune 2h sword
+32 133 1 // Defence potion(3)
+32 2361 1 // Adamantite bar
+32 1452 1 // Chaos talisman
+32 1454 1 // Cosmic talisman
+32 563 3 // Law rune
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 1147 1 // Rune med helm
+32 1113 1 // Rune chainbody
+32 1197 1 // Mithril kiteshield
+25 13507 1 // Ensouled abyssal head
+8 7937 60 // Pure essence
+8 379 1 // Lobster
+8 995 30-460 // Coins
+8 562 10 // Chaos rune
+8 565 7 // Blood rune
+8 556 50 // Air rune
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 1365 1 // Steel battleaxe
+8 1361 1 // Black axe
+8 1283 1 // Black sword
+1 592 1 // Ashes
+
+// Dark beast
+Npc: 4005
+1200 12073 1 // Clue scroll (elite)
+512 11235 1 announce // Dark bow
+256 5304 1 // Torstol seed
+128 12542 1 // Clue scroll (hard)
+128 1456 1 // Death talisman
+128 5106 1 // Poison ivy seed
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+32 385 1-2 // Shark
+32 121 1 // Attack potion(3)
+32 2363 1 // Runite bar
+32 452 1 // Runite ore
+32 2362 3 // Adamantite bar
+32 450 5 // Adamantite ore
+32 5301 1 // Cadantine seed
+32 5300 1 // Snapdragon seed
+32 5299 1 // Kwuarm seed
+32 5298 1 // Avantoe seed
+32 5297 1 // Irit seed
+32 5296 1 // Toadflax seed
+32 5280 1 // Cactus seed
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 565 10-15 // Blood rune
+32 562 30 // Chaos rune
+32 1163 1 // Rune full helm
+32 1147 1 // Rune med helm
+32 1113 1 // Rune chainbody
+32 1373 1 // Rune battleaxe
+32 1319 1 // Rune 2h sword
+32 1361 1 // Black axe
+8 995 64-220 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 560 20 // Death rune
+8 1183 1 // Adamant sq shield
+8 1367 1 // Black battleaxe
+8 1313 1 // Black 2h sword
+1 532 1 // Big bones
+
+// Lava dragon
+Npc: 6593
+10000 11286 1 announce // Draconic visage
+250 12073 1 // Clue scroll (elite)
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+32 2361 2 // Adamantite bar
+32 1897 3 // Chocolate cake
+32 570 15 // Fire orb
+32 1442 1 // Fire talisman
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 203 1 // Grimy tarromin
+32 201 1 // Grimy marrentill
+32 199 1 // Grimy guam leaf
+32 1163 1 // Rune full helm
+32 1147 1 // Rune med helm
+32 1201 1 // Rune kiteshield
+32 1123 1 // Adamant platebody
+32 1359 1 // Rune axe
+32 3053 1 // Lava battlestaff
+32 1303 1 // Rune longsword
+32 1317 1 // Adamant 2h sword
+32 19582 15 // Dragon javelin heads
+32 9194 12 // Onyx bolt tips
+32 563 20 // Law rune
+32 565 20 // Blood rune
+32 560 20 // Death rune
+32 9144 30 // Runite bolts
+32 868 8 // Rune knife
+30 11941 1 // Looting bag
+8 995 66-3000 // Coins
+8 4699 15-30 // Lava rune
+8 554 75 // Fire rune
+8 830 20 // Rune javelin
+8 811 12 // Rune dart
+1 11992 1 // Lava scale
+1 1747 1 // Black dragonhide
+1 11943 1 // Lava dragon bones
+
+// Battle mage
+Npc: 1610 1611 1612
+600 6889 1 announce // Mages' book
+600 6914 1 announce // Master wand
+300 6920 1 // Infinity boots
+300 6922 1 // Infinity gloves
+300 6918 1 // Infinity hat
+300 6924 1 // Infinity bottoms
+300 6916 1 // Infinity top
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+52 565 100 // Blood rune
+52 560 3-100 // Death rune
+1 526 1 // Bones
+
+// Revenant hellhound
+Npc: 11009
+100 14876 1 // Ancient statuette
+55 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+128 1127 1 // Rune platebody
+
+// Revenant dark beast
+Npc: 11007
+100 14876 1 // Ancient statuette
+55 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+8 1093 1 // Rune plateskirt
+128 1303 1 // Rune longsword
+
+// Revenant ork
+Npc: 11010
+100 14876 1 // Ancient statuette
+65 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+128 1303 1 // Rune longsword
+128 1123 1 // Adamant platebody
+
+// Revenant knight
+Npc: 7939
+9600 16203 1 pet // Revenant knight pet
+1000 4088 100 announce // Dragon platelegs
+200 21817 1 // Bracelet of ethereum
+200 14876 1 // Ancient statuette
+100 14877 1 // Seren statuette
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+8 1093 1 // Rune plateskirt
+8 1079 1 // Rune platelegs
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+
+// Revenant dragon
+Npc: 11124
+6800 16198 1 pet // Revenant dragon pet
+1000 4088 100 announce // Dragon platelegs
+200 21817 1 // Bracelet of ethereum
+200 14876 1 // Ancient statuette
+100 14877 1 // Seren statuette
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+128 1127 1 // Rune platebody
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+
+// Revenant demon
+Npc: 7936
+9600 16204 1 pet // Revenant demon pet
+500 4586 100 announce // Dragon plateskirt
+200 21817 1 // Bracelet of ethereum
+200 14876 1 // Ancient statuette
+100 14877 1 // Seren statuette
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+32 1163 1 // Rune full helm
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+
+// Nechryael
+Npc: 8
+128 11840 1 // Dragon boots
+128 12542 1 // Clue scroll (hard)
+128 5304 1-2 // Torstol seed
+128 5300 1-2 // Snapdragon seed
+128 5301 1-2 // Cadantine seed
+128 4131 1 // Rune boots
+32 1762 25 // Soft clay
+32 361 1 // Tuna
+32 5302 1-2 // Lantadyme seed
+32 5303 1-2 // Dwarf weed seed
+32 5106 1-2 // Poison ivy seed
+32 5280 1-2 // Cactus seed
+32 5297 1-2 // Irit seed
+32 5296 1-2 // Toadflax seed
+32 5299 1-2 // Kwuarm seed
+32 5298 1-2 // Avantoe seed
+32 565 5-20 // Blood rune
+32 565 17 // Blood rune
+32 1163 1 // Rune full helm
+32 1073 1 // Adamant platelegs
+32 1199 1 // Adamant kiteshield
+32 1319 1 // Rune 2h sword
+20 226 15 // Limpwurt root
+8 995 300-5000 // Coins
+8 5281 1-2 // Belladonna seed
+8 562 50 // Chaos rune
+8 562 37 // Chaos rune
+8 560 10 // Death rune
+8 560 5 // Death rune
+8 563 25-35 // Law rune
+1 592 1 // Ashes
+
+// Dust devil
+Npc: 423
+32768 3140 1 announce // Dragon chainbody
+4000 20736 1 // Dust battlestaff
+128 2362 4 // Adamantite bar
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 1215 1 // Dragon dagger
+128 1407 1 // Mystic earth staff
+128 1405 1 // Mystic air staff
+64 1883 4 // Ugthanki kebab
+32 2360 10 // Mithril bar
+32 207 1 // Grimy ranarr weed
+32 213 1 // Grimy kwuarm
+32 209 1 // Grimy irit leaf
+32 205 1 // Grimy harralander
+32 211 1 // Grimy avantoe
+32 566 50 // Soul rune
+32 566 20 // Soul rune
+32 562 80 // Chaos rune
+32 1399 1 // Earth battlestaff
+32 1397 1 // Air battlestaff
+32 2491 1 // Black d'hide vamb
+32 2489 1 // Red d'hide vamb
+32 1213 1 // Rune dagger
+32 1357 1 // Adamant axe
+8 995 2000-4000 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 554 300 // Fire rune
+8 554 50 // Fire rune
+8 557 300 // Earth rune
+8 4696 200 // Dust rune
+8 892 12 // Rune arrow
+1 526 1 // Bones
+
+// Iron Dragon
+Npc: 272
+10000 11286 1 announce // Draconic visage
+1024 4087 1 // Dragon platelegs
+1024 4585 1 // Dragon plateskirt
+128 12542 1 // Clue scroll (hard)
+128 9144 3-12 // Runite bolts
+32 161 1 // Super strength(1)
+32 9431 1 // Runite limbs
+32 2011 1 // Curry
+32 2361 2 // Adamantite bar
+32 566 3 // Soul rune
+32 817 9 // Rune dart(p)
+32 9143 2-12 // Adamant bolts
+32 1147 1 // Rune med helm
+32 868 5 // Rune knife
+32 1373 1 // Rune battleaxe
+32 1183 1 // Adamant sq shield
+32 1317 1 // Adamant 2h sword
+8 995 990 // Coins
+8 995 550 // Coins
+8 995 270 // Coins
+8 830 4 // Rune javelin
+8 565 15 // Blood rune
+8 1371 1 // Adamant battleaxe
+8 1357 1 // Adamant axe
+1 2351 5 // Iron bar
+1 536 1 // Dragon bones
+
+// Steel Dragon
+Npc: 274
+10000 11286 1 announce // Draconic visage
+512 4087 1 // Dragon platelegs
+512 4585 1 // Dragon plateskirt
+500 12073 1 // Clue scroll (elite)
+128 1163 1 // Rune full helm
+128 1359 1 // Rune axe
+64 12542 1 // Clue scroll (hard)
+32 161 1 // Super strength(1)
+32 165 1 // Super defence(2)
+32 2363 1 // Runite bar
+32 2011 1-2 // Curry
+32 995 650 // Coins
+32 995 470 // Coins
+32 566 5 // Soul rune
+32 817 9-12 // Rune dart(p)
+32 9144 2-12 // Runite bolts
+32 19582 12 // Dragon javelin heads
+32 868 5-7 // Rune knife
+32 1199 1 // Adamant kiteshield
+8 145 1 // Super attack(3)
+8 9431 1 // Runite limbs
+8 830 2-7 // Rune javelin
+8 565 20 // Blood rune
+8 565 15 // Blood rune
+8 1432 1 // Rune mace
+1 2353 5 // Steel bar
+1 536 1 // Dragon bones
+
+// Black dragon
+Npc: 252
+10000 11286 1 announce // Draconic visage
+500 12073 1 // Clue scroll (elite)
+128 12542 1 // Clue scroll (hard)
+128 1303 1 // Rune longsword
+128 1123 1 // Adamant platebody
+35 13510 1 // Ensouled dragon head
+32 12746 1 // Mysterious emblem
+32 1897 1 // Chocolate cake
+32 2361 2 // Adamantite bar
+32 2361 1 // Adamantite bar
+32 19582 10-25 // Dragon javelin heads
+32 565 15 // Blood rune
+32 563 10 // Law rune
+32 556 75 // Air rune
+32 868 2 // Rune knife
+32 1315 1 // Mithril 2h sword
+32 1197 1 // Mithril kiteshield
+32 1369 1 // Mithril battleaxe
+32 1355 1 // Mithril axe
+8 995 690 // Coins
+8 995 330 // Coins
+8 995 196 // Coins
+8 554 50 // Fire rune
+8 829 60 // Adamant javelin
+8 829 30 // Adamant javelin
+8 816 16 // Adamant dart(p)
+1 1747 1 // Black dragonhide
+1 536 1 // Dragon bones
+
+// Brutal black dragon
+Npc: 7275
+10000 11286 1 announce // Draconic visage
+512 1631 1 // Uncut dragonstone
+512 1249 1 // Dragon spear
+512 4585 1 // Dragon plateskirt
+512 4087 1 // Dragon platelegs
+250 12073 1 // Clue scroll (elite)
+128 452 3 // Runite ore
+128 1149 1 // Dragon med helm
+128 2491 1 // Black d'hide vamb
+128 2503 1 // Black d'hide body
+128 1127 1 // Rune platebody
+128 1305 1 // Dragon longsword
+128 1215 1 // Dragon dagger
+42 11232 40 // Dragon dart tip
+32 12542 1 // Clue scroll (hard)
+32 19582 40 // Dragon javelin heads
+32 11237 40 // Dragon arrowtips
+32 11993 5 // Lava scale
+32 805 30 // Rune thrownaxe
+32 868 25 // Rune knife
+32 892 75 // Rune arrow
+32 566 50 // Soul rune
+32 565 50 // Blood rune
+32 1163 2 // Rune full helm
+32 1079 1 // Rune platelegs
+32 1303 1 // Rune longsword
+32 1247 1 // Rune spear
+20 13510 1 // Ensouled dragon head
+8 995 370-2200 // Coins
+8 13441 2 // Anglerfish
+8 560 75 // Death rune
+8 563 75 // Law rune
+8 811 20 // Rune dart
+8 830 50 // Rune javelin
+1 1747 2 // Black dragonhide
+1 536 1 // Dragon bones
+
+// Brutal red dragon
+Npc: 7274
+10000 11286 1 announce // Draconic visage
+500 12073 1 // Clue scroll (elite)
+128 12542 1 // Clue scroll (hard)
+128 1247 1 // Rune spear
+128 1215 1 // Dragon dagger
+128 1305 1 // Dragon longsword
+128 1149 1 // Dragon med helm
+128 1127 1 // Rune platebody
+42 11232 8 // Dragon dart tip
+32 2011 3 // Curry
+32 19582 12-15 // Dragon javelin heads
+32 11237 8 // Dragon arrowtips
+32 452 2 // Runite ore
+32 240 5 // White berries
+32 566 25 // Soul rune
+32 560 25 // Death rune
+32 565 12 // Blood rune
+32 563 25 // Law rune
+32 1073 1 // Adamant platelegs
+32 1163 2 // Rune full helm
+32 1303 1 // Rune longsword
+32 805 15 // Rune thrownaxe
+32 868 10 // Rune knife
+32 892 25 // Rune arrow
+32 810 20 // Adamant dart
+32 1161 1 // Adamant full helm
+32 829 20 // Adamant javelin
+20 13510 1 // Ensouled dragon head
+8 995 670 // Coins
+8 556 105 // Air rune
+8 2501 1 // Red d'hide body
+8 2489 1 // Red d'hide vamb
+1 1749 2 // Red dragonhide
+1 536 1 // Dragon bones
+
+// Brutal blue dragon
+Npc: 7273
+10000 11286 1 announce // Draconic visage
+750 12073 1 // Clue scroll (elite)
+128 12542 1 // Clue scroll (hard)
+128 19582 15 // Dragon javelin heads
+128 19582 12 // Dragon javelin heads
+128 11237 5 // Dragon arrowtips
+128 1149 1 // Dragon med helm
+128 1127 1 // Rune platebody
+128 1163 1 // Rune full helm
+128 1215 1 // Dragon dagger
+128 1305 1 // Dragon longsword
+64 2499 1 // Blue d'hide body
+42 11232 5 // Dragon dart tip
+32 244 5 // Blue dragon scale
+32 452 1 // Runite ore
+32 805 10 // Rune thrownaxe
+32 868 5 // Rune knife
+32 830 20 // Rune javelin
+32 810 10 // Adamant dart
+32 892 25 // Rune arrow
+32 892 15 // Rune arrow
+32 562 18 // Chaos rune
+32 560 11 // Death rune
+32 563 15 // Law rune
+32 556 50 // Air rune
+32 2487 1 // Blue d'hide vamb
+32 1073 1 // Adamant platelegs
+32 1159 1 // Mithril full helm
+32 1303 1 // Rune longsword
+32 1245 1 // Adamant spear
+20 13510 1 // Ensouled dragon head
+8 2011 2 // Curry
+8 995 370 // Coins
+1 1751 2 // Blue dragonhide
+1 536 1 // Dragon bones
+
+// Brutal green dragon
+Npc: 8081
+128 12542 1 // Clue scroll (hard)
+128 890 90 // Adamant arrow
+128 1163 1 // Rune full helm
+128 1113 1 // Rune chainbody
+32 2011 1-2 // Curry
+32 447 5 // Mithril ore
+32 217 1 // Grimy dwarf weed
+32 2485 1 // Grimy lantadyme
+32 215 1 // Grimy cadantine
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 867 8 // Adamant knife
+32 829 1 // Adamant javelin
+32 810 25 // Adamant dart
+32 805 8 // Rune thrownaxe
+32 890 8 // Adamant arrow
+32 563 15 // Law rune
+32 556 34 // Air rune
+32 561 17 // Nature rune
+32 4694 37 // Steam rune
+32 1199 1 // Adamant kiteshield
+32 1145 1 // Adamant med helm
+32 1215 1 // Dragon dagger
+32 1317 1 // Adamant 2h sword
+28 13510 1 // Ensouled dragon head
+8 995 1-1813 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 4699 35 // Lava rune
+8 565 15-20 // Blood rune
+1 1753 2 // Green dragonhide
+1 536 1 // Dragon bones
+
+// Tzhaar-xil
+Npc: 2167
+512 6568 1 // Obsidian cape
+512 6525 1 // Toktz-xil-ek
+512 6523 1 // Toktz-xil-ak
+512 6522 9-29 // Toktz-xil-ul
+128 1617 1 // Uncut diamond
+32 1619 1 // Uncut ruby
+32 1621 1 // Uncut emerald
+32 1623 1 // Uncut sapphire
+8 6529 1-57 // Tokkul
+
+// Zakl'n Gritch
+Npc: 3131
+5400 11824 1 // Zamorakian spear
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 385 2 // Shark
+32 245 5-10 // Wine of zamorak
+32 157 1 // Super strength(3)
+32 7060 2 // Tuna potato
+32 560 5-10 // Death rune
+32 565 5-10 // Blood rune
+32 886 95-100 // Steel arrow
+32 808 96-100 // Steel dart
+8 995 1300-1500 // Coins
+1 592 1 // Ashes
+
+// Balfrug Kreeyath
+Npc: 3132
+5400 11824 1 // Zamorakian spear
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 145 1 // Super attack(3)
+32 157 1 // Super strength(3)
+32 886 98 // Steel arrow
+32 7060 2 // Tuna potato
+32 385 3 // Shark
+32 245 3-10 // Wine of zamorak
+32 808 98 // Steel dart
+1 592 1 // Ashes
+
+// Sergeant Steelwill
+Npc: 2217
+16200 11836 1 // Bandos boots
+16200 11834 1 announce // Bandos tassets
+16200 11832 1 announce // Bandos chestplate
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+8 7054 3 // Chilli potato
+8 1025 1 // Right eye patch
+8 9741 1 // Combat potion(3)
+8 385 2 // Shark
+8 1971 1 // Kebab
+8 1917 1 // Beer
+8 226 5 // Limpwurt root
+8 995 1300-1500 // Coins
+8 886 95-100 // Steel arrow
+8 564 25-30 // Cosmic rune
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Sergeant Grimespike
+Npc: 2218
+16200 11836 1 // Bandos boots
+16200 11834 1 announce // Bandos tassets
+16200 11832 1 announce // Bandos chestplate
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+8 7054 3 // Chilli potato
+8 385 2 // Shark
+8 1025 1 // Right eye patch
+8 9741 1 // Combat potion(3)
+8 995 1300-1500 // Coins
+8 886 95-100 // Steel arrow
+8 561 15-20 // Nature rune
+8 564 25-30 // Cosmic rune
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Sergeant Strongstack
+Npc: 2216
+16200 11836 1 // Bandos boots
+16200 11834 1 announce // Bandos tassets
+16200 11832 1 announce // Bandos chestplate
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+8 7054 3 // Chilli potato
+8 385 2 // Shark
+8 1025 1 // Right eye patch
+8 9741 1 // Combat potion(3)
+8 995 1300-1450 // Coins
+8 886 95-100 // Steel arrow
+8 561 19-28 // Nature rune
+8 564 25-30 // Cosmic rune
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Wingman Skree
+Npc: 3163
+16200 11830 1 announce // Armadyl chainskirt
+16200 11828 1 announce // Armadyl chestplate
+16200 11826 1 announce // Armadyl helmet
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 213 1 // Grimy kwuarm
+32 6693 2 // Crushed nest
+32 7058 3 // Mushroom potato
+32 391 2 // Manta ray
+32 4697 15-25 // Smoke rune
+8 995 1300-1500 // Coins
+8 808 95-100 // Steel dart
+8 886 95-100 // Steel arrow
+
+// Flockleader Geerin
+Npc: 3164
+16200 11830 1 announce // Armadyl chainskirt
+16200 11828 1 announce // Armadyl chestplate
+16200 11826 1 announce // Armadyl helmet
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 6693 2 // Crushed nest
+32 7058 3 // Mushroom potato
+32 391 2 // Manta ray
+8 213 1 // Grimy kwuarm
+8 995 1000-1050 // Coins
+8 886 95-100 // Steel arrow
+8 808 95-100 // Steel dart
+8 4697 13-25 // Smoke rune
+
+// Flight Kilisa
+Npc: 3165
+16200 11830 1 announce // Armadyl chainskirt
+16200 11828 1 announce // Armadyl chestplate
+16200 11826 1 announce // Armadyl helmet
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 6693 2 // Crushed nest
+32 7058 3 // Mushroom potato
+32 391 2 // Manta ray
+8 995 1006-1500 // Coins
+
+// Bree
+Npc: 2208
+5400 11838 1 // Saradomin sword
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 7946 3 // Monkfish
+32 7218 1 // Summer pie
+32 231 5 // Snape grass
+32 237 6 // Unicorn horn
+32 208 1 // Grimy ranarr weed
+8 995 1300-1500 // Coins
+8 886 95-100 // Steel arrow
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Growler
+Npc: 2207
+5400 11838 1 // Saradomin sword
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 7946 3 // Monkfish
+32 238 6 // Unicorn horn
+32 7218 1 // Summer pie
+32 208 1 // Grimy ranarr weed
+8 232 5 // Snape grass
+8 995 1300-2000 // Coins
+8 886 95-100 // Steel arrow
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Starlight
+Npc: 2206
+5400 11838 1 // Saradomin sword
+1524 11822 1 // Godsword shard 3
+1524 11820 1 // Godsword shard 2
+1524 11818 1 // Godsword shard 1
+128 12542 1 // Clue scroll (hard)
+32 7946 3 // Monkfish
+32 238 6 // Unicorn horn
+32 7218 1 // Summer pie
+32 208 1 // Grimy ranarr weed
+8 232 5 // Snape grass
+8 995 1300-2000 // Coins
+8 886 97-100 // Steel arrow
+8 563 7-10 // Law rune
+8 808 95-100 // Steel dart
+1 526 1 // Bones
+
+// Green dragon
+Npc: 260 261 262 263 264
+42 1355 1 // Mithril axe
+35 13510 1 // Ensouled dragon head
+32 565 5 // Blood rune
+32 560 15 // Death rune
+32 563 9 // Law rune
+32 447 2 // Mithril ore
+32 7946 1 // Monkfish
+32 1199 1 // Adamant kiteshield
+32 1287 1 // Adamant sword
+32 1211 1 // Adamant dagger
+32 1071 1 // Mithril platelegs
+32 1315 1 // Mithril 2h sword
+32 1369 1 // Mithril battleaxe
+32 449 1 // Adamantite ore
+32 1213 1 // Rune dagger
+32 1197 1 // Mithril kiteshield
+32 1243 1 // Mithril spear
+32 217 1 // Grimy dwarf weed
+32 2485 1 // Grimy lantadyme
+32 213 1 // Grimy kwuarm
+32 207 1 // Grimy ranarr weed
+32 203 1 // Grimy tarromin
+32 201 1 // Grimy marrentill
+32 215 1 // Grimy cadantine
+32 211 1 // Grimy avantoe
+32 199 1 // Grimy guam leaf
+32 1161 1 // Adamant full helm
+30 11941 1 // Looting bag
+8 995 105-709 // Coins
+8 365 1 // Bass
+8 563 3 // Law rune
+8 561 15 // Nature rune
+8 554 37 // Fire rune
+8 555 75 // Water rune
+8 1069 1 // Steel platelegs
+8 1365 1 // Steel battleaxe
+8 205 1 // Grimy harralander
+8 209 1 // Grimy irit leaf
+1 1753 1 // Green dragonhide
+1 536 1 // Dragon bones
+
+// Blue dragon
+Npc: 265
+128 12542 1 // Clue scroll (hard)
+128 217 1 // Grimy dwarf weed
+128 1213 1 // Rune dagger
+128 1161 1 // Adamant full helm
+50 13510 1 // Ensouled dragon head
+32 365 1 // Bass
+32 449 1 // Adamantite ore
+32 207 1 // Grimy ranarr weed
+32 2485 1 // Grimy lantadyme
+32 213 1 // Grimy kwuarm
+32 209 1 // Grimy irit leaf
+32 215 1 // Grimy cadantine
+32 211 1 // Grimy avantoe
+32 563 3 // Law rune
+32 554 37 // Fire rune
+32 561 15 // Nature rune
+32 555 75 // Water rune
+32 1197 1 // Mithril kiteshield
+32 1069 1 // Steel platelegs
+32 1243 1 // Mithril spear
+32 1355 1 // Mithril axe
+8 995 11-400 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 205 1 // Grimy harralander
+8 199 1 // Grimy guam leaf
+8 1365 1 // Steel battleaxe
+1 1751 1 // Blue dragonhide
+1 536 1 // Dragon bones
+
+// Red dragon
+Npc: 247
+256 217 1 // Grimy dwarf weed
+128 12542 1 // Clue scroll (hard)
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+40 13510 1 // Ensouled dragon head
+32 19582 10 // Dragon javelin heads
+32 2361 1 // Adamantite bar
+32 1897 3 // Chocolate cake
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 565 2 // Blood rune
+32 560 5 // Death rune
+32 563 4 // Law rune
+32 1303 1 // Rune longsword
+32 811 8 // Rune dart
+32 892 4 // Rune arrow
+32 1369 1 // Mithril battleaxe
+32 1123 1 // Adamant platebody
+32 1197 1 // Mithril kiteshield
+8 995 30-690 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 1355 1 // Mithril axe
+8 828 20 // Mithril javelin
+8 1315 1 // Mithril 2h sword
+1 1749 1 // Red dragonhide
+1 536 1 // Dragon bones
+
+// Baby dragon
+Npc: 137 243 1871 5194
+1 534 1 // Baby dragon bone
+
+// Chicken
+Npc: 2692
+1 314 5-15 // Feather
+1 2138 1 // Raw chicken
+1 526 1 // Bones
+
+// Cow
+Npc: 2805
+1 526 1 // Bones
+1 2132 1 // Raw beef
+1 1739 1 // Cowhide
+
+// Yak
+Npc: 5816
+1 526 1 // Bones
+1 10818 1 // Yak-hide
+1 10814 1 // Hair
+1 10816 1 // Raw yak meat
+
+// Wyvern
+Npc: 465
+10000 11286 1 announce // Draconic visage
+512 6809 1 // Granite legs
+512 4087 1 // Dragon platelegs
+512 4585 1 // Dragon plateskirt
+350 12073 1 // Clue scroll (elite)
+128 566 20 // Soul rune
+32 379 6 // Lobster
+32 2434 2 // Prayer potion(4)
+32 1392 10 // Battlestaff
+32 1618 5 // Uncut diamond
+32 1620 10 // Uncut ruby
+32 441 200 // Iron ore
+32 568 75 // Unpowered orb
+32 2362 10 // Adamantite bar
+32 1514 35 // Magic logs
+32 217 1-3 // Grimy dwarf weed
+32 2485 1-3 // Grimy lantadyme
+32 215 1-3 // Grimy cadantine
+32 213 1-3 // Grimy kwuarm
+32 211 1-3 // Grimy avantoe
+32 209 1-3 // Grimy irit leaf
+32 207 1-3 // Grimy ranarr weed
+32 5300 1 // Snapdragon seed
+32 5295 3 // Ranarr seed
+32 892 36 // Rune arrow
+32 9144 5-44 // Runite bolts
+32 9143 7-99 // Adamant bolts
+32 565 25 // Blood rune
+32 560 40 // Death rune
+32 563 45 // Law rune
+32 562 80 // Chaos rune
+32 7937 250 // Pure essence
+32 1163 1 // Rune full helm
+32 1201 1 // Rune kiteshield
+32 1347 1 // Rune warhammer
+32 1373 1 // Rune battleaxe
+32 1359 1 // Rune axe
+8 995 300 // Coins
+8 205 1-3 // Grimy harralander
+8 203 1-3 // Grimy tarromin
+8 201 1-3 // Grimy marrentill
+8 199 1-3 // Grimy guam leaf
+8 555 150 // Water rune
+8 556 225 // Air rune
+8 1399 1 // Earth battlestaff
+1 6812 1 // Wyvern bones
+
+// Dark wizard
+Npc: 2870 5086 5087 5089
+128 1444 1 // Water talisman
+128 564 1-2 // Cosmic rune
+128 563 1-3 // Law rune
+128 565 2 // Blood rune
+32 579 1 // Wizard hat
+32 581 1 // Black robe
+18 561 4 // Nature rune
+8 995 1-30 // Coins
+8 1379 1 // Staff
+8 559 10 // Body rune
+8 558 10 // Mind rune
+8 562 4 // Chaos rune
+8 555 10 // Water rune
+8 554 10 // Fire rune
+8 557 10 // Earth rune
+8 556 10 // Air rune
+1 526 1 // Bones
+
+// Rock crab
+Npc: 100
+128 12162 1 // Clue scroll (easy)
+128 5295 1 // Ranarr seed
+128 5293 1 // Tarromin seed
+128 211 1 // Grimy avantoe
+128 207 1 // Grimy ranarr weed
+128 225 1 // Limpwurt root
+128 9187 1 // Jade bolt tips
+128 403 2 // Edible seaweed
+128 562 1 // Chaos rune
+32 313 1-10 // Fishing bait
+32 438 3 // Tin ore
+32 436 3 // Copper ore
+32 453 2 // Coal
+32 440 1 // Iron ore
+32 946 1 // Knife
+32 1969 1 // Spinach roll
+32 561 4 // Nature rune
+32 1351 1 // Bronze axe
+8 409 1 // Empty oyster
+8 411 1 // Oyster pearl
+8 401 1-5 // Seaweed
+8 407 1-2 // Oyster
+8 995 4-413 // Coins
+8 554 7 // Fire rune
+8 1267 1 // Iron pickaxe
+8 1265 1 // Bronze pickaxe
+
+// Sand crab and Ammonite crab
+Npc: 7206 7799
+128 12162 1 // Clue scroll (easy)
+128 5295 1 // Ranarr seed
+128 5293 1 // Tarromin seed
+128 211 1 // Grimy avantoe
+128 207 1 // Grimy ranarr weed
+128 225 1 // Limpwurt root
+128 9187 1 // Jade bolt tips
+128 403 2 // Edible seaweed
+128 562 1 // Chaos rune
+32 313 1-10 // Fishing bait
+32 438 3 // Tin ore
+32 436 3 // Copper ore
+32 453 2 // Coal
+32 440 1 // Iron ore
+32 946 1 // Knife
+32 1969 1 // Spinach roll
+32 561 4 // Nature rune
+32 1351 1 // Bronze axe
+8 409 1 // Empty oyster
+8 411 1 // Oyster pearl
+8 401 1-5 // Seaweed
+8 407 1-2 // Oyster
+8 995 4-413 // Coins
+8 554 7 // Fire rune
+8 1267 1 // Iron pickaxe
+8 1265 1 // Bronze pickaxe
+
+// Chaos druid
+Npc: 2878
+128 1594 1 // Unholy mould
+128 231 1 // Snape grass
+128 1291 1 // Bronze longsword
+35 13471 1 // Ensouled chaos druid head
+32 995 3-35 // Coins
+32 9142 2-12 // Mithril bolts
+32 561 2-3 // Nature rune
+32 563 2 // Law rune
+32 215 1-2 // Grimy cadantine
+32 217 1-2 // Grimy dwarf weed
+32 2485 1-2 // Grimy lantadyme
+32 207 1-2 // Grimy ranarr weed
+32 213 1-2 // Grimy kwuarm
+32 209 1-2 // Grimy irit leaf
+32 211 1-2 // Grimy avantoe
+30 11941 1 // Looting bag
+8 227 1 // Vial of water
+8 558 12 // Mind rune
+8 559 9 // Body rune
+8 557 9 // Earth rune
+8 556 36 // Air rune
+8 205 1-2 // Grimy harralander
+8 203 1-2 // Grimy tarromin
+8 201 1-2 // Grimy marrentill
+8 199 1-2 // Grimy guam leaf
+1 526 1 // Bones
+
+// Black demon
+Npc: 2048
+128 2362 2 // Adamantite bar
+128 563 15 // Law rune
+128 1289 1 // Rune sword
+128 1213 1 // Rune dagger
+128 133 1 // Defence potion(3)
+128 563 3-4 // Law rune
+128 12542 1 // Clue scroll (hard)
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 1113 1 // Rune chainbody
+128 1147 1 // Rune med helm
+35 13501 1 // Ensouled demon head
+32 450 2 // Adamantite ore
+32 385 1 // Shark
+32 565 5 // Blood rune
+32 560 5 // Death rune
+32 562 25 // Chaos rune
+32 1123 1 // Adamant platebody
+32 1371 1 // Adamant battleaxe
+32 379 1 // Lobster
+32 2361 1 // Adamantite bar
+32 565 7 // Blood rune
+32 562 5 // Chaos rune
+32 554 37 // Fire rune
+32 1197 1 // Mithril kiteshield
+32 12746 1 // Mysterious emblem
+32 215 1 // Grimy cadantine
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+30 11941 1 // Looting bag
+8 995 250-772 // Coins
+8 1211 1 // Adamant dagger
+8 995 44 // Coins
+8 556 50 // Air rune
+8 1283 1 // Black sword
+8 1361 1 // Black axe
+8 1365 1 // Steel battleaxe
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+1 592 1 // Ashes
+
+// Crawling hand
+Npc: 448
+500 4133 1 // Crawling hand
+100 2932 1 // Teal gloves
+100 2912 1 // Red gloves
+50 2922 1 // Yellow gloves
+50 2942 1 // Purple gloves
+32 1639 1 // Emerald ring
+32 1637 1 // Sapphire ring
+32 1635 1 // Gold ring
+8 995 8 // Coins
+8 1059 1 // Leather gloves
+1 526 1 // Bones
+
+// Banshee
+Npc: 414
+128 12162 1 // Clue scroll (easy)
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 1191 1 // Iron kiteshield
+32 440 1 // Iron ore
+32 221 1 // Eye of newt
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 562 7 // Chaos rune
+32 564 2 // Cosmic rune
+32 1203 1 // Iron dagger
+32 1420 1 // Iron mace
+8 313 7 // Fishing bait
+8 7937 13 // Pure essence
+8 995 13-35 // Coins
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 554 7 // Fire rune
+8 556 3 // Air rune
+
+// Infernal mage
+Npc: 443
+1000 3053 1 // Lava battlestaff
+512 4107 1 // Mystic boots (dark)
+512 4099 1 // Mystic hat (dark)
+128 559 18-57 // Body rune
+32 558 18 // Mind rune
+32 565 4 // Blood rune
+32 556 10 // Air rune
+32 555 10 // Water rune
+32 1387 1 // Staff of fire
+8 995 1-15 // Coins
+8 560 7 // Death rune
+8 554 10-18 // Fire rune
+8 557 5-36 // Earth rune
+8 1379 1 // Staff
+1 526 1 // Bones
+
+// Bloodveld
+Npc: 484
+256 12542 1 // Clue scroll (hard)
+128 1147 1 // Rune med helm
+128 4125 1 // Black boots
+60 11942 1 // Ecumenical key
+35 13495 1 // Ensouled bloodveld head
+32 2293 1 // Meat pizza
+32 444 1 // Gold ore
+32 532 5 // Big bones
+32 532 4 // Big bones
+32 532 3 // Big bones
+32 532 1 // Big bones
+32 526 1-3 // Bones
+32 565 30 // Blood rune
+32 565 10 // Blood rune
+32 565 3 // Blood rune
+32 565 1 // Blood rune
+32 1109 1 // Mithril chainbody
+32 1181 1 // Mithril sq shield
+30 11941 1 // Looting bag
+8 995 10-460 // Coins
+8 554 60 // Fire rune
+8 1325 1 // Steel scimitar
+8 1157 1 // Steel full helm
+8 1353 1 // Steel axe
+1 526 1 // Bones
+
+// Mithril dragon
+Npc: 2919
+32768 11335 1 announce // Dragon full helm
+10000 11286 1 announce // Draconic visage
+350 12073 1 // Clue scroll (elite)
+42 11338 1 // Chewed bones
+32 566 10 // Soul rune
+32 9144 10-21 // Runite bolts
+32 892 8 // Rune arrow
+32 19582 15 // Dragon javelin heads
+32 1247 1 // Rune spear
+32 868 8-18 // Rune knife
+32 1163 1 // Rune full helm
+8 385 6 // Shark
+8 385 1 // Shark
+8 2363 2 // Runite bar
+8 9431 1 // Runite limbs
+8 995 600-876 // Coins
+8 830 8 // Rune javelin
+8 565 27 // Blood rune
+8 1432 1 // Rune mace
+8 817 14 // Rune dart(p)
+8 1373 1 // Rune battleaxe
+1 2359 3 // Mithril bar
+1 536 1 // Dragon bones
+
+// Adamant dragon
+Npc: 8090
+9000 11286 1 announce // Draconic visage
+320 12073 1 // Clue scroll (elite)
+128 1149 1 // Dragon med helm
+128 4585 1 // Dragon plateskirt
+128 4087 1 // Dragon platelegs
+32 19582 22-24 // Dragon javelin heads
+32 2363 1 // Runite bar
+32 2362 5-34 // Adamantite bar
+32 208 1 // Grimy ranarr weed
+32 220 1 // Grimy torstol
+32 3052 1 // Grimy snapdragon
+32 212 1 // Grimy avantoe
+32 21880 10-30 // Wrath rune
+32 1333 1 // Rune scimitar
+8 1602 13 // Diamond
+8 450 230 // Adamantite ore
+8 19578 42-46 // Adamant javelin heads
+8 9380 22-40 // Adamant bolts(unf)
+8 560 23-90 // Death rune
+8 562 62-130 // Chaos rune
+8 890 30-39 // Adamant arrow
+8 1432 1 // Rune mace
+8 1123 1 // Adamant platebody
+1 2361 2 // Adamantite bar
+1 536 1 // Dragon bones
+
+// Rune dragon
+Npc: 8091
+8000 11286 1 announce // Draconic visage
+300 12073 1 // Clue scroll (elite)
+128 1149 1 // Dragon med helm
+128 4585 1 // Dragon plateskirt
+128 4087 1 // Dragon platelegs
+32 9381 20-40 // Runite bolts (unf)
+32 452 25 // Runite ore
+32 208 1 // Grimy ranarr weed
+32 220 1 // Grimy torstol
+32 3052 1 // Grimy snapdragon
+32 212 1 // Grimy avantoe
+32 21880 30-50 // Wrath rune
+8 1616 1 // Dragonstone
+8 19582 32-40 // Dragon javelin heads
+8 19580 21-29 // Rune javelin heads
+8 560 40-100 // Death rune
+8 562 76-150 // Chaos rune
+8 892 30-42 // Rune arrow
+8 1079 1 // Rune platelegs
+8 1127 1 // Rune platebody
+8 1347 1 // Rune warhammer
+8 1303 1 // Rune longsword
+8 1333 1 // Rune scimitar
+8 1432 1 // Rune mace
+1 2363 1 // Runite bar
+1 536 1 // Dragon bones
+
+// Goblin
+Npc: 3029 3030 3031 3032 3033 3034 3305 3036
+128 12162 1 // Clue scroll (easy)
+128 561 1 // Nature rune
+128 562 1 // Chaos rune
+128 1189 1 // Bronze kiteshield
+32 10999 1 // Goblin book
+32 288 1 // Goblin mail
+32 1917 1 // Beer
+32 1987 1 // Grapes
+32 1949 1 // Chef's hat
+32 1925 1 // Bucket
+32 1438 1 // Air talisman
+32 1351 1 // Bronze axe
+32 2347 1 // Hammer
+32 557 4 // Earth rune
+32 1009 1 // Brass necklace
+32 825 1 // Bronze javelin
+32 1237 1 // Bronze spear
+32 1321 1 // Bronze scimitar
+32 877 8 // Bronze bolts
+30 11941 1 // Looting bag
+15 13447 1 // Ensouled goblin head
+8 7812 1 // Goblin skull
+8 995 1-24 // Coins
+8 559 7 // Body rune
+8 559 2 // Body rune
+8 558 1-2 // Mind rune
+8 555 6 // Water rune
+8 877 4 // Bronze bolts
+8 877 2 // Bronze bolts
+8 1173 1 // Bronze sq shield
+1 526 1 // Bones
+
+// Man / woman
+Npc: 3078 3083
+128 12162 1 // Clue scroll (easy)
+128 436 1 // Copper ore
+128 1965 1 // Cabbage
+128 2485 1 // Grimy lantadyme
+128 217 1 // Grimy dwarf weed
+128 215 1 // Grimy cadantine
+128 562 2 // Chaos rune
+64 1440 1 // Earth talisman
+32 1139 1 // Bronze med helm
+32 1203 1 // Iron dagger
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 213 1 // Grimy kwuarm
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 558 9 // Mind rune
+32 554 6 // Fire rune
+32 557 4 // Earth rune
+30 11941 1 // Looting bag
+8 313 1 // Fishing bait
+8 995 25 // Coins
+8 995 15 // Coins
+8 995 5 // Coins
+8 995 3 // Coins
+8 882 7 // Bronze arrow
+8 877 2-12 // Bronze bolts
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+1 526 1 // Bones
+
+// Guard
+Npc: 3269 3271 3010 3011
+128 12021 1 // Clue scroll (medium)
+128 1947 1 // Grain
+128 5321 2 // Watermelon seed
+128 5323 1-2 // Strawberry seed
+128 5320 3 // Sweetcorn seed
+128 565 1 // Blood rune
+128 561 1 // Nature rune
+128 562 1-2 // Chaos rune
+128 1448 1 // Mind talisman
+128 440 1 // Iron ore
+32 1446 1 // Body talisman
+32 884 1-2 // Iron arrow
+32 886 1-5 // Steel arrow
+8 995 1-30 // Coins
+8 5322 3 // Tomato seed
+8 5324 4 // Cabbage seed
+8 5319 4 // Onion seed
+8 5318 4 // Potato seed
+8 554 2 // Fire rune
+8 557 3 // Earth rune
+8 556 6 // Air rune
+8 882 1-2 // Bronze arrow
+8 9140 1-12 // Iron bolts
+8 1203 1 // Iron dagger
+1 526 1 // Bones
+
+// Skeleton
+Npc: 70
+128 884 12 // Iron arrow
+128 563 2 // Law rune
+128 564 2 // Cosmic rune
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 886 1 // Steel arrow
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 12746 1 // Mysterious emblem
+32 2349 1 // Bronze bar
+32 1279 1 // Iron sword
+32 1137 1 // Iron med helm
+32 1349 1 // Iron axe
+32 562 5 // Chaos rune
+32 555 9 // Water rune
+32 556 15 // Air rune
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 1442 1 // Fire talisman
+32 1947 1 // Grain
+32 1203 1 // Iron dagger
+32 562 3 // Chaos rune
+32 556 12 // Air rune
+32 557 3 // Earth rune
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 203 1 // Grimy tarromin
+32 201 1 // Grimy marrentill
+32 199 1 // Grimy guam leaf
+8 995 65 // Coins
+8 995 45 // Coins
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 995 16 // Coins
+8 882 5 // Bronze arrow
+1 526 1 // Bones
+
+// Zombie
+Npc: 26
+256 221 1 // Eye of newt
+128 1462 1 // Nature talisman
+32 590 1 // Tinderbox
+32 436 1 // Copper ore
+32 217 1 // Grimy dwarf weed
+32 2485 1 // Grimy lantadyme
+32 215 1 // Grimy cadantine
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 1420 1 // Iron mace
+32 1349 1 // Iron axe
+32 1203 1 // Iron dagger
+32 1189 1 // Bronze kiteshield
+32 1139 1 // Bronze med helm
+32 1291 1 // Bronze longsword
+32 1351 1 // Bronze axe
+32 888 2 // Mithril arrow
+32 888 1 // Mithril arrow
+32 884 8 // Iron arrow
+32 884 5 // Iron arrow
+32 564 2 // Cosmic rune
+32 563 2 // Law rune
+32 561 12 // Nature rune
+32 561 6 // Nature rune
+32 558 5-7 // Mind rune
+32 554 7 // Fire rune
+32 556 3 // Air rune
+32 562 4 // Chaos rune
+30 11941 1 // Looting bag
+8 11940 5-7 // Dark fishing bait
+8 313 5-7 // Fishing bait
+8 7863 1 // Zombie bone
+8 995 1-250 // Coins
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 886 3-28 // Steel arrow
+8 559 3 // Body rune
+1 526 1 // Bones
+
+// Moss giant
+Npc: 7262
+256 5303 1 // Dwarf weed seed
+256 217 1 // Grimy dwarf weed
+128 1969 1 // Spinach roll
+128 5304 1 // Torstol seed
+128 5300 1 // Snapdragon seed
+128 5302 1 // Lantadyme seed
+128 5301 1 // Cadantine seed
+128 5106 1 // Poison ivy seed
+128 5299 1 // Kwuarm seed
+128 5297 1 // Irit seed
+128 5280 1 // Cactus seed
+128 5298 1 // Avantoe seed
+128 560 3 // Death rune
+128 560 1 // Death rune
+128 564 3 // Cosmic rune
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+42 562 7 // Chaos rune
+32 5321 1 // Watermelon seed
+32 5295 1 // Ranarr seed
+32 4205 1 // Consecration seed
+32 5282 1 // Mushroom spore
+32 5105 1 // Whiteberry seed
+32 5296 1 // Toadflax seed
+32 5281 1 // Belladonna seed
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 886 30 // Steel arrow
+32 884 15 // Iron arrow
+30 11941 1 // Looting bag
+24 13474 1 // Ensouled giant head
+21 2353 1 // Steel bar
+8 7869 1 // Moss giant bone
+8 995 119 // Coins
+8 5100 1 // Limpwurt seed
+8 5294 1 // Harralander seed
+8 5293 1 // Tarromin seed
+8 5292 1 // Marrentill seed
+8 5311 1 // Wildblood seed
+8 5104 1 // Jangerberry seed
+8 5323 1 // Strawberry seed
+8 557 27 // Earth rune
+8 556 18 // Air rune
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+1 532 1 // Big bones
+
+// Hobgoblin
+Npc: 3049
+256 5304 1 // Torstol seed
+256 5106 1 // Poison ivy seed
+256 5105 1 // Whiteberry seed
+256 5303 1 // Dwarf weed seed
+256 5301 1 // Cadantine seed
+256 5302 1 // Lantadyme seed
+256 5295 1 // Ranarr seed
+256 217 1 // Grimy dwarf weed
+128 5320 3 // Sweetcorn seed
+128 5323 1 // Strawberry seed
+128 5100 1 // Limpwurt seed
+128 5300 1 // Snapdragon seed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 564 2 // Cosmic rune
+128 1009 1 // Brass necklace
+128 1241 1 // Steel spear
+128 1295 1 // Steel longsword
+128 826 5 // Iron javelin
+128 1237 1 // Bronze spear
+32 288 1 // Goblin mail
+32 225 1 // Limpwurt root
+32 5293 1 // Tarromin seed
+32 5321 1 // Watermelon seed
+32 5292 1 // Marrentill seed
+32 5104 1 // Jangerberry seed
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 561 4 // Nature rune
+32 555 2 // Water rune
+32 562 3 // Chaos rune
+32 554 7 // Fire rune
+32 563 2 // Law rune
+32 559 6 // Body rune
+32 1207 1 // Steel dagger
+32 1239 1 // Iron spear
+32 1279 1 // Iron sword
+8 995 25 // Coins
+8 5324 4 // Cabbage seed
+8 5319 4 // Onion seed
+8 5318 4 // Potato seed
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+1 526 1 // Bones
+
+// Hill giant
+Npc: 7261
+256 5321 1-4 // Watermelon seed
+256 5100 1 // Limpwurt seed
+256 217 1 // Grimy dwarf weed
+128 20754 1 // Giant key
+128 5320 3 // Sweetcorn seed
+128 5323 2 // Strawberry seed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 560 2 // Death rune
+128 562 2 // Chaos rune
+64 561 6 // Nature rune
+42 563 2 // Law rune
+32 1446 1 // Body talisman
+32 1917 1 // Beer
+32 225 1 // Limpwurt root
+32 5324 4 // Cabbage seed
+32 5322 1-3 // Tomato seed
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 558 3 // Mind rune
+32 554 15 // Fire rune
+32 564 2 // Cosmic rune
+32 886 10 // Steel arrow
+32 1295 1 // Steel longsword
+32 1191 1 // Iron kiteshield
+32 1153 1 // Iron full helm
+32 1203 1 // Iron dagger
+25 13474 1 // Ensouled giant head
+8 995 52 // Coins
+8 5319 4 // Onion seed
+8 5318 4 // Potato seed
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 555 7 // Water rune
+8 884 3 // Iron arrow
+1 532 1 // Big bones
+
+// Basilisk
+Npc: 417
+2000 7977 1 // Basilisk head
+512 4109 1 // Mystic hat (light)
+128 217 1 // Grimy dwarf weed
+128 213 1 // Grimy kwuarm
+128 1213 1 // Rune dagger
+128 563 7 // Law rune
+128 563 3 // Law rune
+32 449 1 // Adamantite ore
+32 2485 1 // Grimy lantadyme
+32 215 1 // Grimy cadantine
+32 211 1 // Grimy avantoe
+32 1161 1 // Adamant full helm
+32 1197 1 // Mithril kiteshield
+32 1355 1 // Mithril axe
+32 1243 1 // Mithril spear
+32 561 37 // Nature rune
+32 561 15 // Nature rune
+32 561 3 // Nature rune
+8 7899 1 // Basilisk bone
+8 995 11-440 // Coins
+8 209 1 // Grimy irit leaf
+8 207 1 // Grimy ranarr weed
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 1365 1 // Steel battleaxe
+8 555 75 // Water rune
+1 526 1 // Bones
+
+// Lesser demon
+Npc: 2005
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+128 565 10 // Blood rune
+128 560 3-10 // Death rune
+128 1195 1 // Black kiteshield
+128 1147 1 // Rune med helm
+50 13501 1 // Ensouled demon head
+32 1993 1 // Jug of wine
+32 445 15 // Gold ore
+32 562 12-20 // Chaos rune
+32 1355 1 // Mithril axe
+32 1123 1 // Adamant platebody
+32 1109 1 // Mithril chainbody
+32 1181 1 // Mithril sq shield
+32 1165 1 // Black full helm
+32 1313 1 // Black 2h sword
+8 995 120-450 // Coins
+8 201 1 // Grimy marrentill
+8 203 1 // Grimy tarromin
+8 199 1 // Grimy guam leaf
+8 554 30-120 // Fire rune
+8 1157 1 // Steel full helm
+8 1325 1 // Steel scimitar
+8 1353 1 // Steel axe
+1 592 1 // Ashes
+
+// Greater demon
+Npc: 2025
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+128 213 1 // Grimy kwuarm
+128 211 1 // Grimy avantoe
+128 209 1 // Grimy irit leaf
+128 207 1 // Grimy ranarr weed
+128 205 1 // Grimy harralander
+128 565 10 // Blood rune
+128 560 3-10 // Death rune
+128 1195 1 // Black kiteshield
+128 1147 1 // Rune med helm
+50 13501 1 // Ensouled demon head
+32 1993 1 // Jug of wine
+32 445 15 // Gold ore
+32 562 12-20 // Chaos rune
+32 1355 1 // Mithril axe
+32 1123 1 // Adamant platebody
+32 1109 1 // Mithril chainbody
+32 1181 1 // Mithril sq shield
+32 1165 1 // Black full helm
+32 1313 1 // Black 2h sword
+8 995 120-450 // Coins
+8 201 1 // Grimy marrentill
+8 203 1 // Grimy tarromin
+8 199 1 // Grimy guam leaf
+8 554 30-120 // Fire rune
+8 1157 1 // Steel full helm
+8 1325 1 // Steel scimitar
+8 1353 1 // Steel axe
+1 592 1 // Ashes
+
+// Black knight
+Npc: 4959
+128 2309 1 // Bread
+128 5321 2 // Watermelon seed
+128 5323 3 // Strawberry seed
+128 5323 2 // Strawberry seed
+128 5320 3 // Sweetcorn seed
+128 5322 3 // Tomato seed
+128 564 7-10 // Cosmic rune
+128 563 3 // Law rune
+128 1283 1 // Black sword
+32 1933 1 // Pot of flour
+32 888 3 // Mithril arrow
+32 560 2 // Death rune
+32 558 2 // Mind rune
+32 562 6 // Chaos rune
+32 1424 1 // Steel mace
+8 2353 1 // Steel bar
+8 438 1 // Tin ore
+8 995 1-80 // Coins
+8 5324 4 // Cabbage seed
+8 5319 4 // Onion seed
+8 5318 4 // Potato seed
+8 559 9 // Body rune
+8 557 10 // Earth rune
+8 1153 1 // Iron full helm
+8 1279 1 // Iron sword
+1 526 1 // Bones
+
+// Fire giant
+Npc: 7251
+128 217 1 // Grimy dwarf weed
+128 213 1 // Grimy kwuarm
+128 2485 1 // Grimy lantadyme
+128 1333 1 // Rune scimitar
+128 1393 1 // Fire battlestaff
+32 117 1 // Strength potion(2)
+32 379 1 // Lobster
+32 215 1 // Grimy cadantine
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 892 12 // Rune arrow
+32 563 4 // Law rune
+32 563 2 // Law rune
+32 1181 1 // Mithril sq shield
+20 13474 1 // Ensouled giant head
+8 2353 1 // Steel bar
+8 995 300 // Coins
+8 995 60 // Coins
+8 211 1 // Grimy avantoe
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 565 5 // Blood rune
+8 562 15 // Chaos rune
+8 562 5 // Chaos rune
+8 554 300 // Fire rune
+8 554 150 // Fire rune
+8 554 50 // Fire rune
+8 554 37 // Fire rune
+8 1353 1 // Steel axe
+1 532 1 // Big bones
+
+// Hellhound
+Npc: 104
+32768 13233 1 announce // Smouldering stone
+64 12542 1 // Clue scroll (hard)
+1 526 1 // Bones
+
+// Cave crawler
+Npc: 406
+128 4119 1 // Bronze boots
+128 217 1-2 // Grimy dwarf weed
+128 2485 1-2 // Grimy lantadyme
+128 215 1-2 // Grimy cadantine
+128 5321 1 // Watermelon seed
+128 5323 1 // Strawberry seed
+32 239 1 // White berries
+32 231 1 // Snape grass
+32 225 1 // Limpwurt root
+32 223 1 // Red spiders' eggs
+32 235 1 // Unicorn horn dust
+32 213 1-2 // Grimy kwuarm
+32 211 1-2 // Grimy avantoe
+32 209 1-2 // Grimy irit leaf
+32 207 1-2 // Grimy ranarr weed
+32 205 1-2 // Grimy harralander
+32 5320 1-2 // Sweetcorn seed
+32 5322 1-2 // Tomato seed
+32 561 3 // Nature rune
+8 221 1 // Eye of newt
+8 227 1 // Vial of water
+8 995 29 // Coins
+8 995 10 // Coins
+8 203 1-2 // Grimy tarromin
+8 201 1-2 // Grimy marrentill
+8 199 1-2 // Grimy guam leaf
+8 5324 1-3 // Cabbage seed
+8 5319 1-3 // Onion seed
+8 5318 1-4 // Potato seed
+8 554 12 // Fire rune
+8 557 9 // Earth rune
+
+// Rock slug
+Npc: 421
+512 4115 1 // Mystic gloves (light)
+128 1452 1 // Chaos talisman
+128 5321 2 // Watermelon seed
+128 447 1 // Mithril ore
+32 5320 3 // Sweetcorn seed
+32 5323 2 // Strawberry seed
+32 5322 3 // Tomato seed
+32 5324 4 // Cabbage seed
+32 5318 4 // Potato seed
+32 5319 4 // Onion seed
+32 562 2 // Chaos rune
+32 438 1 // Tin ore
+32 436 1 // Copper ore
+32 2351 1 // Iron bar
+32 2349 1 // Bronze bar
+8 557 42 // Earth rune
+8 557 10 // Earth rune
+8 557 5 // Earth rune
+8 2347 1 // Hammer
+8 1913 1 // Dwarven stout
+8 440 1 // Iron ore
+8 453 1 // Coal
+
+// Cockatrice
+Npc: 419
+1000 7976 1 // Cockatrice head
+512 4117 1 // Mystic boots (light)
+128 12021 1 // Clue scroll (medium)
+128 5321 2 // Watermelon seed
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+32 5323 2 // Strawberry seed
+32 5320 3 // Sweetcorn seed
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+32 205 1 // Grimy harralander
+32 563 3 // Law rune
+32 563 2 // Law rune
+32 4121 1 // Iron boots
+32 826 5 // Iron javelin
+8 225 1 // Limpwurt root
+8 995 15-309 // Coins
+8 5308 3 // Asgarnian seed
+8 5322 3 // Tomato seed
+8 5324 4 // Cabbage seed
+8 5319 4 // Onion seed
+8 5318 4 // Potato seed
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 561 6 // Nature rune
+8 561 4 // Nature rune
+8 561 2 // Nature rune
+8 554 1-7 // Fire rune
+8 555 1-2 // Water rune
+8 1295 1 // Steel longsword
+8 1207 1 // Steel dagger
+8 1279 1 // Iron sword
+1 526 1 // Bones
+
+// Pyrefiend
+Npc: 433
+128 12021 1 // Clue scroll (medium)
+32 560 3 // Death rune
+32 4123 1 // Steel boots
+32 1145 1 // Adamant med helm
+32 1387 1 // Staff of fire
+32 1109 1 // Mithril chainbody
+8 1993 1 // Jug of wine
+8 995 10-450 // Coins
+8 444 1 // Gold ore
+8 562 12 // Chaos rune
+8 554 90 // Fire rune
+8 554 60 // Fire rune
+8 554 30 // Fire rune
+8 1157 1 // Steel full helm
+8 1353 1 // Steel axe
+1 592 1 // Ashes
+
+// Jelly
+Npc: 437
+128 12542 1 // Clue scroll (hard)
+128 1734 10 // Thread
+128 565 7 // Blood rune
+128 555 5-21 // Water rune
+128 1163 1 // Rune full helm
+128 1119 1 // Steel platebody
+128 4127 1 // Mithril boots
+32 2357 1 // Gold bar
+32 560 5 // Death rune
+32 562 15 // Chaos rune
+32 1197 1 // Mithril kiteshield
+8 995 11-672 // Coins
+8 1365 1 // Steel battleaxe
+8 1311 1 // Steel 2h sword
+8 1353 1 // Steel axe
+
+// Turoth
+Npc: 428
+512 4113 1 // Mystic robe bottom (light)
+500 11902 1 // Leaf-bladed sword
+256 5304 1 // Torstol seed
+128 12542 1 // Clue scroll (hard)
+128 217 1-3 // Grimy dwarf weed
+128 215 1-3 // Grimy cadantine
+128 2485 1-3 // Grimy lantadyme
+128 5295 1 // Ranarr seed
+128 5303 1 // Dwarf weed seed
+128 5302 1 // Lantadyme seed
+32 213 1-3 // Grimy kwuarm
+32 211 1-3 // Grimy avantoe
+32 209 1-3 // Grimy irit leaf
+32 207 1-3 // Grimy ranarr weed
+32 5299 1 // Kwuarm seed
+32 5298 1 // Avantoe seed
+32 5301 1 // Cadantine seed
+32 5300 1 // Snapdragon seed
+32 1213 1 // Rune dagger
+32 1161 1 // Adamant full helm
+32 1197 1 // Mithril kiteshield
+8 225 1 // Limpwurt root
+8 995 44-440 // Coins
+8 205 1-3 // Grimy harralander
+8 203 1-3 // Grimy tarromin
+8 201 1-3 // Grimy marrentill
+8 199 1-3 // Grimy guam leaf
+8 5297 1 // Irit seed
+8 5296 1 // Toadflax seed
+8 5281 1 // Belladonna seed
+8 5280 1 // Cactus seed
+8 5106 1 // Poison ivy seed
+8 561 37 // Nature rune
+8 561 15 // Nature rune
+8 563 3 // Law rune
+8 1355 1 // Mithril axe
+8 1069 1 // Steel platelegs
+1 526 1 // Bones
+
+// Kurask
+Npc: 410
+3000 7978 1 // Kurask head
+1026 20727 1 // Leaf-bladed battleaxe
+512 4111 1 // Mystic robe top (light)
+384 11902 1 // Leaf-bladed sword
+128 12542 1 // Clue scroll (hard)
+128 5304 1 // Torstol seed
+32 240 12 // White berries
+32 5973 10 // Papaya fruit
+32 2485 1-3 // Grimy lantadyme
+32 207 1-3 // Grimy ranarr weed
+32 217 1-3 // Grimy dwarf weed
+32 215 1-3 // Grimy cadantine
+32 213 1-3 // Grimy kwuarm
+32 211 1-3 // Grimy avantoe
+32 209 1-3 // Grimy irit leaf
+32 1359 1 // Rune axe
+32 1123 1 // Adamant platebody
+32 1303 1 // Rune longsword
+32 5300 1 // Snapdragon seed
+32 5303 1 // Dwarf weed seed
+32 5302 1 // Lantadyme seed
+32 5301 1 // Cadantine seed
+32 5299 1 // Kwuarm seed
+32 5280 1 // Cactus seed
+32 5106 1 // Poison ivy seed
+30 5975 10 // Coconut
+8 533 20 // Big bones
+8 1780 100 // Flax
+8 226 10-20 // Limpwurt root
+8 995 10000 // Coins
+8 995 44-5000 // Coins
+8 205 1-3 // Grimy harralander
+8 203 1-3 // Grimy tarromin
+8 201 1-3 // Grimy marrentill
+8 199 1-3 // Grimy guam leaf
+8 561 30 // Nature rune
+8 561 15 // Nature rune
+8 561 10 // Nature rune
+8 561 5 // Nature rune
+8 1197 1 // Mithril kiteshield
+8 5298 1 // Avantoe seed
+8 5297 1 // Irit seed
+8 5296 1 // Toadflax seed
+8 5281 1 // Belladonna seed
+1 526 1 // Bones
+
+// Earth warrior
+Npc: 2840
+256 5304 1 // Torstol seed
+256 5300 1 // Snapdragon seed
+256 5301 1 // Cadantine seed
+256 554 6 // Fire rune
+256 556 45 // Air rune
+128 1452 1 // Chaos talisman
+128 5295 1 // Ranarr seed
+128 5106 1 // Poison ivy seed
+128 5302 1 // Lantadyme seed
+128 5299 1 // Kwuarm seed
+128 5303 1 // Dwarf weed seed
+128 5280 1 // Cactus seed
+128 5298 1 // Avantoe seed
+128 565 2 // Blood rune
+128 217 1 // Grimy dwarf weed
+128 2485 1 // Grimy lantadyme
+128 215 1 // Grimy cadantine
+32 1241 1 // Steel spear
+32 1385 1 // Staff of earth
+32 5297 1 // Irit seed
+32 5105 1 // Whiteberry seed
+32 5321 1 // Watermelon seed
+32 5294 1 // Harralander seed
+32 5281 1 // Belladonna seed
+32 560 2 // Death rune
+32 562 3 // Chaos rune
+32 213 1 // Grimy kwuarm
+32 211 1 // Grimy avantoe
+32 209 1 // Grimy irit leaf
+32 207 1 // Grimy ranarr weed
+30 11941 1 // Looting bag
+8 995 24-479 // Coins
+8 5311 1 // Wildblood seed
+8 5296 1 // Toadflax seed
+8 5293 1 // Tarromin seed
+8 5323 1 // Strawberry seed
+8 5292 1 // Marrentill seed
+8 5100 1 // Limpwurt seed
+8 5104 1 // Jangerberry seed
+8 561 6 // Nature rune
+8 561 3 // Nature rune
+8 563 2 // Law rune
+8 557 60 // Earth rune
+8 557 12 // Earth rune
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+
+// Giant bat
+Npc: 2834
+30 11941 1 // Looting bag
+8 7827 1 // Giant bat wing
+1 530 1 // Bat bones
+
+// Chaos dwarf
+Npc: 291
+128 257 1 // Ranarr weed
+128 560 6 // Death rune
+128 1165 1 // Black full helm
+32 1982 1 // Tomato
+32 2359 1 // Mithril bar
+32 1985 1 // Cheese
+32 563 6 // Law rune
+32 563 3 // Law rune
+32 561 9 // Nature rune
+32 562 10 // Chaos rune
+8 453 1 // Coal
+8 995 36-150 // Coins
+8 564 3 // Cosmic rune
+8 558 37 // Mind rune
+8 556 12 // Air rune
+8 555 10 // Water rune
+8 1181 1 // Mithril sq shield
+8 1299 1 // Mithril longsword
+8 1157 1 // Steel full helm
+1 526 1 // Bones
+
+// Gargoyle
+Npc: 412
+512 4101 1 // Mystic robe top (dark)
+256 4153 1 // Granite maul
+128 12542 1 // Clue scroll (hard)
+128 1079 1 // Rune platelegs
+128 1373 1 // Rune battleaxe
+128 1319 1 // Rune 2h sword
+128 4129 1 // Adamant boots
+64 451 1 // Runite ore
+32 2360 15 // Mithril bar
+32 560 15 // Death rune
+32 562 30 // Chaos rune
+32 1163 1 // Rune full helm
+8 2358 10-20 // Gold bar
+8 2354 15 // Steel bar
+8 445 10-20 // Gold ore
+8 7937 150 // Pure essence
+8 995 10000 // Coins
+8 995 400-1000 // Coins
+8 554 150 // Fire rune
+8 554 75 // Fire rune
+8 1073 1 // Adamant platelegs

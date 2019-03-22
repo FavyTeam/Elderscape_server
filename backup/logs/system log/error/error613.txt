@@ -1,0 +1,27 @@
+java.lang.NullPointerException
+	at game.npc.NpcHandler.npcGameTick(NpcHandler.java:1557)
+	at core.Server$1.execute(Server.java:243)
+	at core.maintick.Task.tick(Task.java:126)
+	at core.maintick.TaskScheduler.run(TaskScheduler.java:110)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Jan 01, 2018 1:33:48 PM core.maintick.TaskScheduler run
+SEVERE: Exception during task execution.
+java.lang.NullPointerException
+	at game.npc.NpcHandler.npcGameTick(NpcHandler.java:1557)
+	at core.Server$1.execute(Server.java:243)
+	at core.maintick.Task.tick(Task.java:126)
+	at core.maintick.TaskScheduler.run(TaskScheduler.java:110)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+

@@ -1,0 +1,8 @@
+[
+  [
+    "FIGHT_PIT",
+    {
+      "minigame": "game.content.minigame.impl.fight_pits.FightPitsMinigame"
+    }
+  ]
+]

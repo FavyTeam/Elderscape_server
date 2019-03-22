@@ -1,0 +1,251 @@
+Achievement title: Kill 20 Dust devils
+Description Sub Text: Kill 20 Dust devils
+Description Sub Text:
+Requirements Sub Text: 65 Slayer
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dust devil
+Complete Amount: 20
+Achievement Id: 1023
+
+Achievement title: Kill 5 Black dragons
+Description Sub Text: Kill 5 Black dragons
+Description Sub Text:
+Requirements Sub Text: 70+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Black dragon
+Complete Amount: 5
+Achievement Id: 1024
+
+Achievement title: Bury a Dagannoth bone
+Description Sub Text: Bury a Dagannoth bone
+Description Sub Text:
+Requirements Sub Text: 90+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1025
+
+Achievement title: Cast Ice Blitz 10 times
+Description Sub Text: Cast Ice Blitz 10 times on Battle mages
+Description Sub Text:
+Requirements Sub Text: 82 Magic
+Requirements Sub Text:
+Achievement Save Name: iceBlitz
+Complete Amount: 10
+Achievement Id: 1027
+
+Achievement title: Craft Law runes
+Description Sub Text: Craft Law runes
+Description Sub Text:
+Requirements Sub Text: 54 Runecrafting
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1028
+
+Achievement title: Complete Barbarian course
+Description Sub Text: Complete Barbarian Agility course
+Description Sub Text:
+Requirements Sub Text: 50 Agility
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1029
+
+Achievement title: Plant a Snap dragon seed
+Description Sub Text: Plant a Snap dragon seed
+Description Sub Text:
+Requirements Sub Text: 62 Farming
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1030
+
+Achievement title: Steal 15 Spices
+Description Sub Text: Steal 15 Spices
+Description Sub Text:
+Requirements Sub Text: 65 Thieving
+Requirements Sub Text:
+Achievement Save Name: spice
+Complete Amount: 15
+Achievement Id: 1031
+
+Achievement title: Open 5 Barrows chests
+Description Sub Text: Open 5 Barrows chests
+Description Sub Text:
+Requirements Sub Text: 70+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 5
+Achievement Id: 1045
+
+Achievement title: Kill a bot
+Description Sub Text: Kill a bot in the Wilderness
+Description Sub Text:
+Requirements Sub Text: 80+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1006
+
+Achievement title: Craft 25 green d'hide body
+Description Sub Text: Craft 25 green d'hide body
+Description Sub Text:
+Requirements Sub Text: 63 Crafting
+Requirements Sub Text:
+Achievement Save Name: greenDhideBody
+Complete Amount: 25
+Achievement Id: 1033
+
+Achievement title: String 15 Yew shortbows(u)
+Description Sub Text: String 15 Yew shortbows(u)
+Description Sub Text:
+Requirements Sub Text: 65 Fletching
+Requirements Sub Text:
+Achievement Save Name: yewBowsUncut
+Complete Amount: 15
+Achievement Id: 1034
+
+Achievement title: Smith 7 Adamant daggers
+Description Sub Text: Smith 7 Adamant daggers
+Description Sub Text:
+Requirements Sub Text: 70 Smithing
+Requirements Sub Text:
+Achievement Save Name: adamantDaggers
+Complete Amount: 7
+Achievement Id: 1035
+
+Achievement title: Fish 20 Sharks
+Description Sub Text: Fish 20 Sharks
+Description Sub Text:
+Requirements Sub Text: 70 Fishing
+Requirements Sub Text:
+Achievement Save Name: sharksFished
+Complete Amount: 20
+Achievement Id: 1036
+
+Achievement title: Cook 20 Sharks
+Description Sub Text: Cook 20 Sharks
+Description Sub Text:
+Requirements Sub Text: 80 Cooking
+Requirements Sub Text:
+Achievement Save Name: sharksCooked
+Complete Amount: 20
+Achievement Id: 1037
+
+Achievement title: Kill 25 Fire giants
+Description Sub Text: Kill 25 Fire giants
+Description Sub Text:
+Requirements Sub Text: 55+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Fire giant
+Complete Amount: 25
+Achievement Id: 1038
+
+Achievement title: Mine 40 Adamant ores
+Description Sub Text: Mine 40 Adamant ores
+Description Sub Text:
+Requirements Sub Text: 70 Mining
+Requirements Sub Text:
+Achievement Save Name: adamantOresMined
+Complete Amount: 40
+Achievement Id: 1039
+
+Achievement title: Cut 30 Yew trees
+Description Sub Text: Cut 30 Yew trees
+Description Sub Text:
+Requirements Sub Text: 60 Woodcutting
+Requirements Sub Text:
+Achievement Save Name: yewTreesCut
+Complete Amount: 30
+Achievement Id: 1040
+
+Achievement title: Burn 30 Yew logs
+Description Sub Text: Burn 30 Yew logs
+Description Sub Text:
+Requirements Sub Text: 60 Firemaking
+Requirements Sub Text:
+Achievement Save Name: yewLogsBurnt
+Complete Amount: 30
+Achievement Id: 1041
+
+Achievement title: Perform a Skillcape emote
+Description Sub Text:
+Description Sub Text:
+Requirements Sub Text: 99 in a Skill
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1042
+
+Achievement title: Create 3 Ranging potions
+Description Sub Text: Create 3 Ranging potions
+Description Sub Text:
+Requirements Sub Text: 72 Herblore
+Requirements Sub Text:
+Achievement Save Name: rangingPotionsCreated
+Complete Amount: 3
+Achievement Id: 1043
+
+Achievement title: Solve 5 Clue scrolls
+Description Sub Text: Solve 5 Clue scrolls
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 5
+Achievement Id: 1044
+
+Achievement title: Defeat a Chaos elemental
+Description Sub Text: Defeat a Chaos elemental
+Description Sub Text:
+Requirements Sub Text: 90+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Chaos elemental
+Complete Amount: 1
+Achievement Id: 1046
+
+Achievement title: Open a Crystal chest
+Description Sub Text: Open the chest at
+Description Sub Text: Taverly.
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name: crystalKeysUsed
+Complete Amount: 1
+Achievement Id: 1089
+
+Achievement title: Activate Piety
+Description Sub Text: Activate Piety
+Description Sub Text:
+Requirements Sub Text: 70 Prayer
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1047
+
+Achievement title: Kill 5 players in safe PK
+Description Sub Text: Kill 5 players in safe PK
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 5
+Achievement Id: 1048
+
+Achievement title: Receive 2 rare drops
+Description Sub Text: Receive 2 rare drops
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name: rareDrops
+Complete Amount: 2
+Achievement Id: 1049
+
+Achievement title: Play the Zombie minigame
+Description Sub Text: Play the Zombie minigame
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1093

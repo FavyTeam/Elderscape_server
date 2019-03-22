@@ -1,0 +1,377 @@
+Achievement title: Craft 900 Death runes
+Description Sub Text: Craft 900 Death runes
+Description Sub Text:
+Requirements Sub Text: 65 Runecrafting
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 900
+Achievement Id: 1050
+
+Achievement title: Open 30 Barrows chests
+Description Sub Text: Open 30 Barrows chests
+Description Sub Text:
+Requirements Sub Text: 70+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 1051
+
+Achievement title: Kill 30 Battle mages
+Description Sub Text: Kill 30 Battle mages at Magebank
+Description Sub Text:
+Requirements Sub Text: 60+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Battle mage
+Complete Amount: 30
+Achievement Id: 1052
+
+Achievement title: Steal 6 Dragonstones
+Description Sub Text: Steal 6 Dragonstones
+Description Sub Text:
+Requirements Sub Text: 85 Thieving
+Requirements Sub Text:
+Achievement Save Name: dragonStonesStolen
+Complete Amount: 6
+Achievement Id: 1053
+
+Achievement title: Craft 40 Black d'hide body
+Description Sub Text: Craft 40 Black d'hide body
+Description Sub Text:
+Requirements Sub Text: 84 Crafting
+Requirements Sub Text:
+Achievement Save Name: blackDhideBodyCrafted
+Complete Amount: 40
+Achievement Id: 1054
+
+Achievement title: Kill 10 Bots
+Description Sub Text: Kill 10 Bots labeled
+Description Sub Text: [Bot] in the Wilderness
+Requirements Sub Text: 80+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 10
+Achievement Id: 1032
+
+Achievement title: String 60 Magic shortbows
+Description Sub Text: String 60 Magic shortbows
+Description Sub Text:
+Requirements Sub Text: 80 Fletching
+Requirements Sub Text:
+Achievement Save Name: magicShortBowStringed
+Complete Amount: 60
+Achievement Id: 1055
+
+Achievement title: Bury 9 Dagannoth bones
+Description Sub Text: Bury 9 Dagannoth bones in the Monastery
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name: dagannothBone
+Complete Amount: 9
+Achievement Id: 1056
+
+Achievement title: Receive 10 rare drops
+Description Sub Text: Receive 10 rare drops
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name: rareDrops
+Complete Amount: 10
+Achievement Id: 1057
+
+Achievement title: Kill 60 Revenants
+Description Sub Text: Kill 60 Revenants
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Revenant
+Complete Amount: 60
+Achievement Id: 1058
+
+Achievement title: Purchase a Slayer helmet
+Description Sub Text: Purchase a Slayer helmet
+Description Sub Text:
+Requirements Sub Text: Enough slayer points
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1059
+
+Achievement title: Spend 35 Blood money
+Description Sub Text: Spend 35 Blood money
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 35
+Achievement Id: 1060
+
+Achievement title: Smith 25 Rune platebodies
+Description Sub Text: Smith 25 Rune platebodies
+Description Sub Text:
+Requirements Sub Text: 99 Smithing
+Requirements Sub Text:
+Achievement Save Name: runePlateBodySmithed
+Complete Amount: 25
+Achievement Id: 1061
+
+Achievement title: Fish 80 Dark crabs
+Description Sub Text: Fish 80 Dark crabs
+Description Sub Text:
+Requirements Sub Text: 85 Fishing
+Requirements Sub Text:
+Achievement Save Name: darkCrabsFished
+Complete Amount: 80
+Achievement Id: 1062
+
+Achievement title: Kill 50 Abyssal Demons
+Description Sub Text: Kill 50 Abyssal Demons
+Description Sub Text:
+Requirements Sub Text: 80+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Abyssal demon
+Complete Amount: 50
+Achievement Id: 1063
+
+Achievement title: Burn 90 Magic logs
+Description Sub Text: Burn 90 Magic logs
+Description Sub Text:
+Requirements Sub Text: 75 Firemaking
+Requirements Sub Text:
+Achievement Save Name: magicLogsBurnt
+Complete Amount: 90
+Achievement Id: 1064
+
+Achievement title: Kill 12 players in Wild
+Description Sub Text: Kill 12 players in the Wilderness
+Description Sub Text:
+Requirements Sub Text: 80+ combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 12
+Achievement Id: 1065
+
+Achievement title: Plant 15 Torstol seeds
+Description Sub Text: Plant 15 Torstol seeds
+Description Sub Text:
+Requirements Sub Text: 85 Farming
+Requirements Sub Text:
+Achievement Save Name: torstolSeedsPlanted
+Complete Amount: 15
+Achievement Id: 1066
+
+Achievement title: Solve 30 Clue scrolls
+Description Sub Text: Solve 30 Clue scrolls
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 30
+Achievement Id: 1067
+
+Achievement title: Kill 20 players in safe pk
+Description Sub Text: Kill 20 players in safe pk
+Description Sub Text:
+Requirements Sub Text: High enough combat level
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 20
+Achievement Id: 1068
+
+Achievement title: Colour an item
+Description Sub Text: Use a dye on an Abyssal whip/Dark bow
+Description Sub Text:
+Requirements Sub Text: A dye
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1069
+
+Achievement title: Complete 35 Wild course laps
+Description Sub Text: Complete 35 Wilderness course laps
+Description Sub Text:
+Requirements Sub Text: 80 Agility
+Requirements Sub Text:
+Achievement Save Name: wildCourseLaps
+Complete Amount: 35
+Achievement Id: 1071
+
+Achievement title: Smelt 50 Runite bars
+Description Sub Text: Smelt 50 Runite bars
+Description Sub Text:
+Requirements Sub Text: 85 Smithing
+Requirements Sub Text:
+Achievement Save Name: runiteBarsSmelt
+Complete Amount: 50
+Achievement Id: 1072
+
+Achievement title: Create 20 Overloads
+Description Sub Text: Create 20 Overloads
+Description Sub Text:
+Requirements Sub Text: 96 Herblore
+Requirements Sub Text:
+Achievement Save Name: overloadsCreated
+Complete Amount: 20
+Achievement Id: 1073
+
+Achievement title: Craft 30 Red d'hide body
+Description Sub Text: Craft 30 Red d'hide body
+Description Sub Text:
+Requirements Sub Text: 77 Crafting
+Requirements Sub Text:
+Achievement Save Name: redDhideBodyCrafted
+Complete Amount: 30
+Achievement Id: 1075
+
+Achievement title: Open 10 Crystal chests
+Description Sub Text: Open the chest at
+Description Sub Text: Taverly.
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name: crystalKeysUsed
+Complete Amount: 10
+Achievement Id: 1090
+
+Achievement title: Cast 80 Ice barrage
+Description Sub Text: Cast 80 Ice barrage
+Description Sub Text:
+Requirements Sub Text: 94 Magic
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 80
+Achievement Id: 1076
+
+Achievement title: Kill Callisto 25 times
+Description Sub Text: Kill Callisto 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Callisto
+Complete Amount: 25
+Achievement Id: 1077
+
+Achievement title: Kill Dagannoth Rex 10 times
+Description Sub Text: Kill Dagannoth Rex 10 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Rex
+Complete Amount: 10
+Achievement Id: 1147
+
+Achievement title: Kill Dagannoth Supreme 10x
+Description Sub Text: Kill Dagannoth Supreme 10 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Supreme
+Complete Amount: 10
+Achievement Id: 1148
+
+Achievement title: Kill Dagannoth Prime 10 times
+Description Sub Text: Kill Dagannoth Prime 10 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Prime
+Complete Amount: 10
+Achievement Id: 1149
+
+Achievement title: Kill K'ril Tsutsaroth 25 times
+Description Sub Text: Kill K'ril Tsutsaroth 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: K'ril Tsutsaroth
+Complete Amount: 25
+Achievement Id: 1081
+
+Achievement title: Kill Commander Zilyana 25x
+Description Sub Text: Kill Commander Zilyana 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Commander Zilyana
+Complete Amount: 25
+Achievement Id: 1082
+
+Achievement title: Kill Kree'arra 25 times
+Description Sub Text: Kill Kree'arra 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Kree'arra
+Complete Amount: 25
+Achievement Id: 1083
+
+Achievement title: Kill General Graardor 25x
+Description Sub Text: Kill General Graardor 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: General Graardor
+Complete Amount: 25
+Achievement Id: 1084
+
+Achievement title: Kill Corporeal Beast 25 times
+Description Sub Text: Kill Corporeal Beast 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Corporeal Beast
+Complete Amount: 25
+Achievement Id: 1085
+
+Achievement title: Kill Chaos elemental 25 times
+Description Sub Text: Kill Chaos elemental 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Chaos elemental
+Complete Amount: 25
+Achievement Id: 1086
+
+Achievement title: Kill Ice Strykewyrm 25 times
+Description Sub Text: Kill Ice Strykewyrm 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Ice Strykewyrm
+Complete Amount: 25
+Achievement Id: 1087
+
+Achievement title: Kill King Black Dragon 25x
+Description Sub Text: Kill King Black Dragon 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: King Black Dragon
+Complete Amount: 25
+Achievement Id: 1088
+
+Achievement title: Kill Venenatis 25x
+Description Sub Text: Kill Venenatis 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Venenatis
+Complete Amount: 25
+Achievement Id: 1092
+
+Achievement title: Kill Tormented demon 25x
+Description Sub Text: Kill Tormented demon 25 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Tormented demon
+Complete Amount: 25
+Achievement Id: 1091
+
+Achievement title: Reach Zombies wave 20
+Description Sub Text: Reach wave 20 of
+Description Sub Text: the Zombies minigame
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 20
+Achievement Id: 1094

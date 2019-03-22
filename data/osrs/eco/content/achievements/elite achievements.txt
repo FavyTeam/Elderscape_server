@@ -1,0 +1,476 @@
+Achievement title: 250m Attack Xp
+Description Sub Text: 250m experience in Attack
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1095
+
+Achievement title: 250m Defence Xp
+Description Sub Text: 250m experience in Defence
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1096
+
+Achievement title: 250m Strength Xp
+Description Sub Text: 250m experience in Strength
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1097
+
+Achievement title: 250m Hitpoints Xp
+Description Sub Text: 250m experience in Hitpoints
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1098
+
+Achievement title: 250m Ranged Xp
+Description Sub Text: 250m experience in Ranged
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1099
+
+Achievement title: 250m Prayer Xp
+Description Sub Text: 250m experience in Prayer
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1100
+
+Achievement title: 250m Magic Xp
+Description Sub Text: 250m experience in Magic
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1101
+
+Achievement title: 250m Cooking Xp
+Description Sub Text: 250m experience in Cooking
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1102
+
+Achievement title: 250m Woodcutting Xp
+Description Sub Text: 250m experience in Woodcutting
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1103
+
+Achievement title: 250m Fletching Xp
+Description Sub Text: 250m experience in Fletching
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1104
+
+Achievement title: 250m Fishing Xp
+Description Sub Text: 250m experience in Fishing
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1105
+
+Achievement title: 250m Firemaking Xp
+Description Sub Text: 250m experience in Firemaking
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1106
+
+Achievement title: 250m Crafting Xp
+Description Sub Text: 250m experience in Crafting
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1107
+
+Achievement title: 250m Smithing Xp
+Description Sub Text: 250m experience in Smithing
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1108
+
+Achievement title: 250m Mining Xp
+Description Sub Text: 250m experience in Mining
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1109
+
+Achievement title: 250m Herblore Xp
+Description Sub Text: 250m experience in Herblore
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1110
+
+Achievement title: 250m Agility Xp
+Description Sub Text: 250m experience in Agility
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1111
+
+Achievement title: 250m Thieving Xp
+Description Sub Text: 250m experience in Thieving
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1112
+
+Achievement title: 250m Slayer Xp
+Description Sub Text: 250m experience in Slayer
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1113
+
+Achievement title: 250m Farming Xp
+Description Sub Text: 250m experience in Farming
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1114
+
+Achievement title: 250m Runecrafting Xp
+Description Sub Text: 250m experience in Runecrafting
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1115
+
+Achievement title: 250m Xp in a Skill
+Description Sub Text: 250m Experience in any skill
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 250000000
+Achievement Id: 1117
+
+Achievement title: Complete 100 Clue scrolls
+Description Sub Text: Complete 100 Clue scrolls
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 1118
+
+Achievement title: Open 100 Barrows chests
+Description Sub Text: Open 100 Barrows chests
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 1119
+
+Achievement title: Receive 50 Rare drops
+Description Sub Text: Receive 50 Rare drops
+Description Sub Text:
+Requirements Sub Text: High enough combat
+Requirements Sub Text:
+Achievement Save Name: rareDrops
+Complete Amount: 50
+Achievement Id: 1120
+
+Achievement title: Kill 200 Battle mages
+Description Sub Text: Kill 200 Battle mages
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Battle mage
+Complete Amount: 200
+Achievement Id: 1121
+
+Achievement title: Kill 100 Bots
+Description Sub Text: Kill 100 Bots
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 1122
+
+Achievement title: Kill 100 Players
+Description Sub Text: Kill 100 Players
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 1123
+
+Achievement title: Earn 500 Blood money
+Description Sub Text: Earn 500 Blood money
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 500
+Achievement Id: 1124
+
+Achievement title: Earn 100 Vote points
+Description Sub Text: Earn 100 Vote points
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 100
+Achievement Id: 1125
+
+Achievement title: Alch 2 Abyssal Whips
+Description Sub Text: Alch 2 Abyssal Whips
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 2
+Achievement Id: 1126
+
+Achievement title: Kill 400 Revenants
+Description Sub Text: Kill 400 Revenants
+Description Sub Text:
+Requirements Sub Text: High enough combat
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Battle mage
+Complete Amount: 400
+Achievement Id: 1127
+
+Achievement title: Fish 500 Dark crabs
+Description Sub Text: Fish 500 Dark crabs
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name: darkCrabsFished
+Complete Amount: 500
+Achievement Id: 1128
+
+Achievement title: Plant 50 Torstol seeds
+Description Sub Text: Plant 50 Torstol seeds
+Description Sub Text:
+Requirements Sub Text: 85 Farming
+Requirements Sub Text:
+Achievement Save Name: torstolSeedsPlanted
+Complete Amount: 50
+Achievement Id: 1129
+
+Achievement title: Smelt 200 Runite bars
+Description Sub Text: Smelt 200 Runite bars
+Description Sub Text:
+Requirements Sub Text: 85 Smithing
+Requirements Sub Text:
+Achievement Save Name: runiteBarsSmelt
+Complete Amount: 200
+Achievement Id: 1130
+
+Achievement title: Brew 100 Overloads
+Description Sub Text: Brew 100 Overloads
+Description Sub Text:
+Requirements Sub Text: 96 Herblore
+Requirements Sub Text:
+Achievement Save Name: overloadsCreated
+Complete Amount: 100
+Achievement Id: 1131
+
+Achievement title: Craft 200 Black d'hide body
+Description Sub Text: Craft 200 Black d'hide body
+Description Sub Text:
+Requirements Sub Text: 84 Crafting
+Requirements Sub Text:
+Achievement Save Name: blackDhideBodyCrafted
+Complete Amount: 200
+Achievement Id: 1132
+
+Achievement title: Open 50 Crystal chests
+Description Sub Text: Open 50 Crystal chests
+Description Sub Text:
+Requirements Sub Text:
+Requirements Sub Text:
+Achievement Save Name: crystalKeysUsed
+Complete Amount: 50
+Achievement Id: 1133
+
+Achievement title: Wave 60 of Zombies
+Description Sub Text: Reach wave 60 of the
+Description Sub Text: Zombies minigame
+Requirements Sub Text: High enough combat
+Requirements Sub Text: and skilling levels
+Achievement Save Name:
+Complete Amount: 60
+Achievement Id: 1134
+
+Achievement title: Kill Callisto 100 times
+Description Sub Text: Kill Callisto 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Callisto
+Complete Amount: 100
+Achievement Id: 1135
+
+Achievement title: Kill Dagannoth Rex 30 times
+Description Sub Text: Kill Dagannoth Rex 30 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Rex
+Complete Amount: 30
+Achievement Id: 1136
+
+Achievement title: Kill Dagannoth Supreme 30x
+Description Sub Text: Kill Dagannoth Supreme 30 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Supreme
+Complete Amount: 30
+Achievement Id: 1150
+
+Achievement title: Kill Dagannoth Prime 30 times
+Description Sub Text: Kill Dagannoth Prime 30 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Dagannoth Prime
+Complete Amount: 30
+Achievement Id: 1151
+
+Achievement title: Kill K'ril Tsutsaroth 100 times
+Description Sub Text: Kill K'ril Tsutsaroth 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: K'ril Tsutsaroth
+Complete Amount: 100
+Achievement Id: 1137
+
+Achievement title: Kill Commander Zilyana 100x
+Description Sub Text: Kill Commander Zilyana 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Commander Zilyana
+Complete Amount: 100
+Achievement Id: 1138
+
+Achievement title: Kill Kree'arra 100 times
+Description Sub Text: Kill Kree'arra 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Kree'arra
+Complete Amount: 100
+Achievement Id: 1139
+
+Achievement title: Kill General Graardor 100x
+Description Sub Text: Kill General Graardor 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: General Graardor
+Complete Amount: 100
+Achievement Id: 1140
+
+Achievement title: Kill Corporeal Beast 100 times
+Description Sub Text: Kill Corporeal Beast 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Corporeal Beast
+Complete Amount: 100
+Achievement Id: 1141
+
+Achievement title: Kill Chaos elemental 100 times
+Description Sub Text: Kill Chaos elemental 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Chaos elemental
+Complete Amount: 100
+Achievement Id: 1142
+
+Achievement title: Kill Ice Strykewyrm 100 times
+Description Sub Text: Kill Ice Strykewyrm 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Ice Strykewyrm
+Complete Amount: 100
+Achievement Id: 1143
+
+Achievement title: Kill King Black Dragon 100x
+Description Sub Text: Kill King Black Dragon 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: King Black Dragon
+Complete Amount: 100
+Achievement Id: 1144
+
+Achievement title: Kill Venenatis 100x
+Description Sub Text: Kill Venenatis 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Venenatis
+Complete Amount: 100
+Achievement Id: 1145
+
+Achievement title: Kill Tormented demon 100x
+Description Sub Text: Kill Tormented demon 100 times
+Description Sub Text:
+Requirements Sub Text: 100+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Tormented demon
+Complete Amount: 100
+Achievement Id: 1146

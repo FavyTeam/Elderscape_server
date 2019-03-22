@@ -1,0 +1,461 @@
+Wave level: 1
+Points: 30
+Coordinates of teleport: 3500 3571
+Chest id: 76
+Coordinates of chest: 3504 3562 0
+Anvil coordinates: 3503 3562 0
+Zombie coordinates:
+3494 3575
+3495 3574
+3494 3573
+3496 3571
+3498 3570
+3499 3573
+3500 3575
+3502 3572
+3503 3569
+3504 3575
+3506 3573
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+1759 // Ball of wool (to string amulets)
+1623 // Uncut sapphire
+227 // Vial of water
+221 // Eye of Newt
+199 // Attack potion Guam
+225 // Limpwurt Root
+203 // Strength potion Tarromin
+1741 // Normal leather
+1743 // Hard leather
+1511 // Normal log
+2351 // Iron bar
+333 // Trout
+8845 // Iron defender
+7456 // Gloves
+
+Wave level: 5
+Coordinates of teleport: 2990 3694
+Chest id: 76
+Coordinates of chest: 2978 3701 2
+Anvil coordinates: 2979 3701 0
+Zombie coordinates:
+2987 3704
+2990 3704
+2988 3700
+2987 3696
+2986 3691
+2991 3693
+2996 3693
+2992 3696
+2995 3697
+2992 3700
+2994 3701
+2993 3703
+2994 3706
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+1759 // Ball of wool (to string amulets)
+1623 // Uncut sapphire
+1619 // Uncut ruby
+1621 // Uncut emerald
+227 // Vial of water
+221 // Eye of Newt
+199 // Attack potion Guam
+225 // Limpwurt Root
+203 // Strength potion Tarromin
+239 // White Berries
+207 // Defence potion, Ranarr
+231 // Snape Grass
+207 // Prayer Potion, Ranarr
+1745 // Green leather
+1511 // Normal log
+1519 // Willow log
+2359 // Mithril bar
+365 // Bass
+8848 // Mithril defender
+7458 // Gloves
+10498 // Ava's attractor
+
+Wave level: 10
+Coordinates of teleport: 3487 3287
+Chest id: 76
+Coordinates of chest: 3490 3280 1
+Anvil coordinates: 3484 3278 1
+Zombie coordinates:
+3485 3284
+3488 3282
+3490 3285
+3487 3286
+3490 3289
+3485 3291
+3491 3292
+3491 3283
+3484 3285
+3485 3281
+3482 3283
+3493 3285
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+1759 // Ball of wool (to string amulets)
+1623 // Uncut sapphire
+1619 // Uncut ruby
+1621 // Uncut emerald
+1617 // Uncut diamond
+227 // Vial of water
+239 // White Berries
+207 // Defence potion, Ranarr
+231 // Snape Grass
+207 // Prayer Potion, Ranarr
+221 // Eye of Newt
+209 // Super Attack Potion, Irit
+225 // Limpwurt Root
+213 // Super Strength Potion, Kwuarm
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+2505 // Blue leather
+1511 // Normal log
+1515 // Yew log
+2361 // Adamantite bar
+7946 // Monkfish
+8849 // Adamant defender
+7459 // Gloves
+
+Wave level: 15
+Coordinates of teleport: 3473 3273
+Chest id: 76
+Coordinates of chest: 3481 3276 1
+Anvil coordinates: 3483 3276 1
+Zombie coordinates:
+3478 3272
+3478 3276
+3476 3280
+3477 3283
+3472 3285
+3470 3283
+3472 3280
+3470 3277
+3472 3274
+3471 3271
+3469 3274
+3466 3276
+3467 3280
+3468 3286
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+560 // Death rune
+563 // Law rune
+7936 // Pure essence
+1759 // Ball of wool (to string amulets)
+1619 // Uncut ruby
+1631 // Uncut dragonstone
+227 // Vial of water
+231 // Snape Grass
+207 // Prayer Potion, Ranarr
+221 // Eye of Newt
+209 // Super Attack Potion, Irit
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+261 // Clean avantoe
+145 // Extreme attack potion, Super attack(3)
+2481 // Clean lantadyme
+163 // Extreme defence potion, Super defence(3)
+245 // Wine of Zamorak
+217 // Ranging Potion, Dwarf weed
+3138 // Potato cactus
+2485 // Magic potion, Lantadyme
+6693 // Crushed nest
+3049// Saradomin brew, Toadflax
+2507 // Red leather
+1511 // Normal log
+1513 // Magic log
+2363 // Runite bar
+385 // Shark
+8850 // Rune defender
+7460 // Gloves
+10499 // Ava's accumulator
+
+Wave level: 20
+Coordinates of teleport: 3547 3254
+Chest id: 76
+Coordinates of chest: 3532 3258 1
+Anvil coordinates: 3532 3258 1
+Zombie coordinates:
+3537 3256
+3538 3260
+3540 3256
+3539 3252
+3542 3249
+3545 3247
+3548 3244
+3549 3248
+3546 3252
+3549 3255
+3547 3260
+3550 3259
+3553 3255
+3552 3246
+3552 3241
+3546 3241
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+560 // Death rune
+563 // Law rune
+566 // Soul rune
+7936 // Pure essence
+1759 // Ball of wool (to string amulets)
+1619 // Uncut ruby
+1631 // Uncut dragonstone
+227 // Vial of water
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+6693 // Crushed nest
+3049// Saradomin brew, Toadflax
+261 // Clean avantoe
+145 // Extreme attack potion, Super attack(3)
+267 // Clean Dwarf weed
+157 // Extreme strength potion, Super strength(3)
+2481 // Clean lantadyme
+163 // Extreme defence potion, Super defence(3)
+9594 // Ground mud rune
+3042 // Extreme magic potion, Magic potion(3)
+12539 // Grenwall spikes
+169 // Extreme ranging potion, Ranging potion(3)
+6810 // Bonemeal
+139 // Super prayer potion, Prayer potion(3)
+2509 // Black leather
+1511 // Normal log
+1513 // Magic log
+2363 // Runite bar
+18637 // Darkcrab
+8850 // Rune defender
+7461 // Gloves
+10499 // Ava's accumulator
+
+Wave level: 25
+Coordinates of teleport: 3663 3489
+Chest id: 76
+Coordinates of chest: 3675 3507 1
+Anvil coordinates: 3679 3507 1
+Zombie coordinates:
+3665 3503
+3661 3506
+3660 3502
+3658 3498
+3660 3497
+3664 3498
+3664 3493
+3660 3492
+3657 3489
+3662 3488
+3666 3487
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+560 // Death rune
+563 // Law rune
+566 // Soul rune
+7936 // Pure essence
+1759 // Ball of wool (to string amulets)
+1619 // Uncut ruby
+1631 // Uncut dragonstone
+227 // Vial of water
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+6693 // Crushed nest
+3049// Saradomin brew, Toadflax
+261 // Clean avantoe
+145 // Extreme attack potion, Super attack(3)
+267 // Clean Dwarf weed
+157 // Extreme strength potion, Super strength(3)
+2481 // Clean lantadyme
+163 // Extreme defence potion, Super defence(3)
+9594 // Ground mud rune
+3042 // Extreme magic potion, Magic potion(3)
+12539 // Grenwall spikes
+169 // Extreme ranging potion, Ranging potion(3)
+6810 // Bonemeal
+139 // Super prayer potion, Prayer potion(3)
+2509 // Black leather
+1511 // Normal log
+1513 // Magic log
+2363 // Runite bar
+18637 // Darkcrab
+8850 // Rune defender
+7461 // Gloves
+10499 // Ava's accumulator
+
+Wave level: 30
+Coordinates of teleport: 3484 3217
+Chest id: 76
+Coordinates of chest: 3489 3220 1
+Anvil coordinates: 3484 3211 1
+Zombie coordinates:
+3478 3218
+3476 3216
+3479 3214
+3481 3215
+3482 3218
+3485 3221
+3486 3216
+3490 3218
+3491 3215
+3485 3223
+3484 3223
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+560 // Death rune
+563 // Law rune
+566 // Soul rune
+7936 // Pure essence
+1759 // Ball of wool (to string amulets)
+1619 // Uncut ruby
+1631 // Uncut dragonstone
+227 // Vial of water
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+6693 // Crushed nest
+3049// Saradomin brew, Toadflax
+261 // Clean avantoe
+145 // Extreme attack potion, Super attack(3)
+267 // Clean Dwarf weed
+157 // Extreme strength potion, Super strength(3)
+2481 // Clean lantadyme
+163 // Extreme defence potion, Super defence(3)
+9594 // Ground mud rune
+3042 // Extreme magic potion, Magic potion(3)
+12539 // Grenwall spikes
+169 // Extreme ranging potion, Ranging potion(3)
+6810 // Bonemeal
+139 // Super prayer potion, Prayer potion(3)
+2509 // Black leather
+1511 // Normal log
+1513 // Magic log
+2363 // Runite bar
+18637 // Darkcrab
+8850 // Rune defender
+7461 // Gloves
+10499 // Ava's accumulator
+
+Wave level: 35
+Coordinates of teleport: 3521 3233
+Chest id: 76
+Coordinates of chest: 3522 3226 1
+Anvil coordinates: 3512 3240 1
+Zombies:
+3518 3232
+3514 3232
+3512 3234
+3514 3235
+3516 3238
+3520 3238
+3520 3241
+3522 3242
+3524 3237
+3527 3237
+3527 3235
+3525 3233
+3523 3230
+3520 3231
+3518 3228
+3519 3226
+3526 3229
+3529 3227
+3531 3230
+3532 3233
+3530 3235
+3529 3233
+3531 3239
+Shop supplies:
+556 // Air rune
+558 // Mind rune
+555 // Water rune
+557 // Earth rune
+554 // Fire rune
+564 // Cosmic rune
+562 // Chaos rune
+9075 // Astral rune
+561 // Nature rune
+560 // Death rune
+563 // Law rune
+566 // Soul rune
+7936 // Pure essence
+1759 // Ball of wool (to string amulets)
+1619 // Uncut ruby
+1631 // Uncut dragonstone
+227 // Vial of water
+223 // Red Spider's Eggs
+3051 // Super Restore Potion, Snapdragon
+6693 // Crushed nest
+3049// Saradomin brew, Toadflax
+261 // Clean avantoe
+145 // Extreme attack potion, Super attack(3)
+267 // Clean Dwarf weed
+157 // Extreme strength potion, Super strength(3)
+2481 // Clean lantadyme
+163 // Extreme defence potion, Super defence(3)
+9594 // Ground mud rune
+3042 // Extreme magic potion, Magic potion(3)
+12539 // Grenwall spikes
+169 // Extreme ranging potion, Ranging potion(3)
+6810 // Bonemeal
+139 // Super prayer potion, Prayer potion(3)
+2509 // Black leather
+1511 // Normal log
+1513 // Magic log
+2363 // Runite bar
+18637 // Darkcrab
+8850 // Rune defender
+7461 // Gloves
+10499 // Ava's accumulator
+
+Wave level: 100
+
+// Blank line left at end, so it saves the last wave data.

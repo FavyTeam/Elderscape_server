@@ -1,0 +1,2 @@
+SLF4J: The requested version 1.5.8 by your slf4j binding is not compatible with [1.6, 1.7]
+SLF4J: See http://www.slf4j.org/codes.html#version_mismatch for further details.

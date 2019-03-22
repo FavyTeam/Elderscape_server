@@ -1,0 +1,1227 @@
+[
+	{
+		"npc_name": "Woman",
+		"npc_type": 3015,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Gambler",
+		"npc_type": 5417,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Fiona",
+		"npc_type": 8193,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Morgan",
+		"npc_type": 3479,
+		"roam_distance": 4
+	},
+	{
+		"npc_name": "Dr Harlow",
+		"npc_type": 3480,
+		"roam_distance": 4
+	},
+	{
+		"npc_name": "Woman",
+		"npc_type": 3083,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Woman",
+		"npc_type": 3084,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Woman",
+		"npc_type": 3085,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Lady Servil",
+		"npc_type": 1219,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Sandwich lady",
+		"npc_type": 5510,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Emblem Trader",
+		"npc_type": 7941,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Easter Bunny",
+		"npc_type": 7516,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6939,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6940,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6941,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6942,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Priestess Zul-Gwenwynig",
+		"npc_type": 1617,
+		"roam_distance": 2
+	},
+	{
+		"npc_name": "Party pete",
+		"npc_type": 11201,
+		"roam_distance": 10
+	},
+	{
+		"npc_name": "Vorki",
+		"npc_type": 8025,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Lil' zik",
+		"npc_type": 8336,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Pet snakeling",
+		"npc_type": 2131,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Pet snakeling",
+		"npc_type": 2132,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Pet snakeling",
+		"npc_type": 2130,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Baby mole",
+		"npc_type": 5780,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Kalphite Larva",
+		"npc_type": 966,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Cook",
+		"npc_type": 4626,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Archer",
+		"npc_type": 1157,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Warrior",
+		"npc_type": 1158,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Monk",
+		"npc_type": 1159,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Wizard",
+		"npc_type": 1160,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Shamus",
+		"npc_type": 1162,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "King Narnode Shareen",
+		"npc_type": 1423,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Monkey guard",
+		"npc_type": 5271,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Karam",
+		"npc_type": 7172,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Lumdo",
+		"npc_type": 1453,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Lumo",
+		"npc_type": 7112,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Daero",
+		"npc_type": 1445,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Scorpia's offspring",
+		"npc_type": 5561,
+		"roam_distance": 2
+	},
+	{
+		"npc_name": "Adam",
+		"npc_type": 311,
+		"roam_distance": 2
+	},
+	{
+		"npc_name": "Ajjat",
+		"npc_type": 2460,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Stray dog",
+		"npc_type": 2902,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Stray dog",
+		"npc_type": 2922,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Town crier",
+		"npc_type": 276,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Benny",
+		"npc_type": 5216,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Lowe",
+		"npc_type": 536,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Shop assistant",
+		"npc_type": 509,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Shop keeper",
+		"npc_type": 508,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Shop keeper",
+		"npc_type": 537,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Gypsie",
+		"npc_type": 5082,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Bartender",
+		"npc_type": 1312,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Gundai",
+		"npc_type": 1600,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Smithing tutor",
+		"npc_type": 3225,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 2898,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 2897,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 400,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Baraek",
+		"npc_type": 533,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Zaff",
+		"npc_type": 532,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Snow sprite",
+		"npc_type": 8005,
+		"roam_distance": 15
+	},	
+	{
+		"npc_name": "Kraken",
+		"npc_type": 6640,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "A'abla",
+		"npc_type": 3341,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Sawmill operator",
+		"npc_type": 5422,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Santa",
+		"npc_type": 11113,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Charlie the tramp",
+		"npc_type": 5209,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Santa",
+		"npc_type": 11112,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Ent trunk",
+		"npc_type": 6595,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Halloween dealer",
+		"npc_type": 11086,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Shady figure",
+		"npc_type": 7638,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Mage of Zamorak",
+		"npc_type": 7425,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Shady figure",
+		"npc_type": 7632,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Tradesman",
+		"npc_type": 679,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bob Barter",
+		"npc_type": 5449,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Perdu",
+		"npc_type": 7456,
+		"roam_distance": 6
+	},
+	{
+		"npc_name": "Abbot Langley",
+		"npc_type": 2577,
+		"roam_distance": 4
+	},
+	{
+		"npc_name": "General store",
+		"npc_type": 517,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Krystilia",
+		"npc_type": 7663,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Thief",
+		"npc_type": 1177,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "The Monkey's Nan",
+		"npc_type": 5270,
+		"roam_distance": 4
+	},
+	{
+		"npc_name": "Durial321",
+		"npc_type": 11057,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Death",
+		"npc_type": 5567,
+		"roam_distance": 0
+	},
+    {
+        "npc_name": "Vet'ion Jr.",
+        "npc_type": 5537,
+        "roam_distance": 0
+    },
+    {
+        "npc_name": "Vet'ion Jr.",
+        "npc_type": 5536,
+        "roam_distance": 0
+    },
+    {
+        "npc_name": "Baby impling",
+        "npc_type": 1645,
+        "roam_distance": 6,
+		"respawn_timer": 15
+    },
+	{
+		"npc_name": "Young impling",
+		"npc_type": 1646,
+		"roam_distance": 6,
+		"respawn_timer": 20
+	},
+	{
+		"npc_name": "Gourmet impling",
+		"npc_type": 1647,
+		"roam_distance": 6,
+		"respawn_timer": 25
+	},
+	{
+		"npc_name": "Earth impling",
+		"npc_type": 1648,
+		"roam_distance": 6,
+		"respawn_timer": 30
+	},
+	{
+		"npc_name": "Essence impling",
+		"npc_type": 1649,
+		"roam_distance": 6,
+		"respawn_timer": 35
+	},
+	{
+		"npc_name": "Eclectic impling",
+		"npc_type": 1650,
+		"roam_distance": 6,
+		"respawn_timer": 40
+	},
+	{
+		"npc_name": "Nature impling",
+		"npc_type": 1651,
+		"roam_distance": 6,
+		"respawn_timer": 45
+	},
+	{
+		"npc_name": "Magpie impling",
+		"npc_type": 1652,
+		"roam_distance": 6,
+		"respawn_timer": 50
+	},
+	{
+		"npc_name": "Ninja impling",
+		"npc_type": 1653,
+		"roam_distance": 6,
+		"respawn_timer": 55
+	},
+	{
+		"npc_name": "Dragon impling",
+		"npc_type": 1654,
+		"roam_distance": 6,
+		"respawn_timer": 60
+	},
+	{
+		"npc_name": "Anglerfish",
+		"npc_type": 4082,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Karambwan",
+		"npc_type": 4712,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Wise Old Man",
+		"npc_type": 2108,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Mandrith",
+		"npc_type": 6599,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cleaner",
+		"npc_type": 2901,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Hellpuppy",
+		"npc_type": 964,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Tzrek-jad",
+		"npc_type": 5892,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Fair",
+		"npc_type": 520,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Nurse healer",
+		"npc_type": 3343,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bloodhound",
+		"npc_type": 6296,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Party Pete",
+		"npc_type": 5792,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Vasa Nistirio",
+		"npc_type": 11016,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Vespula",
+		"npc_type": 11017,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Vote shop",
+		"npc_type": 7283,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cow31337Killer",
+		"npc_type": 4420,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Player Pet",
+		"npc_type": 4421,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Hans",
+		"npc_type": 3077,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Sheep",
+		"npc_type": 2800,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Vannaka",
+		"npc_type": 403,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Nieve",
+		"npc_type": 6797,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6538,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Sigmund The Merchant",
+		"npc_type": 1282,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Make-over mage",
+		"npc_type": 1306,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bob",
+		"npc_type": 505,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Sir Prysin",
+		"npc_type": 5083,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Guide",
+		"npc_type": 306,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Horvik",
+		"npc_type": 535,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Void Knight",
+		"npc_type": 1758,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Teleporter",
+		"npc_type": 4397,
+		"roam_distance": 4
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 394,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 395,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 396,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 397,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Aggie",
+		"npc_type": 4284,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 6080,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 6083,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Martin the Master Gardener",
+		"npc_type": 5832,
+		"roam_distance": 6
+	},
+	{
+		"npc_name": "Mage of Zamorak",
+		"npc_type": 2580,
+		"roam_distance": 6
+	},
+	{
+		"npc_name": "Shrimp",
+		"npc_type": 3913,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Lobster",
+		"npc_type": 3914,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 3915,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 635,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 1506,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Man",
+		"npc_type": 3078,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kaqemeex",
+		"npc_type": 455,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Hickton",
+		"npc_type": 575,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Wilfred",
+		"npc_type": 4906,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Ajjat",
+		"npc_type": 4288,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Sloane",
+		"npc_type": 4297,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Master Chef",
+		"npc_type": 847,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Armour salesman",
+		"npc_type": 682,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Brother Jered",
+		"npc_type": 802,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Nurse Tafani",
+		"npc_type": 3343,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Robe Store Owner",
+		"npc_type": 1658,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Master Fisher",
+		"npc_type": 308,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Ignatius Vulcan",
+		"npc_type": 4946,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Master Crafter",
+		"npc_type": 805,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Thurgo",
+		"npc_type": 604,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Dwarf",
+		"npc_type": 3295,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Aubury",
+		"npc_type": 637,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Duradel",
+		"npc_type": 8275,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Melee combat tutor",
+		"npc_type": 705,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Martin Thwait",
+		"npc_type": 2270,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cap'n Izzy No-Beard",
+		"npc_type": 437,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "TzHaar-Mej-Jal",
+		"npc_type": 2180,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "TzHaar-Mej-Kah",
+		"npc_type": 2181,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "TzHaar Ket-Zuh",
+		"npc_type": 2182,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 1446,
+		"roam_distance": 1
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kamfreena",
+		"npc_type": 2461,
+		"roam_distance": 3
+	},
+		{
+		"npc_name": "Lorelai",
+		"npc_type": 2135,
+		"roam_distance": 3
+	},
+	{
+		"npc_name": "Jatix",
+		"npc_type": 1174,
+		"roam_distance": 12
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 513,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Drogo dwarf",
+		"npc_type": 1048,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Ellis",
+		"npc_type": 3231,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Twiggy O'Korn",
+		"npc_type": 4042,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "TzHaar-Hur-Tel",
+		"npc_type": 2183,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Master Farmer",
+		"npc_type": 3257,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Farmer",
+		"npc_type": 3086,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Al-Kharid warrior",
+		"npc_type": 18,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Hatius Cosaintus",
+		"npc_type": 5523,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Barbarian",
+		"npc_type": 7285,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 512,
+		"roam_distance": 2
+	},
+	{
+		"npc_name": "Pvp task master",
+		"npc_type": 315,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Callisto cub",
+		"npc_type": 5558,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Olmlet",
+		"npc_type": 7520,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet dagannoth Supreme",
+		"npc_type": 6628,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet dagannoth Prime",
+		"npc_type": 6629,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet dagannoth Rex",
+		"npc_type": 6630,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet k'ril tsutsaroth",
+		"npc_type": 6634,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet zilyana",
+		"npc_type": 6633,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet kree'arra",
+		"npc_type": 6631,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet general graardor",
+		"npc_type": 6632,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Pet chaos Elemental",
+		"npc_type": 2055,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Prince black dragon",
+		"npc_type": 6636,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Venenatis spiderling",
+		"npc_type": 5557,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cerberus",
+		"npc_type": 5862,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Beaver",
+		"npc_type": 6717,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Heron",
+		"npc_type": 6722,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7439,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7440,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7441,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7442,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7443,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7444,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7445,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7446,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7447,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7448,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7449,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rock golem",
+		"npc_type": 7450,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Giant squirrel",
+		"npc_type": 7334,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Tangleroot",
+		"npc_type": 7335,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7337,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7338,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7339,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7340,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7341,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7342,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7343,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7344,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7345,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7346,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7347,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7348,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7349,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rift guardian",
+		"npc_type": 7350,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Rocky",
+		"npc_type": 7336,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Wily hellcat",
+		"npc_type": 5590,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5591,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5592,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5593,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5594,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5595,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5596,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Hell-kitten",
+		"npc_type": 5597,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5598,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5599,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5600,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5601,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5602,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kitten",
+		"npc_type": 5603,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Lazy hellcat",
+		"npc_type": 5604,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Josh's tekton",
+		"npc_type": 11015,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5548,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5549,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5550,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5551,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5552,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Torfinn",
+		"npc_type": 8131,
+		"roam_distance": 5
+	}
+]

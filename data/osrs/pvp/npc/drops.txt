@@ -1,0 +1,743 @@
+// means do not announce.
+// add the highest rarity drop first.
+// 1 in x, itemId, amount, // name.
+// add announce at the end only if drop will be announced or pet which means it's a boss pet drop.
+
+// Vorkath
+Npc: 8059
+600 21992 1 pet // Vorki
+200 22006 1 announce // Skeletal visage
+200 11286 1 announce // Draconic visage
+200 22106 1 // Jar of decay
+200 22111 1 // Dragonbone necklace
+128 5317 1 // Spirit seed
+128 5316 1 // Magic seed
+128 5315 1 // Yew seed
+128 5289 1 // Palm tree seed
+128 21488 1 // Mahogany seed
+128 21880 30-100 // Wrath rune
+128 1392 5-15 // Battlestaff
+65 12073 1 // Clue scroll (elite)
+50 21907 1 // Vorkath's head
+32 537 7-28 // Dragon bones
+32 22118 1 // Wrath talisman
+32 5290 1 // Calquat tree seed
+32 5314 1 // Maple seed
+32 21486 1 // Teak seed
+32 5313 1 // Willow seed
+32 5304 1 // Torstol seed
+32 5300 1 // Snapdragon seed
+32 5295 1 // Ranarr seed
+32 5321 15 // Watermelon seed
+32 5288 1 // Papaya tree seed
+32 21930 50-100 // Dragon bolts (unf)
+32 1616 1-3 // Dragonstone
+32 11237 25-50 // Dragon arrowtips
+32 11232 10-50 // Dragon dart tip
+32 824 76-100 // Rune dart tip
+32 9194 5-30 // Onyx bolt tips
+32 9193 7-28 // Dragonstone bolt tips
+32 21338 25-30 // Amethyst bolt tips
+32 9192 29-30 // Diamond bolt tips
+32 9191 26-31 // Ruby bolt tips
+32 9190 25-35 // Emerald bolt tips
+32 9189 25-35 // Sapphire bolt tips
+32 1748 15-25 // Black dragonhide
+32 1750 15-25 // Red dragonhide
+32 560 300-500 // Death rune
+32 4585 1 // Dragon plateskirt
+32 4087 1 // Dragon platelegs
+32 1305 1 // Dragon longsword
+32 1377 1 // Dragon battleaxe
+8 392 25-55 // Manta ray
+8 995 20000-81000 // Coins
+8 1514 50 // Magic logs
+8 1988 250-301 // Grapes
+8 6694 10-30 // Crushed nest
+8 1602 10-30 // Diamond
+8 450 10-30 // Adamantite ore
+8 1752 20-30 // Blue dragonhide
+8 1754 25-32 // Green dragonhide
+8 562 650-1000 // Chaos rune
+8 1201 2-3 // Rune kiteshield
+8 1303 2-3 // Rune longsword
+1 1751 2 // Blue dragonhide
+1 22124 2 // Superior dragon bones
+1 13307 225 // Blood money
+
+// Zulrah
+Npc: 2043 2044 2042
+600 12921 1 pet // Pet snakeling
+6553 13201 1 // Magma mutagen
+6553 13200 1 // Tanzanite mutagen
+3000 12936 1 // Jar of swamp
+512 6571 1 // Uncut onyx
+512 12927 1 // Serpentine visage
+512 12932 1 // Magic fang
+512 12922 1 // Tanzanite fang
+256 4207 1 // Crystal seed
+256 5317 1 // Spirit seed
+128 5304 1 // Torstol seed
+128 5303 2 // Dwarf weed seed
+128 5300 1 // Snapdragon seed
+128 5296 2 // Toadflax seed
+128 270 10 // Torstol
+128 268 30 // Dwarf weed
+128 3001 10 // Snapdragon
+128 2999 25 // Toadflax
+128 3204 1 // Dragon halberd
+128 1149 1 // Dragon med helm
+75 12073 1 // Clue scroll (elite)
+64 5316 1 // Magic seed
+32 2362 20 // Adamantite bar
+32 6694 10 // Crushed nest
+32 1939 1000 // Swamp tar
+32 392 35 // Manta ray
+32 1392 10 // Battlestaff
+32 12934 500 // Zulrah's scales
+32 5288 3 // Papaya tree seed
+32 5289 1 // Palm tree seed
+32 5290 2 // Calquat tree seed
+32 452 2 // Runite ore
+32 454 200 // Coal
+32 6332 50 // Mahogany logs
+32 7937 1500 // Pure essence
+32 562 500 // Chaos rune
+32 560 300 // Death rune
+25 1780 1000 // Flax
+17 12938 4 // Zul-andra teleport
+8 1988 250 // Grapes
+8 5975 20 // Coconut
+8 537 12 // Dragon bones
+8 1516 35 // Yew logs
+8 9193 12 // Dragonstone bolt tips
+8 6290 35 // Snakeskin
+8 563 200 // Law rune
+1 12934 100-300 // Zulrah's scales
+
+// Cerberus
+Npc: 5862
+600 13247 1 pet // Hellpuppy
+400 13245 1 // Jar of souls
+56 13233 1 // Smouldering stone
+56 13227 1 announce // Eternal crystal
+56 13229 1 // Pegasian crystal
+56 13231 1 announce // Primordial crystal
+64 13249 3 // Key master teleport
+32 452 5 // Runite ore
+32 220 6 // Grimy torstol
+32 5304 3 // Torstol seed
+32 2 50 // Cannonball
+32 9381 40 // Runite bolts (unf)
+32 565 60 // Blood rune
+32 1127 1 // Rune platebody
+32 1113 1 // Rune chainbody
+32 1275 1 // Rune pickaxe
+32 1359 1 // Rune axe
+32 1163 1 // Rune full helm
+32 2503 1 // Black d'hide body
+32 3202 1 // Rune halberd
+32 1319 1 // Rune 2h sword
+8 1618 5 // Uncut diamond
+8 570 20 // Fire orb
+8 246 15 // Wine of zamorak
+8 537 20 // Dragon bones
+8 593 50 // Ashes
+8 7218 3 // Summer pie
+8 1724 1 // Unholy symbol
+8 995 10000-20000 // Coins
+8 454 120 // Coal
+8 3024 2 // Super restore(4)
+8 566 100 // Soul rune
+8 560 100 // Death rune
+8 554 300 // Fire rune
+8 7937 300 // Pure essence
+8 1392 6 // Battlestaff
+8 3053 1 // Lava battlestaff
+1 13307 175-275 // Blood money
+1 592 1 // Ashes
+
+// Corporeal beast
+Npc: 319
+600 12816 1 pet // Pet dark core
+1656 12819 1 announce // Elysian sigil
+396 12827 1 announce // Arcane sigil
+396 12823 1 announce // Spectral sigil
+42 12833 1 // Holy elixir
+14 12829 1 // Spirit shield
+30 5295 10 // Ranarr seed
+32 7060 30 // Tuna potato
+32 9735 120 // Desert goat horn
+32 240 120 // White berries
+32 384 70 // Raw shark
+32 1754 100 // Green dragonhide
+32 1514 75 // Magic logs
+32 6332 150 // Mahogany logs
+32 8781 100 // Teak plank
+32 2362 35 // Adamantite bar
+32 452 20 // Runite ore
+32 450 125 // Adamantite ore
+32 566 250 // Soul rune
+32 560 300 // Death rune
+32 564 500 // Cosmic rune
+32 563 250 // Law rune
+32 7937 2500 // Pure essence
+32 4093 1 // Mystic robe bottom (blue)
+32 4091 1 // Mystic robe top (blue)
+32 1401 1 // Mystic fire staff
+32 1407 1 // Mystic earth staff
+32 1403 1 // Mystic water staff
+32 1405 1 // Mystic air staff
+32 9144 250 // Runite bolts
+32 890 750 // Adamant arrow
+32 1462 1 // Nature talisman
+32 1631 1 // Uncut dragonstone
+32 1617 1 // Uncut diamond
+32 1619 1 // Uncut ruby
+30 2 2000 // Cannonball
+26 9245 175 // Onyx bolts (e)
+8 5321 24 // Watermelon seed
+8 1621 1 // Uncut emerald
+8 1623 1 // Uncut sapphire
+1 13307 900 // Blood money
+
+// Giant mole
+Npc: 5779
+600 12646 1 pet // Baby mole
+40 3140 1 // Dragon chainbody
+20 7158 1 // Dragon 2h sword
+10 4088 1 // Dragon platelegs
+10 13307 600-1100 // Blood money
+1 13307 97 // Blood money
+1 7416 1-3 // Mole claw
+1 532 1 // Big bones
+
+// Kalphite Queen
+Npc: 963
+600 12654 1 pet // Kalphite princess
+20 3140 1 // Dragon chainbody
+20 7158 1 // Dragon 2h sword
+12 13307 1500-3500 // Blood money
+1 13307 275 // Blood money
+
+// Demonic gorilla
+Npc: 7144
+600 16028 1 pet // Demonic gorilla pet
+400 19481 1 announce // Heavy ballista
+150 19544 1 announce // Tormented bracelet
+150 19553 1 // Amulet of torture
+150 19547 1 // Necklace of anguish
+125 19550 1 // Ring of suffering
+1 13307 100 // Blood money
+1 592 1 // Ashes
+
+// Lizard shaman
+Npc: 6766
+600 16261 1 pet // Spawn pet
+700 13576 1 announce // Dragon warhammer
+25 13307 1000-2000 // Blood money
+25 1149 1 // Dragon med helm
+1 13307 30 // Blood money
+1 532 1 // Big bones
+
+// Scorpia
+Npc: 6615
+600 13181 1 pet // Scorpia's offspring
+100 11924 1 announce // Malediction ward
+100 11926 1 announce // Odium ward
+20 11941 1 // Looting bag
+15 13307 1699-4999 // Blood money
+8 14878 1 // Armadyl statuette
+1 13307 99 // Blood money
+
+// Crazy Archaeologist
+Npc: 6618
+600 16250 1 pet // Giant rat pet
+170 11924 1 announce // Malediction ward
+170 11926 1 announce // Odium ward
+170 11990 1 // Fedora
+30 11941 1 // Looting bag
+20 13307 1700-3300 // Blood money
+15 11212 35 // Dragon arrows
+1 13307 100 // Blood money
+1 526 1 // Bones
+
+// Kraken
+Npc: 496
+600 12655 1 pet // Pet kraken
+40 12899 1 // Trident of the swamp
+40 12006 1 // Abyssal tentacle
+15 13307 520-2400 // Blood money
+1 13307 50 // Blood money
+
+// Chaos Fanatic
+Npc: 6619
+2000 21021 1 announce // Ancestral robe top
+600 16157 1 pet // Pet white chaos elemental
+150 11924 1 announce // Malediction ward
+150 11926 1 announce // Odium ward
+25 13307 1700-3300 // Blood money
+15 14879 1 // Zamorak statuette
+1 13307 150 // Blood money
+1 526 1 // Bones
+
+// Elder chaos druid
+Npc: 6607
+300 20517 1 // Elder top
+300 20520 1 // Elder bottoms
+300 20595 1 // Elder hood
+2 13307 95 // Blood money
+1 526 1 // Bones
+
+// Vet'ion
+Npc: 6611
+600 13179 1 pet // Vet'ion jr.
+75 11920 1 // Dragon pickaxe
+75 7158 1 // Dragon 2h sword
+75 12601 1 // Ring of the gods
+1 13307 850 // Blood money
+1 532 1 // Big bones
+
+// Tormented demon
+Npc: 11011
+600 16007 1 pet // Tormented demon pet
+600 20784 1 announce // Dragon claws
+80 3140 1 // Dragon chainbody
+60 1187 1 // Dragon sq shield
+60 4087 1 // Dragon platelegs
+30 11840 1 // Dragon boots
+60 4585 1 // Dragon plateskirt
+16 13307 350-1150 // Blood money
+1 13307 150 // Blood money
+1 592 1 // Ashes
+
+// Callisto
+Npc: 6503
+600 13178 1 pet // Callisto cub
+100 21009 1 // Dragon sword
+50 11920 1 // Dragon pickaxe
+50 7158 1 // Dragon 2h sword
+50 12603 1 // Tyrannical ring
+30 13307 1100-2600 // Blood money
+10 11937 30-90 // Dark crab
+1 13307 230 // Blood money
+1 532 1 // Big bones
+
+// Ice Strykewyrm
+Npc: 11006
+1200 21018 1 announce // Ancestral hat
+600 16008 1 pet // Ice strykewyrm pet
+400 12904 1 announce // Toxic staff of the dead
+250 11791 1 // Staff of the dead
+9 13307 1000-2200 // Blood money
+1 13307 30 // Blood money
+
+// Chaos elemental
+Npc: 2054
+600 11995 1 pet // Pet chaos elemental
+600 13576 1 announce // Dragon warhammer
+350 21730 1 announce // Black tourmaline core
+70 11920 1 // Dragon pickaxe
+70 7158 1 // Dragon 2h sword
+16 13307 2000-3300 // Blood money
+1 13307 100 // Blood money
+
+// Venenatis
+Npc: 6504
+600 13177 1 pet // Venenatis spiderling
+350 21000 1 announce // Twisted buckler
+40 12605 1 // Treasonous ring
+40 7158 1 // Dragon 2h sword
+40 11920 1 // Dragon pickaxe
+20 11937 70-120 // Dark crab
+12 13307 900-1900 // Blood money
+1 13307 80 // Blood money
+
+// King Black Dragon
+Npc: 239
+600 12653 1 pet // Prince black dragon
+300 11286 1 announce // Draconic visage
+4 13307 400-650 // Blood money
+1 1747 2 // Black dragonhide
+1 536 1 // Dragon bones
+
+// Dagannoth Supreme
+Npc: 2265
+600 12643 1 pet // Pet dagannoth supreme
+30 6733 1 // Archers ring
+30 6739 1 // Dragon axe
+6 13307 300-350 // Blood money
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// Dagannoth Prime
+Npc: 2266
+600 12644 1 pet // Pet dagannoth prime
+30 6731 1 // Seer's ring
+30 6739 1 // Dragon axe
+6 13307 700-900 // Blood money
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// Dagannoth Rex
+Npc: 2267
+600 12645 1 pet // Pet dagannoth rex
+30 6737 1 // Berserker ring
+30 6735 1 // Warrior ring
+30 6739 1 // Dragon axe
+6 13307 300-350 // Blood money
+1 6155 1 // Dagannoth hide
+1 6729 1 // Dagannoth bones
+
+// K'ril Tsutsaroth
+Npc: 3129
+600 12652 1 pet // Pet k'ril tsutsaroth
+308 11816 1 announce // Zamorak hilt
+128 11824 1 // Zamorakian spear
+75 11798 1 // Godsword blade
+25 11818 1 // Godsword shard 1
+25 11820 1 // Godsword shard 2
+25 11822 1 // Godsword shard 3
+6 13307 300-2000 // Blood money
+1 592 1 // Ashes
+
+// Commander Zilyana
+Npc: 2205
+600 12651 1 pet // Pet zilyana
+308 11814 1 announce // Saradomin hilt
+308 11785 1 announce // Armadyl crossbow
+128 11838 1 // Saradomin sword
+75 11798 1 // Godsword blade
+25 11818 1 // Godsword shard 1
+25 11820 1 // Godsword shard 2
+25 11822 1 // Godsword shard 3
+9 13307 800-1400 // Blood money
+1 526 1 // Bones
+
+// General Graardor
+Npc: 2215
+600 12650 1 pet // Pet general graardor
+250 11812 1 announce // Bandos hilt
+200 11832 1 announce // Bandos chestplate
+200 11834 1 announce // Bandos tassets
+200 11836 1 // Bandos boots
+75 11798 1 // Godsword blade
+25 11818 1 // Godsword shard 1
+25 11820 1 // Godsword shard 2
+25 11822 1 // Godsword shard 3
+6 13307 100-800 // Blood money
+1 532 1 // Big bones
+
+// Kree'arra
+Npc: 3162
+600 12649 1 pet // Pet kree'arra
+356 11810 1 announce // Armadyl hilt
+270 11826 1 // Armadyl helmet
+270 11828 1 announce // Armadyl chestplate
+270 11830 1 announce // Armadyl plateskirt
+75 11798 1 // Godsword blade
+25 11818 1 // Godsword shard 1
+25 11820 1 // Godsword shard 2
+25 11822 1 // Godsword shard 3
+6 13307 100-300 // Blood money
+1 314 1-15 // Feather
+1 532 1 // Big bones
+
+// Lava dragon
+Npc: 6593
+1000 11284 1 announce // Dragonfire shield
+1 11992 1 // Lava scale
+1 1747 1 // Black dragonhide
+1 11943 1 // Lava dragon bones
+
+// Battle mage
+Npc: 1610 1611 1612
+4000 21006 1 announce // Kodai wand
+400 6889 1 // Mages' book
+200 6916 1 // Infinity top
+200 6924 1 // Infinity bottoms
+200 6918 1 // Infinity hat
+400 6914 1 // Master wand
+200 6922 1 // Infinity gloves
+200 6920 1 // Infinity boots
+30 13307 400-600 // Blood money
+1 13307 70 // Blood money
+1 526 1 // Bones
+
+// Revenant hellhound
+Npc: 11009
+4000 21024 1 announce // Ancestral robe bottom
+100 14876 1 // Ancient statuette
+55 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+6 13307 230 // Blood money
+
+// Revenant dark beast
+Npc: 11007
+4000 21024 1 announce // Ancestral robe bottom
+100 14876 1 // Ancient statuette
+55 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+6 13307 400 // Blood money
+
+// Revenant ork
+Npc: 11010
+4000 21024 1 announce // Ancestral robe bottom
+100 14876 1 // Ancient statuette
+65 14880 1 // Saradomin statuette
+40 14881 1 // Bandos statuette
+35 14882 1 // Ruby chalice
+6 13307 225 // Blood money
+
+// Revenant knight
+Npc: 7939
+2400 16203 1 pet // Revenant knight pet
+2500 22305 1 announce // Ancient relic
+1800 22542 1 announce // Viggora's chainmace (u)
+1800 22547 1 announce // Craw's bow (u)
+1800 22552 1 announce // Thammaron's sceptre (u)
+1700 22302 1 announce // Ancient effigy
+1400 22299 1 announce // Ancient medallion
+600 21813 1 // Ancient statuette
+400 21810 1 // Ancient totem
+200 21807 1 // Ancient emblem
+200 21817 1 // Bracelet of ethereum
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+3 13307 100 // Blood money
+
+// Revenant dragon
+Npc: 11124
+1700 16198 1 pet // Revenant dragon pet
+1650 22305 1 announce // Ancient relic
+1600 22542 1 announce // Viggora's chainmace (u)
+1600 22547 1 announce // Craw's bow (u)
+1600 22552 1 announce // Thammaron's sceptre (u)
+1500 22302 1 announce // Ancient effigy
+1250 22299 1 announce // Ancient medallion
+750 21813 1 // Ancient statuette
+400 21810 1 // Ancient totem
+200 21807 1 // Ancient emblem
+200 21817 1 // Bracelet of ethereum
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+3 13307 250 // Blood money
+
+// Revenant demon
+Npc: 7936
+2400 16204 1 pet // Revenant demon pet
+2500 22305 1 announce // Ancient relic
+2000 22542 1 announce // Viggora's chainmace (u)
+2000 22547 1 announce // Craw's bow (u)
+2000 22552 1 announce // Thammaron's sceptre (u)
+1500 22302 1 announce // Ancient effigy
+1000 22299 1 announce // Ancient medallion
+700 21813 1 // Ancient statuette
+400 21810 1 // Ancient totem
+200 21807 1 // Ancient emblem
+200 21817 1 // Bracelet of ethereum
+50 21802 3-20 // Revenant cave teleport
+50 21820 200-400 // Revenant ether
+3 13307 72 // Blood money
+
+// Nechryael
+Npc: 8
+20 11840 1 // Dragon boots
+10 13307 100-300 // Blood money
+1 592 1 // Ashes
+
+// Abyssal demon
+Npc: 415
+30 4151 1 // Abyssal whip
+10 13307 100-300 // Blood money
+1 592 1 // Ashes
+
+// Dark beast
+Npc: 4005
+30 11235 1 // Dark bow
+10 11212 8-16 // Dragon arrows
+10 13307 500-980 // Blood money
+1 532 1 // Big bones
+
+// Dust devil
+Npc: 423
+100 3140 1 // Dragon chainbody
+10 13307 140-250 // Blood money
+1 526 1 // Bones
+
+// Iron Dragon
+Npc: 272
+1508 11286 1 announce // Draconic visage
+30 4087 1 // Dragon platelegs
+30 4585 1 // Dragon plateskirt
+30 1149 1 // Dragon med helm
+30 2366 1 // Shield left half
+5 13307 210-300 // Blood money
+1 2351 5 // Iron bar
+1 536 1 // Dragon bones
+
+// Steel Dragon
+Npc: 274
+1508 11286 1 announce // Draconic visage
+312 4087 1 // Dragon platelegs
+312 4585 1 // Dragon plateskirt
+312 1149 1 // Dragon med helm
+312 2366 1 // Shield left half
+1 2353 5 // Steel bar
+1 536 1 // Dragon bones
+
+// Black dragon
+Npc: 252
+1508 11286 1 announce // Draconic visage
+5 13307 260-400 // Blood money
+1 1747 1 // Black dragonhide
+1 536 1 // Dragon bones
+
+// Brutal black dragon
+Npc: 7275
+800 11286 1 announce // Draconic visage
+200 3140 1 // Dragon chainbody
+200 1187 1 // Dragon sq shield
+200 4087 1 // Dragon platelegs
+200 11840 1 // Dragon boots
+200 4585 1 // Dragon plateskirt
+1 1748 5 // Black dragonhide
+1 537 5 // Dragon bones
+
+// Brutal red black dragon
+Npc: 7274
+900 11286 1 announce // Draconic visage
+230 3140 1 // Dragon chainbody
+230 1187 1 // Dragon sq shield
+230 4087 1 // Dragon platelegs
+230 11840 1 // Dragon boots
+230 4585 1 // Dragon plateskirt
+1 1750 5 // Red dragonhide
+1 537 4 // Dragon bones
+
+// Brutal blue black dragon
+Npc: 7273
+1000 11286 1 announce // Draconic visage
+250 3140 1 // Dragon chainbody
+250 1187 1 // Dragon sq shield
+250 4087 1 // Dragon platelegs
+250 11840 1 // Dragon boots
+250 4585 1 // Dragon plateskirt
+1 1752 5 // Blue dragonhide
+1 537 4 // Dragon bones
+
+// Tzhaar-xil
+Npc: 2167
+24 6529 40-160 // Tokkul
+
+// God wars dungeon boss room minion
+Npc: 3131 3130 3132 2217 2218 2216 3163 3164 3165 2208 2207 2206
+4 13307 160-300 // Blood money
+
+// Green dragon
+Npc: 260 261 262 263 264
+42 1355 1 // Mithril axe
+35 13510 1 // Ensouled dragon head
+32 565 5 // Blood rune
+32 560 15 // Death rune
+32 563 9 // Law rune
+32 447 2 // Mithril ore
+32 7946 1 // Monkfish
+32 1199 1 // Adamant kiteshield
+32 1287 1 // Adamant sword
+32 1211 1 // Adamant dagger
+32 1071 1 // Mithril platelegs
+32 1315 1 // Mithril 2h sword
+32 1369 1 // Mithril battleaxe
+32 449 1 // Adamantite ore
+32 1213 1 // Rune dagger
+32 1197 1 // Mithril kiteshield
+32 1243 1 // Mithril spear
+32 21257 1 // Slayer's enchantment
+32 217 1 // Grimy dwarf weed
+32 2485 1 // Grimy lantadyme
+32 213 1 // Grimy kwuarm
+32 207 1 // Grimy ranarr weed
+32 203 1 // Grimy tarromin
+32 201 1 // Grimy marrentill
+32 215 1 // Grimy cadantine
+32 211 1 // Grimy avantoe
+32 199 1 // Grimy guam leaf
+32 1161 1 // Adamant full helm
+30 11941 1 // Looting bag
+8 995 105-709 // Coins
+8 365 1 // Bass
+8 563 3 // Law rune
+8 561 15 // Nature rune
+8 554 37 // Fire rune
+8 555 75 // Water rune
+8 995 11-440 // Coins
+8 1069 1 // Steel platelegs
+8 1365 1 // Steel battleaxe
+8 205 1 // Grimy harralander
+8 209 1 // Grimy irit leaf
+1 1753 1 // Green dragonhide
+1 536 1 // Dragon bones
+
+// Blue dragon
+Npc: 265
+1 1751 1 // Blue dragonhide
+1 536 1 // Dragon bones
+
+// Red dragon
+Npc: 247
+1 1749 1 // Red dragonhide
+1 536 1 // Dragon bones
+
+// Baby red dragon
+Npc: 137
+1 534 1 // Baby dragon bone
+
+// Baby blue dragon
+Npc: 243
+1 534 1 // Baby dragon bone
+
+// Chicken
+Npc: 2692
+1 314 5-15 // Feather
+1 2138 1 // Raw chicken
+1 526 1 // Bones
+
+// Basilisk
+Npc: 417
+2000 7977 1 // Basilisk head
+512 4109 1 // Mystic hat (light)
+128 217 1 // Grimy dwarf weed
+128 213 1 // Grimy kwuarm
+128 1213 1 // Rune dagger
+128 563 7 // Law rune
+128 563 3 // Law rune
+32 449 1 // Adamantite ore
+32 2485 1 // Grimy lantadyme
+32 215 1 // Grimy cadantine
+32 211 1 // Grimy avantoe
+32 1161 1 // Adamant full helm
+32 1197 1 // Mithril kiteshield
+32 1355 1 // Mithril axe
+32 1243 1 // Mithril spear
+32 561 37 // Nature rune
+32 561 15 // Nature rune
+32 561 3 // Nature rune
+8 7899 1 // Basilisk bone
+8 995 11-440 // Coins
+8 209 1 // Grimy irit leaf
+8 207 1 // Grimy ranarr weed
+8 205 1 // Grimy harralander
+8 203 1 // Grimy tarromin
+8 201 1 // Grimy marrentill
+8 199 1 // Grimy guam leaf
+8 1365 1 // Steel battleaxe
+8 555 75 // Water rune
+1 526 1 // Bones
+
+// Scorpio
+Npc: 3024
+306 21257 1 // Slayer's enchantment
+25 13459 1 // Ensouled scorpion head

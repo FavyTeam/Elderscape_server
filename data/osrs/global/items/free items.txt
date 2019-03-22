@@ -1,0 +1,528 @@
+// Items here can be spawned for free if it costs 0 blood money.
+
+1155 // Bronze full helm
+1117 // Bronze platebody
+1075 // Bronze platelegs
+1189 // Bronze kiteshield
+1139 // Bronze med helm
+1103 // Bronze chainbody
+1087 // Bronze plateskirt
+1173 // Bronze sq shield
+1171 // Wooden shield
+1153 // Iron full helm
+1115 // Iron platebody
+1067 // Iron platelegs
+1191 // Iron kiteshield
+1137 // Iron med helm
+1101 // Iron chainbody
+1081 // Iron plateskirt
+1175 // Iron sq shield
+1157 // Steel full helm
+1119 // Steel platebody
+1069 // Steel platelegs
+1193 // Steel kiteshield
+1141 // Steel med helm
+1105 // Steel chainbody
+1083 // Steel plateskirt
+1177 // Steel sq shield
+1165 // Black full helm
+1125 // Black platebody
+1077 // Black platelegs
+1195 // Black kiteshield
+1151 // Black med helm
+1107 // Black chainbody
+1089 // Black plateskirt
+1179 // Black sq shield
+1159 // Mithril full helm
+1121 // Mithril platebody
+1071 // Mithril platelegs
+1197 // Mithril kiteshield
+1143 // Mithril med helm
+1109 // Mithril chainbody
+1085 // Mithril plateskirt
+1181 // Mithril sq shield
+5574 // Initiate sallet
+5575 // Initiate hauberk
+5576 // Initiate cuisse
+9672 // Proselyte sallet
+9674 // Proselyte hauberk
+9676 // Proselyte cuisse
+9678 // Proselyte tasset
+1161 // Adamant full helm
+1123 // Adamant platebody
+1073 // Adamant platelegs
+1199 // Adamant kiteshield
+1145 // Adamant med helm
+1111 // Adamant chainbody
+1091 // Adamant plateskirt
+1183 // Adamant sq shield
+1163 // Rune full helm
+1127 // Rune platebody
+1079 // Rune platelegs
+1201 // Rune kiteshield
+1147 // Rune med helm
+1113 // Rune chainbody
+1093 // Rune plateskirt
+1185 // Rune sq shield
+3753 // Warrior helm
+3751 // Berserker helm
+10828 // Helm of neitiznot
+1323 // Iron scimitar
+1325 // Steel scimitar
+1327 // Black scimitar
+1329 // Mithril scimitar
+1331 // Adamant scimitar
+1333 // Rune scimitar
+1289 // Rune sword
+1303 // Rune longsword
+1319 // Rune 2h sword
+6528 // Tzhaar-ket-om
+4587 // Dragon scimitar
+1215 // Dragon dagger
+1377 // Dragon battleaxe
+1305 // Dragon longsword
+1434 // Dragon mace
+3204 // Dragon halberd
+6525 // Toktz-xil-ek
+8844 // Bronze defender
+8845 // Iron defender
+8846 // Steel defender
+8847 // Black defender
+8848 // Mithril defender
+8849 // Adamant defender
+8850 // Rune defender
+1731 // Amulet of power
+1729 // Amulet of defence
+1727 // Amulet of magic
+1725 // Amulet of strength
+1712 // Amulet of glory(4)
+1710 // Amulet of glory(3)
+1708 // Amulet of glory(2)
+1706 // Amulet of glory(1)
+1704 / Amulet of glory
+3105 // Climbing boots
+4119 // Bronze boots
+4121 // Iron boots
+4123 // Steel boots
+4125 // Black boots
+4127 // Mithril boots
+4129 // Adamant boots
+4131 // Rune boots
+1540 // Anti-dragon shield
+6568 // Obsidian cape
+7455 // Gloves
+7456 // Gloves
+7457 // Gloves
+7458 // Gloves
+7459 // Gloves
+7460 // Gloves
+7461 // Gloves
+2440 // Super strength(4)
+2436 // Super attack(4)
+2442 // Super defence(4)
+2444 // Ranging potion(4)
+3040 // Magic potion(4)
+2434 // Prayer potion(4)
+2446 // Antipoison(4)
+113 // Strength potion(4)
+6685 // Saradomin brew(4)
+3024 // Super restore(4)
+4045 // Explosive potion
+385 // Shark
+7946 // Monkfish
+2297 // Anchovy pizza
+373 // Swordfish
+379 // Lobster
+361 // Tuna
+329 // Salmon
+333 // Trout
+315 // Shrimps
+526 // Bones
+1523 // Lockpick
+3188 // Cleaning cloth
+952 // Spade
+1856 // Guide book
+6109 // Ghostly hood
+6107 // Ghostly robetop
+6108 // Ghostly bottoms
+6111 // Ghostly cloak
+6110 // Ghostly gloves
+6106 // Ghostly boots
+4089 // Mystic hat
+4091 // Mystic robe top
+4093 // Mystic robe bottom
+4095 // Mystic gloves
+4097 // Mystic boots
+4109 // Mystic hat
+4111 // Mystic robe top
+4113 // Mystic robe bottom
+4115 // Mystic gloves
+4117 // Mystic boots
+4099 // Mystic hat
+4101 // Mystic robe top
+4103 // Mystic robe bottom
+4107 // Mystic boots
+4105 // Mystic gloves
+9069 // Moonclan hat
+9070 // Moonclan armour
+9071 // Moonclan skirt
+9072 // Moonclan gloves
+9073 // Moonclan boots
+9074 // Moonclan cape
+3385 // Splitbark helm
+3387 // Splitbark body
+3389 // Splitbark legs
+3391 // Splitbark gauntlets
+3393 // Splitbark boots
+3755 // Farseer helm
+2412 // Saradomin cape
+2413 // Guthix cape
+2414 // Zamorak cape
+554 // Fire rune
+555 // Water rune
+556 // Air rune
+557 // Earth rune
+558 // Mind rune
+562 // Chaos rune
+559 // Body rune
+564 // Cosmic rune
+563 // Law rune
+561 // Nature rune
+565 // Blood rune
+9075 // Astral rune
+560 // Death rune
+566 // Soul rune
+1379 // Staff
+1381 // Staff of air
+1383 // Staff of water
+1387 // Staff of fire
+1385 // Staff of earth
+1389 // Magic staff
+6603 // Magic staff
+2415 // Saradomin staff
+2416 // Guthix staff
+2417 // Zamorak staff
+4675 // Ancient staff
+3842 // Unholy book
+3840 // Holy book
+3844 // Book of balance
+1167 // Leather cowl
+1129 // Leather body
+1095 // Leather chaps
+1063 // Leather vambraces
+1169 // Coif
+1131 // Hardleather body
+1097 // Studded chaps
+6326 // Snakeskin bandana
+6322 // Snakeskin body
+6324 // Snakeskin chaps
+6330 // Snakeskin vambraces
+6328 // Snakeskin boots
+1135 // Green d'hide body
+1099 // Green d'hide chaps
+1065 // Green d'hide vamb
+2499 // Blue d'hide body
+2493 // Blue d'hide chaps
+2487 // Blue d'hide vamb
+2501 // Red d'hide body
+2495 // Red d'hide chaps
+2489 // Red d'hide vamb
+2503 // Black d'hide body
+2497 // Black d'hide chaps
+2491 // Black d'hide vamb
+6131 // Spined helm
+6133 // Spined body
+6135 // Spined chaps
+6149 // Spined gloves
+6143 // Spined boots
+3749 // Archer helm
+10498 // Ava's attractor
+10499 // Ava's accumulator
+882 // Bronze arrow
+884 // Iron arrow
+886 // Steel arrow
+888 // Mithril arrow
+890 // Adamant arrow
+892 // Rune arrow
+841 // Shortbow
+843 // Oak shortbow
+849 // Willow shortbow
+853 // Maple shortbow
+857 // Yew shortbow
+861 // Magic shortbow
+877 // Bronze bolts
+9140 // Iron bolts
+9141 // Steel bolts
+9142 // Mithril bolts
+9143 // Adamant bolts
+9144 // Runite bolts
+9242 // Ruby bolts (e)
+9243 // Diamond bolts (e)
+9244 // Dragon bolts (e)
+9185 // Rune crossbow
+864 // Bronze knife
+863 // Iron knife
+865 // Steel knife
+869 // Black knife
+866 // Mithril knife
+867 // Adamant knife
+868 // Rune knife
+579 // Wizard hat
+577 // Wizard robe
+1011 // Blue skirt
+1017 // Wizard hat
+426 // Priest gown
+428 // Priest gown
+656 // Hat
+636 // Robe top
+646 // Robe bottoms
+626 // Boots
+658 // Hat
+638 // Robe top
+648 // Robe bottoms
+628 // Boots
+660 // Hat
+640 // Robe top
+650 // Robe bottoms
+630 // Boots
+662 // Hat
+642 // Robe top
+652 // Robe bottoms
+632 // Boots
+664 // Hat
+644 // Robe top
+654 // Robe bottoms
+634 // Boots
+2940 // Hat
+2936 // Robe top
+2938 // Robe bottoms
+2942 // Gloves
+2934 // Boots
+2900 // Hat
+2896 // Robe top
+2898 // Robe bottoms
+2902 // Gloves
+2894 // Boots
+2910 // Hat
+2906 // Robe top
+2908 // Robe bottoms
+2912 // Gloves
+2904 // Boots
+2920 // Hat
+2916 // Robe top
+2918 // Robe bottoms
+2922 // Gloves
+2914 // Boots
+2930 // Hat
+2926 // Robe top
+2928 // Robe bottoms
+2932 // Gloves
+2924 // Boots
+4302 // Ham hood
+4298 // Ham shirt
+4300 // Ham robe
+4308 // Ham gloves
+4310 // Ham boots
+6750 // Black desert shirt
+6752 // Black desert robe
+1035 // Zamorak robe
+1033 // Zamorak robe
+544 // Monk's robe
+542 // Monk's robe
+1833 // Desert shirt
+1835 // Desert robe legs
+1061 // Leather boots
+1059 // Leather gloves
+6235 // Broodoo shield
+6257 // Broodoo shield
+6279 // Broodoo shield
+6335 // Tribal hat
+6337 // Tribal hat
+6339 // Tribal hat
+6341 // Tribal top
+6351 // Tribal top
+6361 // Tribal top
+6371 // Tribal top
+7400 // Enchanted hat.
+7399 // Enchanted top.
+7398 // Enchanted robe.
+6128 // Rock-shell helm.
+6129 // Rock-shell plate.
+6130 // Rock-shell legs.
+6145 // Rock-shell boots.
+6151 // Rock-shell gloves.
+2673 // Guthix full helm
+2669 // Guthix platebody
+2671 // Guthix platelegs
+3480 // Guthix plateskirt
+2675 // Guthix kiteshield
+10382 // Guthix coif
+10378 // Guthix top
+10380 // Guthix chaps
+10376 // Guthix vambraces
+2657 // Zamorak full helm
+2653 // Zamorak platebody
+2655 // Zamorak platelegs
+3478 // Zamorak plateskirt
+2659 // Zamorak kiteshield
+10374 // Zamorak coif
+10370 // Zamorak top
+10372 // Zamorak chaps
+10368 // Zamorak vambraces
+2665 // Saradomin fulll helm
+2661 // Saradomin platebody
+2663 // Saradomin legs
+3479 // Saradomin plateskirt
+2667 // Saradomin kiteshield
+10390 // Saradomin coif
+10386 // Saradomin top
+10388 // Saradomin chaps
+10384 // Saradomin vambraces
+12476 // Armadyl armour below
+12470 //
+12472 //
+12474 //
+12478 //
+12512 // Armadyl dragon hide below.
+12508 //
+12510 //
+12506 //
+2627 // Rune full helm (t)
+2623 // Rune platebody (t)
+2625 // Rune platelegs (t)
+3477 // Rune plateskirt (t)
+2629 // Rune kiteshield (t)
+2619 // Rune full helm(g)
+2615 // Rune platebody (g)
+2617 // Rune platelegs (g)
+3476 // Rune plateskirt (g)
+2621 // Rune kiteshield (g)
+12466 // Ancient armour below
+12460 //
+12462 //
+12464 //
+12468 //
+3486 // Gilded full helm
+3481 // Gilded platebody
+3483 // Gilded platelegs
+3485 // Gilded plateskirt
+3488 // Gilded kiteshield
+7396 // Wizard hat (t)
+7392 // Wizard robetop (t)
+7388 // Blue skirt (t)
+7394 // Wizard hat (g)
+7390 // Wizard robetop (g)
+7386 // Blue skirt (g)
+10454 // Guthix mitre
+10462 // Guthix robe top
+10466 // Guthix robe legs
+10472 // Guthix stole
+10448 // Guthix cloak
+10442 // Guthix crozier
+10456 // Zamorak mitre
+10460 // Zamorak robe top
+10468 // Zamorak robe legs
+10474 // Zamorak stole
+10450 // Zamorak cloak
+10444 // Zamorak crozier
+10452 // Saradomin mitre
+10458 // Saradomin robe top
+10464 // Saradomin robe legs
+10470 // Saradomin stole
+10446 // Saradomin cloak
+10440 // Saradomin crozier
+8464 // Rune heraldic helm.
+8466 // Rune heraldic helm.
+8468 // Rune heraldic helm.
+8470 // Rune heraldic helm.
+8472 // Rune heraldic helm.
+8474 // Rune heraldic helm.
+8476 // Rune heraldic helm.
+8478 // Rune heraldic helm.
+8480 // Rune heraldic helm.
+8482 // Rune heraldic helm.
+8484 // Rune heraldic helm.
+8486 // Rune heraldic helm.
+8488 // Rune heraldic helm.
+8490 // Rune heraldic helm.
+8492 // Rune heraldic helm.
+8494 // Rune heraldic helm.
+8714 // Rune kiteshield.
+8716 // Rune kiteshield.
+8718 // Rune kiteshield.
+8720 // Rune kiteshield.
+8722 // Rune kiteshield.
+8724 // Rune kiteshield.
+8726 // Rune kiteshield.
+8728 // Rune kiteshield.
+8730 // Rune kiteshield.
+8732 // Rune kiteshield.
+8734 // Rune kiteshield.
+8736 // Rune kiteshield.
+8738 // Rune kiteshield.
+8740 // Rune kiteshield.
+8742 // Rune kiteshield.
+8744 // Rune kiteshield.
+4315 // Team-1 cape
+4317 // Team-2 cape
+4319 // Team-3 cape
+4321 // Team-4 cape
+4323 // Team-5 cape
+4325 // Team-6 cape
+4327 // Team-7 cape
+4329 // Team-8 cape
+4331 // Team-9 cape
+4333 // Team-10 cape
+4335 // Team-11 cape
+4337 // Team-12 cape
+4339 // Team-13 cape
+4341 // Team-14 cape
+4343 // Team-15 cape
+4345 // Team-16 cape
+4347 // Team-17 cape
+4349 // Team-18 cape
+4351 // Team-19 cape
+4353 // Team-20 cape
+4355 // Team-21 cape
+4357 // Team-22 cape
+4359 // Team-23 cape
+4361 // Team-24 cape
+4363 // Team-25 cape
+4365 // Team-26 cape
+4367 // Team-27 cape
+4369 // Team-28 cape
+4371 // Team-29 cape
+4373 // Team-30 cape
+4375 // Team-31 cape
+4377 // Team-32 cape
+4379 // Team-33 cape
+4381 // Team-34 cape
+4383 // Team-35 cape
+4385 // Team-36 cape
+4387 // Team-37 cape
+4389 // Team-38 cape
+4391 // Team-39 cape
+4393 // Team-40 cape
+4395 // Team-41 cape
+4397 // Team-42 cape
+4399 // Team-43 cape
+4401 // Team-44 cape
+4403 // Team-45 cape
+4405 // Team-46 cape
+4407 // Team-47 cape
+4409 // Team-48 cape
+4411 // Team-49 cape
+4413 // Team-50 cape
+6959 // Cape
+1007 // Cape
+1019 // Cape
+1023 // Cape
+1027 // Cape
+1031 // Cape
+3777 // Fremennik cloak
+3759 // Fremennik cloak
+3761 // Fremennik cloak
+3763 // Fremennik cloak
+3765 // Fremennik cloak
+1029 // Cape
+4304 // Ham cloak

@@ -1,0 +1,170 @@
+Achievement title: Open highscores interface
+Description Sub Text: Open the highscores interface on the statue
+Description Sub Text: inside Edgeville's general store
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1000
+
+Achievement title: Talk to Guide
+Description Sub Text: Talk to Guide located in
+Description Sub Text: the Edgeville general store
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1001
+
+Achievement title: Entrana bank
+Description Sub Text: Access the bank at Entrana
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1005
+
+Achievement title: Search a profile
+Description Sub Text: Search another player's profile
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1007
+
+Achievement title: Open vote shop
+Description Sub Text: Open the vote shop located inside Edgeville bank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1008
+
+Achievement title: Cut an Oak tree
+Description Sub Text: Cut an Oak tree
+Description Sub Text:
+Requirements Sub Text: 15 Woodcutting
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1009
+
+Achievement title: Talk to Gundai
+Description Sub Text: Talk to Gundai located in Magebank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1010
+
+Achievement title: Smelt a bronze bar
+Description Sub Text: Smelt a bronze bar
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1011
+
+Achievement title: Kill 6 Ghosts
+Description Sub Text: Kill 6 Ghosts located in Taverly dungeon
+Description Sub Text:
+Requirements Sub Text: 15+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Ghost
+Complete Amount: 6
+Achievement Id: 1012
+
+Achievement title: Cook a Shrimp
+Description Sub Text: Cook a Shrimp
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1022
+
+Achievement title: Bury a bone in Monastery
+Description Sub Text: Bury a bone inside the Edgeville Monastery
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1013
+
+Achievement title: Steal a cake
+Description Sub Text: Steal a cake north of Edgeville bank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1014
+
+Achievement title: Kill 7 Skeletons
+Description Sub Text: Kill 7 Skeletons, located in Taverly dungeon.
+Description Sub Text:
+Requirements Sub Text: 15+ combat level
+Requirements Sub Text:
+Achievement Save Name: NPC TASK: Skeleton
+Complete Amount: 7
+Achievement Id: 1015
+
+Achievement title: Talk to Kolodion
+Description Sub Text: Talk to Kolodion located in Magebank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1016
+
+Achievement title: Open Blood money shop
+Description Sub Text: Open Blood money shop located inside Edgeville bank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1017
+
+Achievement title: Claim a God cape
+Description Sub Text: Claim a God cape from Magebank
+Description Sub Text:
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1018
+
+Achievement title: Use Falador wall shortcut
+Description Sub Text: Use Falador wall shortcut
+Description Sub Text:
+Requirements Sub Text: 5 Agility
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1026
+
+Achievement title: Cast Fire strike
+Description Sub Text: Cast Fire strike
+Description Sub Text:
+Requirements Sub Text: 13 Magic
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1019
+
+Achievement title: Talk to Hans
+Description Sub Text: Talk to Hans located in
+Description Sub Text: Lumbridge.
+Requirements Sub Text: None
+Requirements Sub Text:
+Achievement Save Name:
+Complete Amount: 1
+Achievement Id: 1079

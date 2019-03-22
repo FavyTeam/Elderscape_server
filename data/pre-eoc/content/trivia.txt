@@ -1,0 +1,41 @@
+What Fishing level do you need to catch Sharks bare-handed?
+96/96 fishing
+
+How many slots are there in a player's inventory?
+28
+
+What Hunter level do you need to catch a Dragon impling?
+83/83 hunter
+
+What is the maximum wilderness level?
+56
+
+How long does Tele block last if Protect from Magic was active?
+2 minutes and 30 seconds/2m 30s
+
+What Magic level do you need to Tele block?
+85/85 magic/85 mage
+
+What Slayer level do you need to kill Nechryaels?
+80/80 slayer
+
+What Slayer level do you need to kill Nechryaels?
+80/80 slayer
+
+How many Lava dragons are there?
+5
+
+How many dragons at East dragons?
+8
+
+How many Duel arenas are there?
+4
+
+How many city teleports are there?
+14
+
+How many Pk bots are there?
+9
+
+What is the maximum total level?
+2079

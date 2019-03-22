@@ -1,0 +1,217 @@
+[CREDENTIALS]
+Username = Not A Banana
+Password = Lswql309edZD6T3cP5Lzew==
+
+[MAIN]
+lastSavedIpAddress = 
+lastSavedIspAddress = 
+addressMac = 
+addressUid = 
+accountDateCreated = 20/04/2016
+secondsOnline = 1487
+gameMode = VETERAN
+authority = 0
+donatorScrollsClaimedCost = 0
+
+[OTHER]
+height = 0
+x = 3100
+y = 3532
+playerTitle = 
+gameModeTitle = [Bot]
+meleeMainKills = 2
+hybridKills = 0
+berserkerPureKills = 0
+pureKills = 0
+rangedTankKills = 0
+tutorialComplete = true
+forceX1ExperienceRate = true
+runModeOn = true
+skullTimer = 1200
+spellBook = LUNAR
+prayerBook = 0
+dragonFireShieldCharges = 0
+wildernessKills = 174
+wildernessDeaths = 174
+safeKills = 0
+safeDeaths = 0
+currentKillStreak = 1
+specialAttackAmount = 10.0
+teleblock-length = 0
+splitChat = false
+autoRetaliate = 1
+jailed = false
+combatStyle = 1
+ep = 111
+targetIndex = 0
+targetName = 
+tilesWalked = 26331
+switches = 3632
+bankPin = 
+setPin = false
+achievementPoint = 0
+voteTotalPoints = 0
+votePoints = 0
+foodAte = 2110
+potionDrank = 1113
+bossKills = 0
+killStreaksRecord = 0
+petSummoned = false
+petID = 0
+runEnergy = 94.13157894736867
+compColor1 = -1364
+compColor2 = -1364
+compColor3 = -1364
+compColor4 = -1364
+whiteSkull = true
+redSkull = false
+nomadsKilled = 0
+logOutTime = 1461176487618
+timeUnMuted = 0
+clueScrollType = -1
+targetsKilled = 0
+lastClanChatJoined = Dawntain
+tank = false
+poisonRunOut = 0
+ableToEditCombat = false
+wildernessEnteredTime = 1462392032390
+timeOfAccountCreation = 1461159490498
+meritPoints = 0
+recoilCharges = 40
+ancientsInterfaceType = 1
+agilityPoints = 0
+antiFirePotionTimer = 0
+slayerTaskNpcType = 0
+slayerTaskNpcAmount = 0
+protectItemDisabledTime = 0
+barragesCasted = 0
+teleportsUsed = 0
+tradesCompleted = 0
+duelArenaStakes = 0
+deathsToNpc = 0
+clueScrollsCompleted = 0
+dawntainPoints = 10
+dawntainPointsHistory = 10
+barrowsRunCompleted = 0
+randomCoffin = 0
+highestRfdWave = -1
+biographyLine1 = 
+biographyLine2 = 
+biographyLine3 = 
+biographyLine4 = 
+biographyLine5 = 
+profilePrivacyOn = false
+announceMaxLevel = false
+safePkingOn = true
+xpLock = true
+showXpBarTotal = true
+mageArenaPoints = 0
+saradominBlessedSwordCharges = 0
+mageArenaPointsHistory = 0
+longestGameSession = 0
+boostedTime = 1462392035877	1464822795213	1462392032389	1464822812613	1463607496081	139581821861	139581821861	
+maximumSpecialAttack = 51	0	54	60	0	4	0	0	0	53	0	28	34	1	0	30	15	7	1	0	0	44	47	0	0	0	0	39	25	58	0	40	0	0	0	
+weaponAmountUsed = 17	0	42	57	0	1	0	0	0	153	0	307	0	1	0	25	0	0	0	0	0	12	0	0	0	0	0	23	0	20	0	399	0	0	0	
+pouches = 0	0	0	0	
+achievementProgress = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+barrowsBrothersKilled = false	false	false	false	false	false	
+QuickPrayers = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+combatSkillsAnnounced = false	false	false	false	false	false	false	
+combatExperienceGainedAfterMaxed = 13455600	0	674400	4353900	1649400	0	4233600	
+deathTypes = 91	11	16	78	4	
+totalDamage = 48734	13210	0	5619	0	0	
+weaponSpecialAttackKills = 3	0	5	9	0	0	0	0	0	13	0	43	0	0	0	10	0	0	0	0	0	2	0	0	0	0	0	3	0	0	0	12	0	0	0	
+skillingStatistics = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+timeSpent = 1738	0	23	
+currentCombatSkillLevel = 90	45	118	75	99	52	99	
+skillMilestone100mAnnounced = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+itemsToShop = 19110 1	10551 1	19110 1	
+npcKills = 
+lootingBagStorageItem = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lootingBagStorageItemAmount = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+[SKILLS]
+character-skill = 0	75	1210421
+character-skill = 1	45	61512
+character-skill = 2	99	13708831
+character-skill = 3	93	7474848
+character-skill = 4	99	14683831
+character-skill = 5	52	123660
+character-skill = 6	99	17268031
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+
+[INVENTORY]
+inventory-slot = 0	11695	1
+inventory-slot = 1	158	1
+inventory-slot = 2	148	1
+inventory-slot = 3	2443	1
+inventory-slot = 4	3025	1
+inventory-slot = 5	3025	1
+inventory-slot = 6	3025	1
+inventory-slot = 7	558	190
+inventory-slot = 8	9076	76
+inventory-slot = 9	561	38
+inventory-slot = 10	386	1
+inventory-slot = 11	386	1
+inventory-slot = 12	386	1
+inventory-slot = 13	386	1
+inventory-slot = 14	386	1
+inventory-slot = 15	386	1
+inventory-slot = 16	386	1
+inventory-slot = 17	386	1
+inventory-slot = 18	386	1
+inventory-slot = 19	386	1
+inventory-slot = 20	386	1
+inventory-slot = 21	386	1
+inventory-slot = 22	386	1
+inventory-slot = 23	386	1
+inventory-slot = 24	386	1
+inventory-slot = 25	386	1
+inventory-slot = 26	386	1
+inventory-slot = 27	386	1
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	6570	1	
+character-equip = 2	1712	1	
+character-equip = 3	11694	1	
+character-equip = 4	10551	1	
+character-equip = 7	1079	1	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+
+[APPEARANCE]
+character-look = 0	0
+character-look = 1	8
+character-look = 2	25
+character-look = 3	29
+character-look = 4	34
+character-look = 5	39
+character-look = 6	42
+character-look = 7	13
+character-look = 8	2
+character-look = 9	10
+character-look = 10	20
+character-look = 11	0
+character-look = 12	2
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]

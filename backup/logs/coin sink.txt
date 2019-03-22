@@ -1,0 +1,2 @@
+lottery 150,000
+LOTTERY 382,500

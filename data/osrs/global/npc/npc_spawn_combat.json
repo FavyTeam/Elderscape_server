@@ -1,0 +1,9098 @@
+[
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3103,
+		"y": 3689,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3104,
+		"y": 3695,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3111,
+		"y": 3700,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3112,
+		"y": 3684,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3108,
+		"y": 3686,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Demonic Gorilla",
+		"npc_type":7144,
+		"x": 3113,
+		"y": 3694,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2758,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2757,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2756,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2755,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2754,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2753,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2752,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2728,
+		"y": 2751,
+		"height":0,
+		"face_action":"WEST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2761,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2760,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2759,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2758,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2757,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2756,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2755,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Monkey guard",
+		"npc_type":5271,
+		"x": 2714,
+		"y": 2754,
+		"height":0,
+		"face_action":"EAST"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3269,
+		"x": 2961,
+		"y": 3397,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3269,
+		"x": 2964,
+		"y": 3394,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3271,
+		"x": 2969,
+		"y": 3393,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3269,
+		"x": 2966,
+		"y": 3391,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2880,
+		"y": 10168,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2880,
+		"y": 10161,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2888,
+		"y": 10159,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2889,
+		"y": 10165,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2896,
+		"y": 10164,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2921,
+		"y": 10203,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2914,
+		"y": 10205,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2911,
+		"y": 10196,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2919,
+		"y": 10198,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2463,
+		"x": 2852,
+		"y": 3541,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2465,
+		"x": 2842,
+		"y": 3552,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2463,
+		"x": 2860,
+		"y": 3545,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+		{
+		"npc_description": "Cyclops",
+		"npc_type": 2465,
+		"x": 2871,
+		"y": 3540,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+		{
+		"npc_description": "Cyclops",
+		"npc_type": 2464,
+		"x": 2863,
+		"y": 3542,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2466,
+		"x": 2870,
+		"y": 3549,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2464,
+		"x": 2852,
+		"y": 3548,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2464,
+		"x": 2864,
+		"y": 3552,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cyclops",
+		"npc_type": 2466,
+		"x": 2845,
+		"y": 3546,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant knight",
+		"npc_type": 7939,
+		"x": 2928,
+		"y": 10174,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant knight",
+		"npc_type": 7939,
+		"x": 2917,
+		"y": 10162,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 7936,
+		"x": 2911,
+		"y": 10180,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 7936,
+		"x": 2917,
+		"y": 10170,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2928,
+		"y": 10152,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2856,
+		"y": 10197,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 7936,
+		"x": 2925,
+		"y": 10159,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2929,
+		"y": 10181,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2927,
+		"y": 10168,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2933,
+		"y": 10142,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3062,
+		"y": 9553,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3047,
+		"y": 9554,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3066,
+		"y": 9545,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3057,
+		"y": 9542,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3044,
+		"y": 9544,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3028,
+		"y": 9553,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3035,
+		"y": 9555,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeletal Wyvern",
+		"npc_type": 465,
+		"x": 3027,
+		"y": 9544,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2867,
+		"y": 10202,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dragon",
+		"npc_type": 11124,
+		"x": 2866,
+		"y": 10191,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant knight",
+		"npc_type": 7939,
+		"x": 2852,
+		"y": 10199,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant knight",
+		"npc_type": 7939,
+		"x": 2858,
+		"y": 10181,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 7936,
+		"x": 2853,
+		"y": 10188,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 7936,
+		"x": 2845,
+		"y": 10193,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 261,
+		"x": 2844,
+		"y": 10166,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 262,
+		"x": 2843,
+		"y": 10153,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 263,
+		"x": 2855,
+		"y": 10157,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 261,
+		"x": 2861,
+		"y": 10150,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 262,
+		"x": 2867,
+		"y": 10151,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2914,
+		"y": 10144,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2918,
+		"y": 10133,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2911,
+		"y": 10137,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2905,
+		"y": 10141,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2908,
+		"y": 10121,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2906,
+		"y": 10129,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2899,
+		"y": 10135,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2899,
+		"y": 10127,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2849,
+		"y": 10120,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2848,
+		"y": 10115,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2836,
+		"y": 10119,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2832,
+		"y": 10109,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2888,
+		"y": 10092,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2894,
+		"y": 10094,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2893,
+		"y": 10101,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2900,
+		"y": 10095,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2906,
+		"y": 10101,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2885,
+		"y": 10095,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2898,
+		"y": 10078,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2906,
+		"y": 10069,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2898,
+		"y": 10064,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2907,
+		"y": 10075,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2904,
+		"y": 10061,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2876,
+		"y": 10073,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2882,
+		"y": 10075,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2881,
+		"y": 10070,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2875,
+		"y": 10073,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2319,
+		"y": 3789,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2320,
+		"y": 3797,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2328,
+		"y": 3794,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2326,
+		"y": 3793,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2325,
+		"y": 3798,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2321,
+		"y": 3794,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Yak",
+		"npc_type": 5816,
+		"x": 2317,
+		"y": 3792,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1869,
+		"y": 3564,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1864,
+		"y": 3559,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1872,
+		"y": 3561,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1860,
+		"y": 3557,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1877,
+		"y": 3558,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1875,
+		"y": 3553,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1862,
+		"y": 3552,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1867,
+		"y": 3556,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sand crab",
+		"npc_type": 7206,
+		"x": 1870,
+		"y": 3549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ammonite crab",
+		"npc_type": 7799,
+		"x": 3724,
+		"y": 3897,
+		"height": 0,
+		"face_action": "ROAM"
+	},	
+	{
+		"npc_description": "Ammonite crab",
+		"npc_type": 7799,
+		"x": 3730,
+		"y": 3893,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ammonite crab",
+		"npc_type": 7799,
+		"x": 3735,
+		"y": 3888,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ammonite crab",
+		"npc_type": 7799,
+		"x": 3714,
+		"y": 3897,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ammonite crab",
+		"npc_type": 7799,
+		"x": 3721,
+		"y": 3891,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Guard",
+		"npc_type": 3094,
+		"x": 3115,
+		"y": 3516,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Guard",
+		"npc_type": 3094,
+		"x": 3113,
+		"y": 3514,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Guard",
+		"npc_type": 3094,
+		"x": 3111,
+		"y": 3511,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3267,
+		"y":3423,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3011,
+		"x":3275,
+		"y":3434,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3276,
+		"y":3427,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3210,
+		"y":3376,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3011,
+		"x":3210,
+		"y":3383,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3206,
+		"y":3377,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3170,
+		"y":3428,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3010,
+		"x":3173,
+		"y":3426,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description":"Guard",
+		"npc_type":3011,
+		"x":3174,
+		"y":3430,
+		"height":0,
+		"face_action":"ROAM"
+	},
+	{
+		"npc_description": "Ram",
+		"npc_type": 1262,
+		"x": 3056,
+		"y": 3513,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20) (Wilderness agility course)",
+		"npc_type": 2870,
+		"x": 3001,
+		"y": 3932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20) (Wilderness agility course)",
+		"npc_type": 2870,
+		"x": 2994,
+		"y": 3954,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20) (Wilderness agility course)",
+		"npc_type": 2870,
+		"x": 2991,
+		"y": 3942,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3100,
+		"y": 3568,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-21)",
+		"npc_type": 70,
+		"x": 3096,
+		"y": 3565,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3106,
+		"y": 3567,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3107,
+		"y": 3562,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3074,
+		"y": 3524,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3081,
+		"y": 3537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3082,
+		"y": 3551,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3119,
+		"y": 3525,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3058,
+		"y": 3556,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3055,
+		"y": 3565,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3060,
+		"y": 3572,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3044,
+		"y": 3567,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3040,
+		"y": 3577,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3043,
+		"y": 3571,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3042,
+		"y": 3579,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3052,
+		"y": 3584,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Poisoned spider",
+		"npc_type": 5373,
+		"x": 3070,
+		"y": 10257,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Poisoned spider",
+		"npc_type": 5373,
+		"x": 3068,
+		"y": 10258,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Poisoned spider",
+		"npc_type": 5373,
+		"x": 3069,
+		"y": 10255,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3014,
+		"y": 3852,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3085,
+		"y": 3861,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3092,
+		"y": 3867,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3277,
+		"y": 3658,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3278,
+		"y": 3661,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3273,
+		"y": 3660,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3273,
+		"y": 3663,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3272,
+		"y": 3653,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3275,
+		"y": 3654,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3293,
+		"y": 3646,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3290,
+		"y": 3647,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3302,
+		"y": 3652,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3302,
+		"y": 3648,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3296,
+		"y": 3650,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 2912,
+		"y": 9733,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 2910,
+		"y": 9737,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 2908,
+		"y": 9732,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 2903,
+		"y": 9736,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 2913,
+		"y": 9730,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 260,
+		"x": 3337,
+		"y": 3673,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 261,
+		"x": 3341,
+		"y": 3678,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 262,
+		"x": 3342,
+		"y": 3694,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 263,
+		"x": 3335,
+		"y": 3696,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 264,
+		"x": 3341,
+		"y": 3686,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 261,
+		"x": 3332,
+		"y": 3674,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 260,
+		"x": 3333,
+		"y": 3686,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 262,
+		"x": 3330,
+		"y": 3682,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3013,
+		"y": 3593,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3020,
+		"y": 3594,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3018,
+		"y": 3588,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 264,
+		"x": 2973,
+		"y": 3620,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 263,
+		"x": 2983,
+		"y": 3620,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 260,
+		"x": 2979,
+		"y": 3610,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3103,
+		"y": 3561,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3106,
+		"y": 3557,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3099,
+		"y": 3552,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3099,
+		"y": 3542,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3106,
+		"y": 3539,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3113,
+		"y": 3537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3108,
+		"y": 3530,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3105,
+		"y": 3549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3242,
+		"y": 3531,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3237,
+		"y": 3536,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3244,
+		"y": 3541,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3252,
+		"y": 3536,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3288,
+		"y": 3886,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3291,
+		"y": 3880,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lessers Demon outside KBD",
+		"npc_type": 2005,
+		"x": 3013,
+		"y": 3852,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lessers Demon outside KBD",
+		"npc_type": 2005,
+		"x": 3012,
+		"y": 3845,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3082,
+		"y": 3949,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3077,
+		"y": 3958,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3073,
+		"y": 3960,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3080,
+		"y": 3949,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3075,
+		"y": 3950,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3083,
+		"y": 3957,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 3075,
+		"y": 3953,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3041,
+		"y": 3954,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3041,
+		"y": 3951,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3039,
+		"y": 3958,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3043,
+		"y": 3957,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3041,
+		"y": 3956,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3040,
+		"y": 3594,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3042,
+		"y": 3953,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3039,
+		"y": 3950,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3041,
+		"y": 3950,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3044,
+		"y": 3955,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3039,
+		"y": 3956,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pirate",
+		"npc_type": 2881,
+		"x": 3041,
+		"y": 3959,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3006,
+		"y": 3915,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3002,
+		"y": 3918,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3004,
+		"y": 3923,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 2993,
+		"y": 3916,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 2987,
+		"y": 3918,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 2989,
+		"y": 3923,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 2993,
+		"y": 3932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-21)",
+		"npc_type": 70,
+		"x": 2994,
+		"y": 3939,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2965,
+		"y": 3932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2954,
+		"y": 3930,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2952,
+		"y": 3923,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2973,
+		"y": 3921,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice spider",
+		"npc_type": 3022,
+		"x": 2962,
+		"y": 3912,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice spider",
+		"npc_type": 3022,
+		"x": 2952,
+		"y": 3910,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice spider",
+		"npc_type": 3022,
+		"x": 2970,
+		"y": 3906,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2950,
+		"y": 3895,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2964,
+		"y": 3890,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2959,
+		"y": 3886,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2951,
+		"y": 3876,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice giant",
+		"npc_type": 2085,
+		"x": 2963,
+		"y": 3874,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2959,
+		"y": 3868,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2961,
+		"y": 3863,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2957,
+		"y": 3857,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ice warrior",
+		"npc_type": 2841,
+		"x": 2952,
+		"y": 3864,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2992,
+		"y": 3771,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2985,
+		"y": 3778,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2991,
+		"y": 3788,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3007,
+		"y": 3788,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3011,
+		"y": 3775,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2999,
+		"y": 3795,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3031,
+		"y": 3752,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3048,
+		"y": 3757,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3066,
+		"y": 3747,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3073,
+		"y": 3734,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2988,
+		"y": 3685,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2983,
+		"y": 3677,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2992,
+		"y": 3675,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2998,
+		"y": 3679,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2993,
+		"y": 3671,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2988,
+		"y": 3689,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2985,
+		"y": 3688,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2991,
+		"y": 3685,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x":3247,
+		"y":3234,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x":3249,
+		"y":3237,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x":3246,
+		"y":3250,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x":3248,
+		"y":3235,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3032,
+		"x":3248,
+		"y":3245,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3031,
+		"x": 3248,
+		"y": 3230,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3250,
+		"y": 3238,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3029,
+		"x": 3243,
+		"y": 3241,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3029,
+		"x": 3249,
+		"y": 3230,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3034,
+		"x": 3246,
+		"y": 3234,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3032,
+		"x": 3257,
+		"y": 3233,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3034,
+		"x": 3252,
+		"y": 3246,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3031,
+		"x": 3256,
+		"y": 3229,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3034,
+		"x": 3260,
+		"y": 3229,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3256,
+		"y": 3244,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3259,
+		"y": 3233,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3255,
+		"y": 3245,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3029,
+		"x": 3250,
+		"y": 3245,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3031,
+		"x": 3256,
+		"y": 3226,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3260,
+		"y": 3230,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3257,
+		"y": 3230,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3032,
+		"x": 3254,
+		"y": 3230,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3031,
+		"x": 3212,
+		"y": 3254,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3034,
+		"x": 3258,
+		"y": 3238,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3035,
+		"x": 3258,
+		"y": 3237,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3036,
+		"x": 3258,
+		"y": 3243,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3251,
+		"y": 3226,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3253,
+		"y": 3240,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Goblin",
+		"npc_type": 3033,
+		"x": 3249,
+		"y": 3240,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2511,
+		"x": 2968,
+		"y": 3691,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 2963,
+		"y": 3688,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2511,
+		"x": 2973,
+		"y": 3695,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 2979,
+		"y": 3700,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 2969,
+		"y": 3688,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 2974,
+		"y": 3690,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Grizzly bear",
+		"npc_type": 2838,
+		"x": 2988,
+		"y": 3665,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Grizzly bear",
+		"npc_type": 2838,
+		"x": 3007,
+		"y": 3667,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5086,
+		"x":3233,
+		"y":3368,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5086,
+		"x":3225,
+		"y":3365,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5086,
+		"x":3226,
+		"y":3376,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5087,
+		"x":3232,
+		"y":3375,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5087,
+		"x":3223,
+		"y":3370,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 5087,
+		"x":3230,
+		"y":3364,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 5088,
+		"x":3232,
+		"y":3371,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 5088,
+		"x":3225,
+		"y":3369,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 5089,
+		"x":3224,
+		"y":3368,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 5089,
+		"x":3227,
+		"y":3372,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Guard bandit",
+		"npc_type": 2893,
+		"x": 3038,
+		"y": 3654,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Guard bandit",
+		"npc_type": 2893,
+		"x": 3037,
+		"y": 3661,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 736,
+		"x": 3161,
+		"y": 2977,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 736,
+		"x": 3163,
+		"y": 2977,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 736,
+		"x": 3161,
+		"y": 2982,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 736,
+		"x": 3161,
+		"y": 2981,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 736,
+		"x": 3162,
+		"y": 2987,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3036,
+		"y": 3672,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3039,
+		"y": 3675,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3037,
+		"y": 3680,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black heather",
+		"npc_type": 301,
+		"x": 3045,
+		"y": 3692,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3029,
+		"y": 3691,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3030,
+		"y": 3694,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3036,
+		"y": 3691,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 2870,
+		"x": 2979,
+		"y": 3565,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 2870,
+		"x": 2977,
+		"y": 3569,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-20)",
+		"npc_type": 2870,
+		"x": 2981,
+		"y": 3569,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 2870,
+		"x": 2984,
+		"y": 3565,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark wizard (level-7)",
+		"npc_type": 2870,
+		"x": 2984,
+		"y": 3568,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Grizzly bear",
+		"npc_type": 2838,
+		"x": 3125,
+		"y": 3599,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Grizzly bear",
+		"npc_type": 2838,
+		"x": 3131,
+		"y": 3590,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3146,
+		"y": 3598,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3139,
+		"y": 3593,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3141,
+		"y": 3610,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3093,
+		"y": 3622,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3097,
+		"y": 3628,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn Foal",
+		"npc_type": 3911,
+		"x": 3074,
+		"y": 3630,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn Foal",
+		"npc_type": 3911,
+		"x": 3067,
+		"y": 3629,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn Foal",
+		"npc_type": 3911,
+		"x": 3072,
+		"y": 3637,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3066,
+		"y": 3643,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black unicorn",
+		"npc_type": 2849,
+		"x": 3081,
+		"y": 3644,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3156,
+		"y": 3671,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3157,
+		"y": 3680,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3165,
+		"y": 3676,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3175,
+		"y": 3680,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3179,
+		"y": 3667,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3167,
+		"y": 3660,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3178,
+		"y": 3682,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3170,
+		"y": 3686,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3177,
+		"y": 3657,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3172,
+		"y": 3666,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3162,
+		"y": 3664,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3189,
+		"y": 3573,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3185,
+		"y": 3576,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3195,
+		"y": 3577,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3181,
+		"y": 3723,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3182,
+		"y": 3744,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3170,
+		"y": 3737,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3160,
+		"y": 3741,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3149,
+		"y": 3733,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3146,
+		"y": 3730,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3243,
+		"y": 3782,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3238,
+		"y": 3792,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3246,
+		"y": 3796,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3250,
+		"y": 3788,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2703,
+		"y": 9546,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2707,
+		"y": 9537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2713,
+		"y": 9550,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2715,
+		"y": 9540,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3219,
+		"y": 3814,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3222,
+		"y": 3830,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3193,
+		"y": 3832,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3182,
+		"y": 3850,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3161,
+		"y": 3889,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2985,
+		"y": 3696,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2988,
+		"y": 3680,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 2986,
+		"y": 3681,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 3165,
+		"y": 3884,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 3170,
+		"y": 3888,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3017,
+		"x": 3174,
+		"y": 3885,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3177,
+		"y": 3882,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3170,
+		"y": 3880,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3168,
+		"y": 3883,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3054,
+		"y": 3894,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3060,
+		"y": 3889,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3065,
+		"y": 3891,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 3213,
+		"y": 3919,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 3208,
+		"y": 3918,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 3220,
+		"y": 3908,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 3226,
+		"y": 3912,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wolf (level-64)",
+		"npc_type": 106,
+		"x": 3258,
+		"y": 3915,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wolf (level-64)",
+		"npc_type": 106,
+		"x": 3263,
+		"y": 3909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wolf (level-64)",
+		"npc_type": 106,
+		"x": 3266,
+		"y": 3907,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rogue",
+		"npc_type": 2884,
+		"x": 3279,
+		"y": 3927,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rogue",
+		"npc_type": 2884,
+		"x": 3285,
+		"y": 3928,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rogue",
+		"npc_type": 2884,
+		"x": 3282,
+		"y": 3937,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rogue",
+		"npc_type": 2884,
+		"x": 3295,
+		"y": 3933,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rogue",
+		"npc_type": 2884,
+		"x": 3291,
+		"y": 3930,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3411,
+		"y": 3537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3408,
+		"y": 3537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3413,
+		"y": 3536,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3410,
+		"y": 3540,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3411,
+		"y": 3549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3413,
+		"y": 3546,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3415,
+		"y": 3572,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3411,
+		"y": 3573,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3416,
+		"y": 3572,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3413,
+		"y": 3571,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3414,
+		"y": 3558,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3411,
+		"y": 3561,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3411,
+		"y": 3556,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3417,
+		"y": 3556,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3420,
+		"y": 3558,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3434,
+		"y": 3572,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3437,
+		"y": 3574,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3432,
+		"y": 3574,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3432,
+		"y": 3570,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Crawling Hand",
+		"npc_type": 448,
+		"x": 3438,
+		"y": 3570,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3439,
+		"y": 3562,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3436,
+		"y": 3562,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3441,
+		"y": 3559,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3442,
+		"y": 3546,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3446,
+		"y": 3549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3440,
+		"y": 3543,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3436,
+		"y": 3562,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3446,
+		"y": 3536,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3450,
+		"y": 3536,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3447,
+		"y": 3539,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3437,
+		"y": 3534,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Banshee",
+		"npc_type": 414,
+		"x": 3445,
+		"y": 3537,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3438,
+		"y": 3561,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3434,
+		"y": 3561,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3436,
+		"y": 3557,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3441,
+		"y": 3560,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3432,
+		"y": 3564,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3443,
+		"y": 3572,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3446,
+		"y": 3573,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3445,
+		"y": 3566,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "InfernalMage",
+		"npc_type": 443,
+		"x": 3439,
+		"y": 3571,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3422,
+		"y": 3574,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3419,
+		"y": 3573,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3424,
+		"y": 3573,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3410,
+		"y": 3574,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3414,
+		"y": 3573,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3410,
+		"y": 3570,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3408,
+		"y": 3574,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3421,
+		"y": 3562,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3418,
+		"y": 3566,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3423,
+		"y": 3566,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3425,
+		"y": 3560,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "BloodVeld",
+		"npc_type": 484,
+		"x": 3418,
+		"y": 3560,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3425,
+		"y": 3551,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3422,
+		"y": 3553,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3430,
+		"y": 3550,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3434,
+		"y": 3550,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3439,
+		"y": 3549,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3437,
+		"y": 3545,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3414,
+		"y": 3547,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3412,
+		"y": 3550,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3417,
+		"y": 3545,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3423,
+		"y": 3540,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3423,
+		"y": 3544,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3426,
+		"y": 3541,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3419,
+		"y": 3540,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dust devil",
+		"npc_type": 423,
+		"x": 3418,
+		"y": 3536,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3434,
+		"y": 3539,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3444,
+		"y": 3540,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3446,
+		"y": 3535,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3448,
+		"y": 3539,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3444,
+		"y": 3551,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Gargoyle",
+		"npc_type": 412,
+		"x": 3439,
+		"y": 3547,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3438,
+		"y": 3563,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3437,
+		"y": 3558,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3444,
+		"y": 3568,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3439,
+		"y": 3570,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3436,
+		"y": 3568,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Nechryael",
+		"npc_type": 8,
+		"x": 3446,
+		"y": 3572,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark beast",
+		"npc_type": 4005,
+		"x": 3414,
+		"y": 3549,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark beast",
+		"npc_type": 4005,
+		"x": 3412,
+		"y": 3553,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark beast",
+		"npc_type": 4005,
+		"x": 3420,
+		"y": 3550,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark beast",
+		"npc_type": 4005,
+		"x": 3425,
+		"y": 3559,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dark beast",
+		"npc_type": 4005,
+		"x": 3430,
+		"y": 3556,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2666,
+		"y": 3716,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2669,
+		"y": 3711,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2676,
+		"y": 3717,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2675,
+		"y": 3718,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2680,
+		"y": 3719,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2683,
+		"y": 3715,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2686,
+		"y": 3715,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2686,
+		"y": 3722,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2686,
+		"y": 3728,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2686,
+		"y": 3728,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2684,
+		"y": 3731,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2681,
+		"y": 3731,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2677,
+		"y": 3728,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2674,
+		"y": 3731,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2671,
+		"y": 3730,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2671,
+		"y": 3728,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rock crab",
+		"npc_type": 100,
+		"x": 2671,
+		"y": 3724,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3097,
+		"y": 9876,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3099,
+		"y": 9881,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3110,
+		"y": 9882,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3120,
+		"y": 9891,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3095,
+		"y": 9888,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3096,
+		"y": 9895,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3095,
+		"y": 9908,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3100,
+		"y": 9911,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3130,
+		"y": 9911,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3106,
+		"y": 9909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3125,
+		"y": 9909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3134,
+		"y": 9914,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3133,
+		"y": 9905,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3110,
+		"y": 9909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-25)",
+		"npc_type": 70,
+		"x": 3107,
+		"y": 9952,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3140,
+		"y": 9906,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3146,
+		"y": 9902,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3140,
+		"y": 9897,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3150,
+		"y": 9892,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3150,
+		"y": 9882,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3142,
+		"y": 9883,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3141,
+		"y": 9870,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3136,
+		"y": 9875,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3123,
+		"y": 9875,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3080,
+		"y": 3763,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3081,
+		"y": 3768,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3097,
+		"y": 3757,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3117,
+		"y": 9870,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3124,
+		"y": 9864,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3128,
+		"y": 9861,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3117,
+		"y": 9859,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3113,
+		"y": 9847,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3120,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3119,
+		"y": 9838,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3107,
+		"y": 9836,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3108,
+		"y": 9828,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3097,
+		"y": 9832,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3131,
+		"y": 9925,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3130,
+		"y": 9932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3133,
+		"y": 9937,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3123,
+		"y": 9929,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3115,
+		"y": 9927,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 3112,
+		"y": 9925,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 3110,
+		"y": 9929,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 3106,
+		"y": 9934,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 3111,
+		"y": 9938,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 3105,
+		"y": 9940,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3125,
+		"y": 9950,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3125,
+		"y": 9955,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3117,
+		"y": 9957,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3119,
+		"y": 9951,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Earth warrior",
+		"npc_type": 2840,
+		"x": 3125,
+		"y": 9974,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Earth warrior",
+		"npc_type": 2840,
+		"x": 3119,
+		"y": 9976,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Earth warrior",
+		"npc_type": 2840,
+		"x": 3118,
+		"y": 9989,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Earth warrior",
+		"npc_type": 2840,
+		"x": 3124,
+		"y": 9992,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Earth warrior",
+		"npc_type":2840,
+		"x": 3121,
+		"y": 9995,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 3094,
+		"y": 9958,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 3088,
+		"y": 9953,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 3084,
+		"y": 9957,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2919,
+		"y": 9802,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2919,
+		"y": 9799,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2919,
+		"y": 9799,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2914,
+		"y": 9802,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2918,
+		"y": 9793,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2913,
+		"y": 9785,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2904,
+		"y": 9786,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2907,
+		"y": 9777,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2922,
+		"y": 9786,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2901,
+		"y": 9805,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2901,
+		"y": 9797,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Blue dragon",
+		"npc_type": 265,
+		"x": 2905,
+		"y": 9798,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2870,
+		"y": 9791,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2870,
+		"y": 9798,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2864,
+		"y": 9799,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2855,
+		"y": 9804,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2848,
+		"y": 9811,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2858,
+		"y": 9811,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2862,
+		"y": 9820,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2877,
+		"y": 9803,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 5373,
+		"x": 2857,
+		"y": 9802,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2835,
+		"y": 9815,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2829,
+		"y": 9813,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2826,
+		"y": 9807,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2830,
+		"y": 9805,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2833,
+		"y": 9811,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "0",
+		"npc_type": 3484,
+		"x": 2829,
+		"y": 9810,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2884,
+		"y": 9816,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2883,
+		"y": 9814,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2884,
+		"y": 9811,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2882,
+		"y": 9823,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2885,
+		"y": 9820,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 2883,
+		"y": 9818,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2898,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2903,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2908,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2919,
+		"y": 9818,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2924,
+		"y": 9818,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2887,
+		"y": 9843,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2890,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2920,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2924,
+		"y": 9846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2931,
+		"y": 9840,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2935,
+		"y": 9835,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2933,
+		"y": 9826,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2909,
+		"y": 9819,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 2901,
+		"y": 9819,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2931,
+		"y": 9850,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2930,
+		"y": 9848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2932,
+		"y": 9846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2934,
+		"y": 9846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2937,
+		"y": 9848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2934,
+		"y": 9849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2931,
+		"y": 9844,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos druid",
+		"npc_type": 2878,
+		"x": 2929,
+		"y": 9845,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2912,
+		"y": 9837,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2910,
+		"y": 9841,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2908,
+		"y": 9828,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2918,
+		"y": 9829,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2923,
+		"y": 9831,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 2939,
+		"y": 9811,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 2938,
+		"y": 9815,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 2941,
+		"y": 9805,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 2958,
+		"y": 9781,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 2958,
+		"y": 9785,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 2961,
+		"y": 9779,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 2964,
+		"y": 9780,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2935,
+		"y": 9795,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2931,
+		"y": 9797,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2930,
+		"y": 9803,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2931,
+		"y": 9808,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2937,
+		"y": 9789,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2932,
+		"y": 9792,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2925,
+		"y": 9766,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2918,
+		"y": 9758,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2921,
+		"y": 9758,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 2925,
+		"y": 9761,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2892,
+		"y": 9787,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2895,
+		"y": 9769,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2893,
+		"y": 9771,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby blue dragon",
+		"npc_type": 243,
+		"x": 2897,
+		"y": 9767,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2853,
+		"y": 9771,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2862,
+		"y": 9775,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2860,
+		"y": 9780,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2857,
+		"y": 9775,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2859,
+		"y": 9787,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black demon",
+		"npc_type": 2048,
+		"x": 2870,
+		"y": 9776,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2835,
+		"y": 9824,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black dragon",
+		"npc_type": 252,
+		"x": 2840,
+		"y": 9825,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2857,
+		"y": 9836,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2860,
+		"y": 9837,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2856,
+		"y": 9841,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2856,
+		"y": 9848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2856,
+		"y": 9848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2853,
+		"y": 9833,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2869,
+		"y": 9836,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2868,
+		"y": 9837,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2867,
+		"y": 9841,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2870,
+		"y": 9848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2869,
+		"y": 9833,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2860,
+		"y": 9851,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hellhound",
+		"npc_type": 104,
+		"x": 2864,
+		"y": 9851,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bronze dragon",
+		"npc_type": 270,
+		"x": 2734,
+		"y": 9480,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bronze dragon",
+		"npc_type": 270,
+		"x": 2733,
+		"y": 9493,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bronze dragon",
+		"npc_type": 270,
+		"x": 2744,
+		"y": 9487,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron Dragon",
+		"npc_type": 272,
+		"x": 2699,
+		"y": 9458,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2717,
+		"y": 9459,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2730,
+		"y": 9463,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2740,
+		"y": 9455,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2741,
+		"y": 9443,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2737,
+		"y": 9432,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2727,
+		"y": 9442,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2724,
+		"y": 9420,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2710,
+		"y": 9422,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2701,
+		"y": 9430,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2705,
+		"y": 9441,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2737,
+		"y": 9418,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Iron dragon",
+		"npc_type": 272,
+		"x": 2715,
+		"y": 9445,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Steel dragon",
+		"npc_type": 274,
+		"x": 2706,
+		"y": 9451,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Steel dragon",
+		"npc_type": 274,
+		"x": 2726,
+		"y": 9454,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Steel dragon",
+		"npc_type": 274,
+		"x": 2729,
+		"y": 9427,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Steel dragon",
+		"npc_type": 274,
+		"x": 2711,
+		"y": 9433,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby red dragon",
+		"npc_type": 137,
+		"x": 2692,
+		"y": 9507,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby red dragon",
+		"npc_type": 137,
+		"x": 2726,
+		"y": 9515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby red dragon",
+		"npc_type": 137,
+		"x": 2704,
+		"y": 9525,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby red dragon",
+		"npc_type": 137,
+		"x": 2712,
+		"y": 9505,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby red dragon",
+		"npc_type": 137,
+		"x": 2708,
+		"y": 9510,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black Demon",
+		"npc_type": 2048,
+		"x": 2702,
+		"y": 9483,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black Demon",
+		"npc_type": 2048,
+		"x": 2701,
+		"y": 9489,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black Demon",
+		"npc_type": 2048,
+		"x": 2708,
+		"y": 9487,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black Demon",
+		"npc_type": 2048,
+		"x": 2710,
+		"y": 9480,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black Demon",
+		"npc_type": 2048,
+		"x": 2719,
+		"y": 9484,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 2667,
+		"y": 9495,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 2664,
+		"y": 9482,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 2659,
+		"y": 9498,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 2657,
+		"y": 9480,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2646,
+		"y": 9484,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2647,
+		"y": 9490,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2641,
+		"y": 9492,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2679,
+		"y": 9549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2671,
+		"y": 9544,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2663,
+		"y": 9557,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2659,
+		"y": 9545,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2681,
+		"y": 9588,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2677,
+		"y": 9592,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2657,
+		"y": 9576,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2643,
+		"y": 9574,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2651,
+		"y": 9533,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2638,
+		"y": 9526,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2655,
+		"y": 9587,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2640,
+		"y": 9542,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2636,
+		"y": 9534,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2650,
+		"y": 9563,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 2682,
+		"y": 9576,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2698,
+		"y": 9504,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2721,
+		"y": 9518,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 2713,
+		"y": 9524,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2642,
+		"y": 9488,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2657,
+		"y": 9679,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2675,
+		"y": 9564,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2675,
+		"y": 9590,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2640,
+		"y": 9583,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2647,
+		"y": 9549,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2640,
+		"y": 9533,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2669,
+		"y": 9522,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2658,
+		"y": 9491,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2708,
+		"y": 9517,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2681,
+		"y": 9477,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2681,
+		"y": 9561,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2665,
+		"y": 9514,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2660,
+		"y": 9551,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2713,
+		"y": 9485,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2716,
+		"y": 9485,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2700,
+		"y": 9482,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2700,
+		"y": 9482,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2642,
+		"y": 9522,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2666,
+		"y": 9525,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2661,
+		"y": 9521,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2671,
+		"y": 9518,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2671,
+		"y": 9525,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Wild Dog",
+		"npc_type": 112,
+		"x": 2650,
+		"y": 9526,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1889,
+		"y": 4393,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1885,
+		"y": 4377,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1887,
+		"y": 4363,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1897,
+		"y": 4368,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1882,
+		"y": 4382,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1890,
+		"y": 4368,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1890,
+		"y": 4368,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1904,
+		"y": 4364,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Dagannoth",
+		"npc_type": 3185,
+		"x": 1904,
+		"y": 4369,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3043,
+		"y": 10321,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3045,
+		"y": 10319,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3046,
+		"y": 10316,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3045,
+		"y": 10312,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3047,
+		"y": 10310,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hill giant",
+		"npc_type": 7261,
+		"x": 3044,
+		"y": 10307,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3044,
+		"y": 10319,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chaos dwarf",
+		"npc_type": 291,
+		"x": 3033,
+		"y": 10311,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Shadow spider",
+		"npc_type": 3016,
+		"x": 3025,
+		"y": 10333,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Shadow spider",
+		"npc_type": 3016,
+		"x": 3029,
+		"y": 10337,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Shadow spider",
+		"npc_type": 3016,
+		"x": 3028,
+		"y": 10342,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 3047,
+		"y": 10343,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 3052,
+		"y": 10347,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 3048,
+		"y": 10346,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 3048,
+		"y": 10338,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Fire giant",
+		"npc_type": 7251,
+		"x": 3051,
+		"y": 10337,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (saradomin)",
+		"npc_type": 1611,
+		"x": 3108,
+		"y": 3926,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (saradomin)",
+		"npc_type": 1611,
+		"x": 3101,
+		"y": 3924,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (saradomin)",
+		"npc_type": 1611,
+		"x": 3099,
+		"y": 3934,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (saradomin)",
+		"npc_type": 1611,
+		"x": 3107,
+		"y": 3937,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (guthix)",
+		"npc_type": 1612,
+		"x": 3113,
+		"y": 3932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (guthix)",
+		"npc_type": 1612,
+		"x": 3105,
+		"y": 3928,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (guthix)",
+		"npc_type": 1612,
+		"x": 3101,
+		"y": 3941,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (guthix)",
+		"npc_type": 1612,
+		"x": 3111,
+		"y": 3942,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (zamorak)",
+		"npc_type": 1610,
+		"x": 3115,
+		"y": 3937,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (zamorak)",
+		"npc_type": 1610,
+		"x": 3102,
+		"y": 3932,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (zamorak)",
+		"npc_type": 1610,
+		"x": 3094,
+		"y": 3937,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Battle mage (zamorak)",
+		"npc_type": 1610,
+		"x": 3113,
+		"y": 3927,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3428,
+		"y": 3565,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3425,
+		"y": 3574,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3427,
+		"y": 3570,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3416,
+		"y": 3567,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3413,
+		"y": 3570,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3413,
+		"y": 3574,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3417,
+		"y": 3562,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3420,
+		"y": 3568,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3412,
+		"y": 3561,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Abyssal demon",
+		"npc_type": 415,
+		"x": 3422,
+		"y": 3564,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2848,
+		"y": 9580,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2842,
+		"y": 9584,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2833,
+		"y": 9586,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2836,
+		"y": 9580,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2836,
+		"y": 9575,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 2840,
+		"y": 9582,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2836,
+		"y": 9564,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2831,
+		"y": 9563,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2836,
+		"y": 9560,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2843,
+		"y": 9558,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 2839,
+		"y": 9553,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2856,
+		"y": 9577,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2860,
+		"y": 9577,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant bat",
+		"npc_type": 2834,
+		"x": 2855,
+		"y": 9573,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 2857,
+		"y": 9569,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 2862,
+		"y": 9569,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 2861,
+		"y": 9573,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3235,
+		"y": 9865,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3232,
+		"y": 9866,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3228,
+		"y": 9869,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3221,
+		"y": 9862,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3221,
+		"y": 9872,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rat",
+		"npc_type": 2513,
+		"x": 3246,
+		"y": 9867,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rat",
+		"npc_type": 2513,
+		"x": 3251,
+		"y": 9870,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rat",
+		"npc_type": 2513,
+		"x": 3256,
+		"y": 9872,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3244,
+		"y": 9889,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3242,
+		"y": 9894,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3249,
+		"y": 9892,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3255,
+		"y": 9893,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3263,
+		"y": 9892,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3275,
+		"y": 9893,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3279,
+		"y": 9896,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant rat",
+		"npc_type": 2510,
+		"x": 3283,
+		"y": 9896,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3280,
+		"y": 9909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3274,
+		"y": 9910,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3262,
+		"y": 9914,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3258,
+		"y": 9916,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3251,
+		"y": 9906,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3251,
+		"y": 9900,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3241,
+		"y": 9916,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Ghost",
+		"npc_type": 6815,
+		"x": 3242,
+		"y": 9913,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3235,
+		"y": 9907,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Zombie (level-25)",
+		"npc_type": 26,
+		"x": 3226,
+		"y": 9905,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3213,
+		"y": 9906,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3212,
+		"y": 9909,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3209,
+		"y": 9905,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton (level-22)",
+		"npc_type": 70,
+		"x": 3205,
+		"y": 9907,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 217,
+		"y": 9890,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant spider",
+		"npc_type": 3018,
+		"x": 3206,
+		"y": 9882,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3184,
+		"y": 9886,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3179,
+		"y": 9883,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3168,
+		"y": 9894,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3174,
+		"y": 9896,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3169,
+		"y": 9886,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3164,
+		"y": 9879,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3158,
+		"y": 9901,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3160,
+		"y": 9903,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3157,
+		"y": 9907,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2797,
+		"y": 9996,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2793,
+		"y": 9998,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2792,
+		"y": 9993,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2790,
+		"y": 9997,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2787,
+		"y": 9994,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2784,
+		"y": 9995,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2782,
+		"y": 10000,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cave crawler",
+		"npc_type": 406,
+		"x": 2785,
+		"y": 9999,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2794,
+		"y": 10016,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2792,
+		"y": 10019,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2800,
+		"y": 10013,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2798,
+		"y": 1008,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2802,
+		"y": 10021,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2804,
+		"y": 10017,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Rockslug",
+		"npc_type": 421,
+		"x": 2806,
+		"y": 10021,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2802,
+		"y": 10032,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2797,
+		"y": 10031,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2800,
+		"y": 10036,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2796,
+		"y": 10034,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2792,
+		"y": 10037,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2788,
+		"y": 10034,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cockatrice",
+		"npc_type": 419,
+		"x": 2785,
+		"y": 10038,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2757,
+		"y": 10011,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2761,
+		"y": 10012,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2760,
+		"y": 10008,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2757,
+		"y": 10006,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2759,
+		"y": 10003,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2762,
+		"y": 10005,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2766,
+		"y": 10002,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2760,
+		"y": 10000,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2766,
+		"y": 10004,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Pyrefiend",
+		"npc_type": 433,
+		"x": 2761,
+		"y": 9997,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2745,
+		"y": 10004,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2740,
+		"y": 10005,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2740,
+		"y": 10010,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2746,
+		"y": 10008,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2743,
+		"y": 10012,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2746,
+		"y": 10014,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Basilisk",
+		"npc_type": 417,
+		"x": 2741,
+		"y": 10016,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2711,
+		"y": 10031,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2712,
+		"y": 10026,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2709,
+		"y": 10023,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2707,
+		"y": 10028,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2705,
+		"y": 10025,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2703,
+		"y": 10022,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2699,
+		"y": 10023,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2697,
+		"y": 10027,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2700,
+		"y": 10030,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Jelly",
+		"npc_type": 437,
+		"x": 2703,
+		"y": 10032,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2716,
+		"y": 10010,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2720,
+		"y": 10012,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2720,
+		"y": 10008,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2719,
+		"y": 10004,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2723,
+		"y": 10006,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2724,
+		"y": 10011,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2726,
+		"y": 10007,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2722,
+		"y": 10001,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2722,
+		"y": 9996,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Turoth",
+		"npc_type": 428,
+		"x": 2729,
+		"y": 9998,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kurask",
+		"npc_type": 410,
+		"x": 2703,
+		"y": 10001,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kurask",
+		"npc_type": 410,
+		"x": 2704,
+		"y": 9995,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kurask",
+		"npc_type": 410,
+		"x": 2696,
+		"y": 9994,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kurask",
+		"npc_type": 410,
+		"x": 2695,
+		"y": 10002,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kurask",
+		"npc_type": 410,
+		"x": 2699,
+		"y": 9998,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3163,
+		"y": 2986,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3162,
+		"y": 2984,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3165,
+		"y": 2983,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3163,
+		"y": 2980,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3161,
+		"y": 2980,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3161,
+		"y": 2983,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3159,
+		"y": 2987,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3167,
+		"y": 2983,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Bandit",
+		"npc_type": 2893,
+		"x": 3163,
+		"y": 2977,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant imp",
+		"npc_type": 11010,
+		"x": 2969,
+		"y": 3738,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant goblin",
+		"npc_type": 11009,
+		"x": 2984,
+		"y": 3738,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant icefiend",
+		"npc_type": 11010,
+		"x": 2986,
+		"y": 3745,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant werewolf",
+		"npc_type": 11009,
+		"x": 2964,
+		"y": 3752,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant hobgoblin",
+		"npc_type": 11009,
+		"x": 2963,
+		"y": 3743,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant ork",
+		"npc_type": 11009,
+		"x": 2972,
+		"y": 3757,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant knight",
+		"npc_type": 11009,
+		"x": 2992,
+		"y": 3751,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant pyrefiend",
+		"npc_type": 11010,
+		"x": 2982,
+		"y": 3754,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant cyclops",
+		"npc_type": 11007,
+		"x": 2992,
+		"y": 3762,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant hellhound",
+		"npc_type": 11007,
+		"x": 2966,
+		"y": 3762,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant demon",
+		"npc_type": 11007,
+		"x": 2974,
+		"y": 3746,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Revenant dark beast",
+		"npc_type": 11010,
+		"x": 2959,
+		"y": 3754,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2906,
+		"y": 4463,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2910,
+		"y": 4464,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2916,
+		"y": 4464,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2923,
+		"y": 4462,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2929,
+		"y": 4452,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2929,
+		"y": 4444,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2927,
+		"y": 4438,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2924,
+		"y": 4436,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2927,
+		"y": 4438,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2920,
+		"y": 4435,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2927,
+		"y": 4438,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2914,
+		"y": 4434,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2907,
+		"y": 4435,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2903,
+		"y": 4436,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2899,
+		"y": 4442,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5961,
+		"x": 2898,
+		"y": 4451,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Spinolyps",
+		"npc_type": 5947,
+		"x": 2903,
+		"y": 4462,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_description": "Al-Kharid warrior",
+		"npc_type": 3103,
+		"x": 3292,
+		"y": 3169,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Al-Kharid warrior",
+		"npc_type": 3103,
+		"x": 3288,
+		"y": 3171,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Al-Kharid warrior",
+		"npc_type": 3103,
+		"x": 3295,
+		"y": 3176,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Knight of Ardougne",
+		"npc_type": 3108,
+		"x": 2665,
+		"y": 3304,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Knight of Ardougne",
+		"npc_type": 3108,
+		"x": 2660,
+		"y": 3308,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3009,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3011,
+		"y": 3514,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3012,
+		"y": 3517,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3014,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3018,
+		"y": 3516,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3021,
+		"y": 3513,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3026,
+		"y": 3517,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3029,
+		"y": 3513,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3026,
+		"y": 3511,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3262,
+		"y": 3259,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3256,
+		"y": 3259,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3256,
+		"y": 3264,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3261,
+		"y": 3262,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3263,
+		"y": 3269,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3260,
+		"y": 3273,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3264,
+		"y": 3277,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3259,
+		"y": 3278,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3255,
+		"y": 3280,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3248,
+		"y": 3284,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Cow",
+		"npc_type": 2805,
+		"x": 3248,
+		"y": 3292,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2444,
+		"y": 5144,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2449,
+		"y": 5143,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2456,
+		"y": 5154,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2456,
+		"y": 5157,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2461,
+		"y": 5157,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2470,
+		"y": 5163,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2478,
+		"y": 5167,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2480,
+		"y": 5165,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2449,
+		"y": 5169,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2445,
+		"y": 5167,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2448,
+		"y": 5166,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2490,
+		"y": 5175,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2492,
+		"y": 5172,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2452,
+		"y": 5151,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2446,
+		"y": 5149,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2464,
+		"y": 5142,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "TzHaar-Xil",
+		"npc_type": 2167,
+		"x": 2469,
+		"y": 5143,
+		"height": 0,
+		"face_action": "ROAM"
+	},	
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3230,
+		"y": 3298,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3229,
+		"y": 3297,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3229,
+		"y": 3299,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3231,
+		"y": 3295,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3232,
+		"y": 3298,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3227,
+		"y": 3297,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Chicken",
+		"npc_type": 2692,
+		"x": 3225,
+		"y": 3298,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3167,
+		"y": 3584,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thug",
+		"npc_type": 2883,
+		"x": 3162,
+		"y": 3585,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Johnny the beard",
+		"npc_type": 5213,
+		"x":3224,
+		"y":3398,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Thief",
+		"npc_type": 5217,
+		"x":3231,
+		"y":3394,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Woman",
+		"npc_type": 3015,
+		"x":3219,
+		"y":3392,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3237,
+		"y": 3619,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3240,
+		"y": 3616,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3231,
+		"y": 3608,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3227,
+		"y": 3610,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3238,
+		"y": 3600,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3251,
+		"y": 3610,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3243,
+		"y": 3620,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3233,
+		"y": 3615,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3239,
+		"y": 3612,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Elder chaos druid",
+		"npc_type": 6607,
+		"x": 3247,
+		"y": 3605,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3276,
+		"y": 3726,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3275,
+		"y": 3728,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3271,
+		"y": 3731,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3263,
+		"y": 3727,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3265,
+		"y": 3734,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3261,
+		"y": 3737,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3255,
+		"y": 3735,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3256,
+		"y": 3742,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3250,
+		"y": 3744,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3247,
+		"y": 3739,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3242,
+		"y": 3747,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3235,
+		"y": 3744,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3228,
+		"y": 3745,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3226,
+		"y": 3740,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3216,
+		"y": 3741,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3213,
+		"y": 3734,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 261,
+		"x": 3158,
+		"y": 3704,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 262,
+		"x": 3151,
+		"y": 3695,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 263,
+		"x": 3169,
+		"y": 3708,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3091,
+		"y": 3755,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3079,
+		"y": 3757,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3087,
+		"y": 3760,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3096,
+		"y": 3769,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hobgoblin",
+		"npc_type": 3049,
+		"x": 3088,
+		"y": 3771,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3138,
+		"y": 3796,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Skeleton",
+		"npc_type": 70,
+		"x": 3140,
+		"y": 3798,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3136,
+		"y": 3786,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3140,
+		"y": 3786,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3139,
+		"y": 3783,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3135,
+		"y": 3780,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3139,
+		"y": 3773,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3146,
+		"y": 3773,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3147,
+		"y": 3766,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3154,
+		"y": 3769,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3158,
+		"y": 3775,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3137,
+		"y": 3783,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3140,
+		"y": 3781,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black chinchompa",
+		"npc_type": 2912,
+		"x": 3134,
+		"y": 3786,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3138,
+		"y": 3801,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3146,
+		"y": 3805,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3142,
+		"y": 3809,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3142,
+		"y": 3818,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Moss giant",
+		"npc_type": 7262,
+		"x": 3146,
+		"y": 3828,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 264,
+		"x": 3106,
+		"y": 3813,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Green dragon",
+		"npc_type": 260,
+		"x": 3095,
+		"y": 3819,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3309,
+		"y": 3772,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Black knight",
+		"npc_type": 4959,
+		"x": 3312,
+		"y": 3769,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3297,
+		"y": 3805,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3289,
+		"y": 3808,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Deadly red spider",
+		"npc_type": 3021,
+		"x": 3294,
+		"y": 3816,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3318,
+		"y": 3842,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3308,
+		"y": 3840,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3303,
+		"y": 3848,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lesser demon",
+		"npc_type": 2005,
+		"x": 3282,
+		"y": 3886,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3192,
+		"y": 3817,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Red dragon",
+		"npc_type": 247,
+		"x": 3206,
+		"y": 3835,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Paladin",
+		"npc_type": 3104,
+		"x": 2659,
+		"y": 3301,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hero",
+		"npc_type": 3106,
+		"x": 2661,
+		"y": 3311,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3188,
+		"y": 3959,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3188,
+		"y": 3961,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3191,
+		"y": 3959,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3193,
+		"y": 3961,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3192,
+		"y": 3958,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Magic axe",
+		"npc_type": 2844,
+		"x": 3188,
+		"y": 3961,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3223,
+		"y": 3946,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3252,
+		"y": 3951,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3247,
+		"y": 3948,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3243,
+		"y": 3942,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3238,
+		"y": 3946,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3234,
+		"y": 3943,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3228,
+		"y": 3945,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpion",
+		"npc_type": 3024,
+		"x": 3226,
+		"y": 3942,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lava dragon",
+		"npc_type": 6593,
+		"x": 3064,
+		"y": 3773,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lava dragon",
+		"npc_type": 6593,
+		"x": 3063,
+		"y": 3767,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lava dragon",
+		"npc_type": 6593,
+		"x": 3054,
+		"y": 3773,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lava dragon",
+		"npc_type": 6593,
+		"x": 3059,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Lava dragon",
+		"npc_type": 6593,
+		"x": 3072,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Paladin",
+		"npc_type": 3104,
+		"x": 2849,
+		"y": 3377,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Hero",
+		"npc_type": 3106,
+		"x": 2847,
+		"y": 3382,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Knight of Ardougne",
+		"npc_type": 3108,
+		"x": 2846,
+		"y": 3376,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Man",
+		"npc_type": 3078,
+		"x": 2852,
+		"y": 3380,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal black dragon",
+		"npc_type": 7275,
+		"x": 1746,
+		"y": 5340,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal black dragon",
+		"npc_type": 7275,
+		"x": 1741,
+		"y": 5343,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal black dragon",
+		"npc_type": 7275,
+		"x": 1753,
+		"y": 5338,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal black dragon",
+		"npc_type": 7275,
+		"x": 1758,
+		"y": 5333,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal black dragon",
+		"npc_type": 7275,
+		"x": 1749,
+		"y": 5332,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1775,
+		"y": 5337,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1781,
+		"y": 5332,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1777,
+		"y": 5326,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1770,
+		"y": 5325,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1764,
+		"y": 5337,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1773,
+		"y": 5346,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal red dragon",
+		"npc_type": 7274,
+		"x": 1766,
+		"y": 5330,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1776,
+		"y": 5358,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1771,
+		"y": 5361,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1765,
+		"y": 5359,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1760,
+		"y": 5358,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1756,
+		"y": 5355,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1752,
+		"y": 5352,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Brutal blue dragon",
+		"npc_type": 7273,
+		"x": 1773,
+		"y": 5355,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3229,
+		"y": 10342,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3225,
+		"y": 10337,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3224,
+		"y": 10346,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3236,
+		"y": 10349,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3243,
+		"y": 10344,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3239,
+		"y": 10334,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3237,
+		"y": 10339,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3242,
+		"y": 10345,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3244,
+		"y": 10340,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3232,
+		"y": 10336,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3231,
+		"y": 10344,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3226,
+		"y": 10350,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Scorpia's offspring",
+		"npc_type": 6616,
+		"x": 3244,
+		"y": 10334,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite queen",
+		"npc_type": 963,
+		"x": 3481,
+		"y": 9509,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite guardian",
+		"npc_type": 962,
+		"x": 3497,
+		"y": 9494,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite guardian",
+		"npc_type": 962,
+		"x": 3484,
+		"y": 9492,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite guardian",
+		"npc_type": 962,
+		"x": 3474,
+		"y": 9499,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite guardian",
+		"npc_type": 962,
+		"x": 3479,
+		"y": 9503,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite guardian",
+		"npc_type": 962,
+		"x": 3489,
+		"y": 9511,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Giant mole",
+		"npc_type": 5779,
+		"x": 1760,
+		"y": 5184,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Bird",
+		"npc_type": 5549,
+		"x": 2706,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Chinchompa",
+		"npc_type": 2910,
+		"x": 2705,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Red Chinchompa",
+		"npc_type": 2911,
+		"x": 2706,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Black Chinchompa",
+		"npc_type": 2912,
+		"x": 2707,
+		"y": 3784,
+		"height": 0,
+		"face_action": "ROAM"
+	}
+]

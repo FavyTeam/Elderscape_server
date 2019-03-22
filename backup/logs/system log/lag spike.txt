@@ -1,0 +1,5784 @@
+[25/10/2016, 11:46: AM] Main tick took: 234ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 11:46: AM] Main tick took: 141ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 11:51: AM] Main tick took: 219ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 12:20: PM] Main tick took: 5859ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 5859
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 12:48: PM] Main tick took: 109ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:02: PM] Main tick took: 109ms with 3 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:37: PM] Main tick took: 109ms with 3 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:45: PM] Main tick took: 109ms with 3 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:50: PM] Main tick took: 109ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:55: PM] Main tick took: 110ms with 3 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 01:58: PM] Main tick took: 172ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 02:45: PM] Main tick took: 109ms with 2 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:20: PM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:24: PM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 172ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 156ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 78
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:34: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:37: PM] Main tick took: 204ms with 5 players.
+Cycle event: 32
+Item: 0
+Player: 62
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:42: PM] Main tick took: 156ms with 5 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:47: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:47: PM] Main tick took: 141ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:07: PM] Main tick took: 156ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:21: PM] Main tick took: 109ms with 7 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:26: PM] Main tick took: 156ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:31: PM] Main tick took: 156ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:54: PM] Main tick took: 157ms with 6 players.
+Cycle event: 63
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:02: PM] Main tick took: 203ms with 6 players.
+Cycle event: 125
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:07: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:07: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:12: PM] Main tick took: 157ms with 6 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:27: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:37: PM] Main tick took: 187ms with 6 players.
+Cycle event: 78
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:42: PM] Main tick took: 156ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:47: PM] Main tick took: 172ms with 7 players.
+Cycle event: 62
+Item: 0
+Player: 79
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:55: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:56: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:57: PM] Main tick took: 203ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:02: PM] Main tick took: 109ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:17: PM] Main tick took: 109ms with 4 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:26: PM] Main tick took: 110ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:57: PM] Main tick took: 156ms with 4 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:07: PM] Main tick took: 156ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:23: PM] Main tick took: 6781ms with 3 players.
+Cycle event: 0
+Item: 6781
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:50: PM] Main tick took: 219ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:15: PM] Main tick took: 234ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 219
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:27: PM] Main tick took: 125ms with 2 players.
+Cycle event: 110
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:32: PM] Main tick took: 110ms with 2 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:46: PM] Main tick took: 203ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:57: PM] Main tick took: 125ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:17: PM] Main tick took: 109ms with 4 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:22: PM] Main tick took: 109ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:27: PM] Main tick took: 110ms with 3 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:32: PM] Main tick took: 110ms with 3 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:37: PM] Main tick took: 109ms with 3 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:42: PM] Main tick took: 109ms with 3 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:46: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:47: PM] Main tick took: 110ms with 4 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:51: PM] Main tick took: 141ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:52: PM] Main tick took: 109ms with 5 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:20: PM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:24: PM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 172ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:27: PM] Main tick took: 156ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 78
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:34: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:37: PM] Main tick took: 204ms with 5 players.
+Cycle event: 32
+Item: 0
+Player: 62
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:42: PM] Main tick took: 156ms with 5 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:47: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 03:47: PM] Main tick took: 141ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:07: PM] Main tick took: 156ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:21: PM] Main tick took: 109ms with 7 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:26: PM] Main tick took: 156ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:31: PM] Main tick took: 156ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 04:54: PM] Main tick took: 157ms with 6 players.
+Cycle event: 63
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:02: PM] Main tick took: 203ms with 6 players.
+Cycle event: 125
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:07: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:07: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:12: PM] Main tick took: 157ms with 6 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:27: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:37: PM] Main tick took: 187ms with 6 players.
+Cycle event: 78
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:42: PM] Main tick took: 156ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:47: PM] Main tick took: 172ms with 7 players.
+Cycle event: 62
+Item: 0
+Player: 79
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:55: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:56: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 05:57: PM] Main tick took: 203ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:02: PM] Main tick took: 109ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:17: PM] Main tick took: 109ms with 4 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:26: PM] Main tick took: 110ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 06:57: PM] Main tick took: 156ms with 4 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:07: PM] Main tick took: 156ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:23: PM] Main tick took: 6781ms with 3 players.
+Cycle event: 0
+Item: 6781
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 07:50: PM] Main tick took: 219ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:15: PM] Main tick took: 234ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 219
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:27: PM] Main tick took: 125ms with 2 players.
+Cycle event: 110
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:32: PM] Main tick took: 110ms with 2 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:46: PM] Main tick took: 203ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 08:57: PM] Main tick took: 125ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:17: PM] Main tick took: 109ms with 4 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:22: PM] Main tick took: 109ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:27: PM] Main tick took: 110ms with 3 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:32: PM] Main tick took: 110ms with 3 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:37: PM] Main tick took: 109ms with 3 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:42: PM] Main tick took: 109ms with 3 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:46: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:47: PM] Main tick took: 110ms with 4 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:51: PM] Main tick took: 141ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:52: PM] Main tick took: 109ms with 5 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 09:57: PM] Main tick took: 109ms with 4 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:02: PM] Main tick took: 110ms with 4 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:12: PM] Main tick took: 110ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:17: PM] Main tick took: 109ms with 5 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:22: PM] Main tick took: 109ms with 5 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:27: PM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:32: PM] Main tick took: 110ms with 6 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[25/10/2016, 10:47: PM] Main tick took: 109ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 12:36: AM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 12:41: AM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:33: AM] Main tick took: 157ms with 2 players.
+Cycle event: 63
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:04: AM] Main tick took: 109ms with 3 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:02: AM] Main tick took: 109ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 12:53: PM] Main tick took: 141ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 01:51: PM] Main tick took: 141ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 02:50: PM] Main tick took: 109ms with 6 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:10: PM] Main tick took: 109ms with 6 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:12: PM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:13: PM] Main tick took: 172ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:17: PM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:22: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:27: PM] Main tick took: 187ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 141ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 16
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 219ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 125ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 156ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:34: PM] Main tick took: 156ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:36: PM] Main tick took: 172ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:39: PM] Main tick took: 172ms with 8 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:40: PM] Main tick took: 156ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:57: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:01: PM] Main tick took: 188ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:10: PM] Main tick took: 203ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 15
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:16: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:23: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:35: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:37: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:11: PM] Main tick took: 141ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:41: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:49: PM] Main tick took: 125ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:33: AM] Main tick took: 157ms with 2 players.
+Cycle event: 63
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:04: AM] Main tick took: 109ms with 3 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:02: AM] Main tick took: 109ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 12:53: PM] Main tick took: 141ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 01:51: PM] Main tick took: 141ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 02:50: PM] Main tick took: 109ms with 6 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:10: PM] Main tick took: 109ms with 6 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:12: PM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:13: PM] Main tick took: 172ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:17: PM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:22: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:27: PM] Main tick took: 187ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 141ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 16
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 219ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:29: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 125ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:31: PM] Main tick took: 156ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:34: PM] Main tick took: 156ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:36: PM] Main tick took: 172ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:39: PM] Main tick took: 172ms with 8 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:40: PM] Main tick took: 156ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 03:57: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:01: PM] Main tick took: 188ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 93
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:10: PM] Main tick took: 203ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 15
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:16: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:23: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:35: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 04:37: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:11: PM] Main tick took: 141ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:41: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:49: PM] Main tick took: 125ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 05:53: PM] Main tick took: 171ms with 8 players.
+Cycle event: 78
+Item: 0
+Player: 0
+NPC: 93
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:00: PM] Main tick took: 141ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:02: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:03: PM] Main tick took: 109ms with 8 players.
+Cycle event: 93
+Item: 0
+Player: 16
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:05: PM] Main tick took: 172ms with 8 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:11: PM] Main tick took: 156ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:17: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:18: PM] Main tick took: 109ms with 6 players.
+Cycle event: 93
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:30: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:34: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:34: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:36: PM] Main tick took: 187ms with 7 players.
+Cycle event: 62
+Item: 0
+Player: 16
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:38: PM] Main tick took: 187ms with 7 players.
+Cycle event: 62
+Item: 0
+Player: 16
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:48: PM] Main tick took: 157ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:48: PM] Main tick took: 140ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 06:55: PM] Main tick took: 219ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 07:03: PM] Main tick took: 125ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 07:07: PM] Main tick took: 140ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 07:46: PM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:06: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:13: PM] Main tick took: 109ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:14: PM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:18: PM] Main tick took: 1563ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 1563
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:24: PM] Main tick took: 110ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:46: PM] Main tick took: 141ms with 6 players.
+Cycle event: 16
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:54: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 94
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:54: PM] Main tick took: 125ms with 6 players.
+Cycle event: 78
+Item: 0
+Player: 31
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:06: PM] Main tick took: 110ms with 6 players.
+Cycle event: 63
+Item: 0
+Player: 16
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:20: PM] Main tick took: 110ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:40: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:50: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:54: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:56: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 16
+Player: 0
+NPC: 62
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:16: PM] Main tick took: 125ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:19: PM] Main tick took: 125ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:24: PM] Main tick took: 110ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:24: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:27: PM] Main tick took: 141ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 63
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:29: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:29: PM] Main tick took: 140ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 93
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:32: PM] Main tick took: 140ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:39: PM] Main tick took: 140ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:07: PM] Main tick took: 110ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:27: PM] Main tick took: 140ms with 6 players.
+Cycle event: 125
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:50: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:07: AM] Main tick took: 187ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 78
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:10: AM] Main tick took: 141ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:15: AM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:15: AM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:20: AM] Main tick took: 141ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:26: AM] Main tick took: 172ms with 6 players.
+Cycle event: 47
+Item: 15
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:27: AM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 07:46: PM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:06: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:13: PM] Main tick took: 109ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:14: PM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:18: PM] Main tick took: 1563ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 1563
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:24: PM] Main tick took: 110ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:46: PM] Main tick took: 141ms with 6 players.
+Cycle event: 16
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:54: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 94
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 08:54: PM] Main tick took: 125ms with 6 players.
+Cycle event: 78
+Item: 0
+Player: 31
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:06: PM] Main tick took: 110ms with 6 players.
+Cycle event: 63
+Item: 0
+Player: 16
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:20: PM] Main tick took: 110ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:40: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:50: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:54: PM] Main tick took: 156ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 09:56: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 16
+Player: 0
+NPC: 62
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:16: PM] Main tick took: 125ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:19: PM] Main tick took: 125ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:24: PM] Main tick took: 110ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:24: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:27: PM] Main tick took: 141ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 63
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:29: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:29: PM] Main tick took: 140ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 93
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:32: PM] Main tick took: 140ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 10:39: PM] Main tick took: 140ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:07: PM] Main tick took: 110ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:27: PM] Main tick took: 140ms with 6 players.
+Cycle event: 125
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:30: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[26/10/2016, 11:50: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:07: AM] Main tick took: 187ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 78
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:10: AM] Main tick took: 141ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:15: AM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:15: AM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:20: AM] Main tick took: 141ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:26: AM] Main tick took: 172ms with 6 players.
+Cycle event: 47
+Item: 15
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:27: AM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: AM] Main tick took: 156ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:12: AM] Main tick took: 344ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 344
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:12: AM] Main tick took: 109ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:34: AM] Main tick took: 172ms with 1 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:46: AM] Main tick took: 141ms with 3 players.
+Cycle event: 16
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:41: AM] Main tick took: 125ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 275ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 268
+NPC: 7
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 138ms with 2 players.
+Cycle event: 132
+Item: 0
+Player: 1
+NPC: 5
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 138ms with 2 players.
+Cycle event: 44
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:33: PM] Main tick took: 126ms with 2 players.
+Cycle event: 48
+Item: 0
+Player: 47
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:28: PM] Main tick took: 141ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:38: PM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:58: PM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:00: PM] Main tick took: 141ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:03: PM] Main tick took: 172ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:18: PM] Main tick took: 125ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:23: PM] Main tick took: 141ms with 4 players.
+Cycle event: 63
+Item: 0
+Player: 46
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:25: PM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:35: PM] Main tick took: 125ms with 5 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:38: PM] Main tick took: 141ms with 5 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:53: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:58: PM] Main tick took: 140ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:08: PM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:08: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:12: AM] Main tick took: 344ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 344
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:12: AM] Main tick took: 109ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:34: AM] Main tick took: 172ms with 1 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:46: AM] Main tick took: 141ms with 3 players.
+Cycle event: 16
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:41: AM] Main tick took: 125ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 275ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 268
+NPC: 7
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 138ms with 2 players.
+Cycle event: 132
+Item: 0
+Player: 1
+NPC: 5
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:28: PM] Main tick took: 138ms with 2 players.
+Cycle event: 44
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 12:33: PM] Main tick took: 126ms with 2 players.
+Cycle event: 48
+Item: 0
+Player: 47
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:28: PM] Main tick took: 141ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:38: PM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 01:58: PM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:00: PM] Main tick took: 141ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:03: PM] Main tick took: 172ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:18: PM] Main tick took: 125ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 16
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:23: PM] Main tick took: 141ms with 4 players.
+Cycle event: 63
+Item: 0
+Player: 46
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:25: PM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:35: PM] Main tick took: 125ms with 5 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:38: PM] Main tick took: 141ms with 5 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:53: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 02:58: PM] Main tick took: 140ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:08: PM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:08: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:11: PM] Main tick took: 156ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 16
+NPC: 140
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:15: PM] Main tick took: 109ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 47
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:23: PM] Main tick took: 157ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:25: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:25: PM] Main tick took: 125ms with 6 players.
+Cycle event: 31
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:26: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:32: PM] Main tick took: 125ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:40: PM] Main tick took: 125ms with 7 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:43: PM] Main tick took: 141ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:47: PM] Main tick took: 141ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 03:47: PM] Main tick took: 109ms with 8 players.
+Cycle event: 94
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:07: PM] Main tick took: 110ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:07: PM] Main tick took: 172ms with 7 players.
+Cycle event: 157
+Item: 0
+Player: 15
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:08: PM] Main tick took: 141ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:11: PM] Main tick took: 188ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 188
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:12: PM] Main tick took: 109ms with 8 players.
+Cycle event: 109
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:12: PM] Main tick took: 157ms with 8 players.
+Cycle event: 141
+Item: 0
+Player: 16
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:18: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:22: PM] Main tick took: 125ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:27: PM] Main tick took: 109ms with 8 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:27: PM] Main tick took: 157ms with 8 players.
+Cycle event: 63
+Item: 0
+Player: 94
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:30: PM] Main tick took: 157ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 157
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:32: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:32: PM] Main tick took: 125ms with 8 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:37: PM] Main tick took: 110ms with 7 players.
+Cycle event: 32
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:42: PM] Main tick took: 141ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:43: PM] Main tick took: 109ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:45: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 78
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:47: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:47: PM] Main tick took: 109ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:47: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:50: PM] Main tick took: 188ms with 7 players.
+Cycle event: 63
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 04:57: PM] Main tick took: 125ms with 7 players.
+Cycle event: 32
+Item: 0
+Player: 15
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:10: PM] Main tick took: 140ms with 6 players.
+Cycle event: 62
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:13: PM] Main tick took: 109ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:17: PM] Main tick took: 125ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 05:53: PM] Main tick took: 125ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:07: PM] Main tick took: 125ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:18: PM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:18: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:27: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:27: PM] Main tick took: 141ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 62
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 188ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 141
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 140ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 31
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 282ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 250
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 187ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 187
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 219ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 219
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:41: PM] Main tick took: 297ms with 4 players.
+Cycle event: 15
+Item: 0
+Player: 16
+NPC: 266
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:42: PM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:44: PM] Main tick took: 172ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 157
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 06:49: PM] Main tick took: 125ms with 5 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:28: PM] Main tick took: 235ms with 7 players.
+Cycle event: 157
+Item: 0
+Player: 31
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:38: PM] Main tick took: 141ms with 7 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:52: PM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:56: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:58: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 07:59: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:00: PM] Main tick took: 109ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 15
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:03: PM] Main tick took: 157ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:08: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:09: PM] Main tick took: 110ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:14: PM] Main tick took: 110ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 63
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:28: PM] Main tick took: 125ms with 8 players.
+Cycle event: 31
+Item: 0
+Player: 15
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:28: PM] Main tick took: 157ms with 8 players.
+Cycle event: 63
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:35: PM] Main tick took: 110ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:42: PM] Main tick took: 125ms with 9 players.
+Cycle event: 46
+Item: 0
+Player: 63
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:43: PM] Main tick took: 110ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:44: PM] Main tick took: 110ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:47: PM] Main tick took: 156ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:53: PM] Main tick took: 157ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:58: PM] Main tick took: 110ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:59: PM] Main tick took: 140ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 62
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:59: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 08:59: PM] Main tick took: 141ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:08: PM] Main tick took: 125ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:09: PM] Main tick took: 110ms with 8 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:28: PM] Main tick took: 141ms with 8 players.
+Cycle event: 94
+Item: 0
+Player: 16
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:30: PM] Main tick took: 187ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:30: PM] Main tick took: 125ms with 8 players.
+Cycle event: 31
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:33: PM] Main tick took: 157ms with 8 players.
+Cycle event: 94
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:38: PM] Main tick took: 219ms with 8 players.
+Cycle event: 78
+Item: 0
+Player: 63
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:40: PM] Main tick took: 125ms with 8 players.
+Cycle event: 15
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 09:54: PM] Main tick took: 125ms with 8 players.
+Cycle event: 32
+Item: 0
+Player: 15
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:00: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:02: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:15: PM] Main tick took: 140ms with 8 players.
+Cycle event: 62
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:26: PM] Main tick took: 125ms with 8 players.
+Cycle event: 32
+Item: 0
+Player: 93
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:33: PM] Main tick took: 125ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:37: PM] Main tick took: 125ms with 9 players.
+Cycle event: 46
+Item: 0
+Player: 0
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:38: PM] Main tick took: 125ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:38: PM] Main tick took: 109ms with 9 players.
+Cycle event: 31
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:42: PM] Main tick took: 125ms with 9 players.
+Cycle event: 93
+Item: 0
+Player: 32
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:43: PM] Main tick took: 141ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 32
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:45: PM] Main tick took: 109ms with 9 players.
+Cycle event: 46
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:45: PM] Main tick took: 125ms with 9 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 10:48: PM] Main tick took: 109ms with 9 players.
+Cycle event: 31
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:01: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:03: PM] Main tick took: 125ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 47
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:05: PM] Main tick took: 125ms with 7 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:08: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:13: PM] Main tick took: 125ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:33: PM] Main tick took: 110ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:33: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 94
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:35: PM] Main tick took: 125ms with 6 players.
+Cycle event: 31
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:38: PM] Main tick took: 141ms with 6 players.
+Cycle event: 47
+Item: 0
+Player: 78
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:42: PM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:43: PM] Main tick took: 109ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 63
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:53: PM] Main tick took: 109ms with 3 players.
+Cycle event: 31
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[27/10/2016, 11:58: PM] Main tick took: 109ms with 2 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 62
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:03: AM] Main tick took: 109ms with 3 players.
+Cycle event: 31
+Item: 0
+Player: 16
+NPC: 62
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:58: AM] Main tick took: 172ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 110
+NPC: 0
+Object: 15
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 172ms with 4 players.
+Cycle event: 47
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 141ms with 4 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 125ms with 4 players.
+Cycle event: 78
+Item: 16
+Player: 0
+NPC: 31
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 250ms with 4 players.
+Cycle event: 94
+Item: 0
+Player: 93
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 203ms with 4 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:59: AM] Main tick took: 281ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 281
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:00: AM] Main tick took: 578ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 78
+NPC: 500
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:00: AM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 31
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:00: AM] Main tick took: 234ms with 4 players.
+Cycle event: 31
+Item: 0
+Player: 109
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:07: AM] Main tick took: 172ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:07: AM] Main tick took: 141ms with 3 players.
+Cycle event: 63
+Item: 0
+Player: 0
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:19: AM] Main tick took: 125ms with 4 players.
+Cycle event: 125
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:34: AM] Main tick took: 141ms with 4 players.
+Cycle event: 125
+Item: 0
+Player: 16
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:07: AM] Main tick took: 141ms with 3 players.
+Cycle event: 63
+Item: 0
+Player: 78
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:30: AM] Main tick took: 125ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:31: AM] Main tick took: 328ms with 3 players.
+Cycle event: 328
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:31: AM] Main tick took: 1125ms with 4 players.
+Cycle event: 328
+Item: 0
+Player: 797
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:31: AM] Main tick took: 125ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 125
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:31: AM] Main tick took: 1672ms with 4 players.
+Cycle event: 1672
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:41: AM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:51: AM] Main tick took: 125ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 62
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:50: AM] Main tick took: 218ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 62
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:50: AM] Main tick took: 110ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:51: AM] Main tick took: 109ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 31
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:51: AM] Main tick took: 157ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 157
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 11:35: AM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 11:35: AM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 11:42: AM] Main tick took: 110ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:01: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 12:23: PM] Main tick took: 110ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:01: PM] Main tick took: 141ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:30: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:35: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:36: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 110
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:37: PM] Main tick took: 141ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:54: PM] Main tick took: 157ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 157
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 01:55: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:00: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:06: PM] Main tick took: 281ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 281
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:06: PM] Main tick took: 157ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 157
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:10: PM] Main tick took: 109ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 46
+NPC: 63
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:13: PM] Main tick took: 188ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:13: PM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:15: PM] Main tick took: 188ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:20: PM] Main tick took: 156ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 02:55: PM] Main tick took: 110ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:24: PM] Main tick took: 125ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:26: PM] Main tick took: 172ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:26: PM] Main tick took: 141ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:27: PM] Main tick took: 109ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:27: PM] Main tick took: 203ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:29: PM] Main tick took: 188ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 188
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:36: PM] Main tick took: 203ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:37: PM] Main tick took: 203ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 188
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:57: PM] Main tick took: 625ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 625
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:57: PM] Main tick took: 1656ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 1656
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:57: PM] Main tick took: 110ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 110
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:57: PM] Main tick took: 375ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 375
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 03:58: PM] Main tick took: 109ms with 6 players.
+Cycle event: 78
+Item: 0
+Player: 16
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:02: PM] Main tick took: 109ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:03: PM] Main tick took: 172ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:06: PM] Main tick took: 172ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:09: PM] Main tick took: 109ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:10: PM] Main tick took: 140ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:13: PM] Main tick took: 297ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 297
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:15: PM] Main tick took: 109ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:16: PM] Main tick took: 140ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:17: PM] Main tick took: 281ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 281
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:17: PM] Main tick took: 109ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:17: PM] Main tick took: 265ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 265
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:17: PM] Main tick took: 203ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:17: PM] Main tick took: 187ms with 17 players.
+Cycle event: 15
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:18: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:19: PM] Main tick took: 156ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:20: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:20: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:20: PM] Main tick took: 156ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:21: PM] Main tick took: 109ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:21: PM] Main tick took: 281ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 281
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:21: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:21: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:24: PM] Main tick took: 250ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:24: PM] Main tick took: 156ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:24: PM] Main tick took: 109ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:31: PM] Main tick took: 156ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:32: PM] Main tick took: 141ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:32: PM] Main tick took: 188ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 188
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:33: PM] Main tick took: 234ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:33: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:35: PM] Main tick took: 297ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 281
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:36: PM] Main tick took: 172ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:39: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:40: PM] Main tick took: 188ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 79
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:40: PM] Main tick took: 234ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:40: PM] Main tick took: 109ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:40: PM] Main tick took: 187ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:41: PM] Main tick took: 187ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 0
+Object: 93
+Character backup: 0
+--------------
+[28/10/2016, 04:41: PM] Main tick took: 203ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:41: PM] Main tick took: 140ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:43: PM] Main tick took: 156ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:43: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:50: PM] Main tick took: 109ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:50: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:51: PM] Main tick took: 109ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:51: PM] Main tick took: 156ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:52: PM] Main tick took: 109ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:52: PM] Main tick took: 171ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:53: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:53: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 16
+Character backup: 0
+--------------
+[28/10/2016, 04:54: PM] Main tick took: 125ms with 20 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:56: PM] Main tick took: 266ms with 21 players.
+Cycle event: 0
+Item: 0
+Player: 250
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:57: PM] Main tick took: 203ms with 22 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:57: PM] Main tick took: 140ms with 22 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:57: PM] Main tick took: 203ms with 22 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:57: PM] Main tick took: 140ms with 22 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:58: PM] Main tick took: 203ms with 21 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 04:59: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:00: PM] Main tick took: 125ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:00: PM] Main tick took: 172ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:00: PM] Main tick took: 265ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 265
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:00: PM] Main tick took: 140ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:00: PM] Main tick took: 125ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:04: PM] Main tick took: 109ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:04: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:06: PM] Main tick took: 250ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:07: PM] Main tick took: 109ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:07: PM] Main tick took: 172ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:08: PM] Main tick took: 125ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:08: PM] Main tick took: 172ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:10: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:10: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:10: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:10: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:15: PM] Main tick took: 172ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:15: PM] Main tick took: 156ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:15: PM] Main tick took: 125ms with 19 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:16: PM] Main tick took: 203ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:17: PM] Main tick took: 109ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:23: PM] Main tick took: 203ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:25: PM] Main tick took: 125ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:36: PM] Main tick took: 203ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:37: PM] Main tick took: 187ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:53: PM] Main tick took: 140ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:54: PM] Main tick took: 141ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 141
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 05:59: PM] Main tick took: 125ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:04: PM] Main tick took: 171ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:05: PM] Main tick took: 156ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:08: PM] Main tick took: 171ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:15: PM] Main tick took: 125ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:20: PM] Main tick took: 140ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:30: PM] Main tick took: 157ms with 15 players.
+Cycle event: 0
+Item: 0
+Player: 157
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:33: PM] Main tick took: 203ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:34: PM] Main tick took: 109ms with 15 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:35: PM] Main tick took: 140ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:38: PM] Main tick took: 125ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:38: PM] Main tick took: 203ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:40: PM] Main tick took: 109ms with 18 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:50: PM] Main tick took: 125ms with 17 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:51: PM] Main tick took: 109ms with 16 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 06:51: PM] Main tick took: 171ms with 15 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:16: PM] Main tick took: 203ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:20: PM] Main tick took: 234ms with 10 players.
+Cycle event: 15
+Item: 0
+Player: 63
+NPC: 156
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:20: PM] Main tick took: 141ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:20: PM] Main tick took: 110ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:20: PM] Main tick took: 172ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 172
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:20: PM] Main tick took: 1062ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 1062
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:21: PM] Main tick took: 282ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 282
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:26: PM] Main tick took: 203ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:29: PM] Main tick took: 109ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:29: PM] Main tick took: 203ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:31: PM] Main tick took: 171ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:32: PM] Main tick took: 156ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:36: PM] Main tick took: 156ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:36: PM] Main tick took: 156ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:39: PM] Main tick took: 250ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 250
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:44: PM] Main tick took: 203ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:49: PM] Main tick took: 109ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:59: PM] Main tick took: 188ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 07:59: PM] Main tick took: 109ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:01: PM] Main tick took: 140ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:02: PM] Main tick took: 172ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:03: PM] Main tick took: 109ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:05: PM] Main tick took: 109ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 94
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:08: PM] Main tick took: 171ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 171
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:09: PM] Main tick took: 109ms with 15 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:25: PM] Main tick took: 203ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:57: PM] Main tick took: 109ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 08:58: PM] Main tick took: 109ms with 14 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:00: PM] Main tick took: 156ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:12: PM] Main tick took: 250ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 234
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:18: PM] Main tick took: 141ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:25: PM] Main tick took: 203ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:26: PM] Main tick took: 203ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 0
+Object: 16
+Character backup: 0
+--------------
+[28/10/2016, 10:46: PM] Main tick took: 156ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 10:59: PM] Main tick took: 125ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 11:22: PM] Main tick took: 156ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[28/10/2016, 11:48: PM] Main tick took: 171ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 12:18: AM] Main tick took: 140ms with 13 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 12:28: AM] Main tick took: 109ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 12:38: AM] Main tick took: 109ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 12:56: AM] Main tick took: 125ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 01:20: AM] Main tick took: 125ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 01:59: AM] Main tick took: 109ms with 6 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:01: AM] Main tick took: 125ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:15: AM] Main tick took: 110ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 32
+NPC: 78
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:15: AM] Main tick took: 188ms with 5 players.
+Cycle event: 0
+Item: 47
+Player: 32
+NPC: 109
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:15: AM] Main tick took: 109ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 15
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:15: AM] Main tick took: 109ms with 5 players.
+Cycle event: 31
+Item: 0
+Player: 31
+NPC: 47
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:15: AM] Main tick took: 141ms with 5 players.
+Cycle event: 0
+Item: 0
+Player: 47
+NPC: 94
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:01: AM] Main tick took: 187ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:12: AM] Main tick took: 140ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:16: AM] Main tick took: 125ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:19: AM] Main tick took: 125ms with 4 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:39: AM] Main tick took: 156ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 500ms with 3 players.
+Cycle event: 47
+Item: 0
+Player: 218
+NPC: 235
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 359ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 359
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 375ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 375
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 344ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 344
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 282ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 16
+NPC: 266
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 531ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 531
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:44: AM] Main tick took: 360ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 360
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:45: AM] Main tick took: 219ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:45: AM] Main tick took: 344ms with 3 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 344
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:45: AM] Main tick took: 843ms with 3 players.
+Cycle event: 843
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:45: AM] Main tick took: 110ms with 3 players.
+Cycle event: 110
+Item: 0
+Player: 0
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:45: AM] Main tick took: 750ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 750
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 11:26: AM] Main tick took: 125ms with 7 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 01:06: PM] Main tick took: 125ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 109
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 01:08: PM] Main tick took: 140ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 140
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 01:56: PM] Main tick took: 172ms with 8 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:03: PM] Main tick took: 140ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 125
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:39: PM] Main tick took: 188ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 188
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:43: PM] Main tick took: 156ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:48: PM] Main tick took: 187ms with 12 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:54: PM] Main tick took: 218ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 203
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:54: PM] Main tick took: 218ms with 9 players.
+Cycle event: 0
+Item: 0
+Player: 218
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:56: PM] Main tick took: 156ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 156
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:56: PM] Main tick took: 203ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 187
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 02:57: PM] Main tick took: 187ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 172
+NPC: 15
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:03: PM] Main tick took: 109ms with 11 players.
+Cycle event: 0
+Item: 0
+Player: 93
+NPC: 16
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:14: PM] Main tick took: 297ms with 10 players.
+Cycle event: 0
+Item: 0
+Player: 297
+NPC: 0
+Object: 0
+Character backup: 0
+--------------
+[29/10/2016, 03:14: PM] Main tick took: 1359ms with 10 players.
+Cycle event: 250
+Item: 0
+Player: 734
+NPC: 375
+Object: 0
+Character backup: 0
+--------------
+[22/03/2017, 12:31: PM] Main tick took: 224ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+NPC: 3
+Object: 0
+Character backup: 0
+--------------
+[25/03/2017, 12:43: PM] Main tick took: 109ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 91
+--------------
+[25/03/2017, 12:43: PM] Main tick took: 109ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 91
+--------------
+[26/03/2017, 12:43: PM] Main tick took: 113ms with 1 players.
+Cycle event: 4
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 90
+--------------
+[25/03/2017, 12:43: PM] Main tick took: 109ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 91
+--------------
+[26/03/2017, 12:43: PM] Main tick took: 113ms with 1 players.
+Cycle event: 4
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 90
+--------------
+[25/03/2017, 12:43: PM] Main tick took: 109ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 91
+--------------
+[26/03/2017, 12:43: PM] Main tick took: 113ms with 1 players.
+Cycle event: 4
+Item: 0
+Player: 15
+NPC: 3
+Object: 0
+Character backup: 90
+--------------
+[04/08/2017, 05:10: AM] Main tick took: 123ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 2
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 119
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[04/08/2017, 05:10: AM] Main tick took: 154ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 152
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[05/08/2017, 06:50: AM] Main tick took: 356ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 354
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[17/08/2017, 04:42: PM] Main tick took: 970ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 122
+Player2: 773
+Player3: 0
+NPC: 73
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[17/08/2017, 04:52: PM] Main tick took: 101ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 100
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[17/08/2017, 04:54: PM] Main tick took: 101ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 100
+Player2: 0
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[17/08/2017, 05:10: PM] Main tick took: 238ms with 2 players.
+Cycle event: 236
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:33: PM] Main tick took: 1907ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 444
+Player2: 1212
+Player3: 0
+NPC: 182
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:34: PM] Main tick took: 155ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 1
+Player2: 0
+Player3: 0
+NPC: 3
+Object: 0
+Packet: 151
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:34: PM] Main tick took: 190ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 188
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:34: PM] Main tick took: 715ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 713
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:39: PM] Main tick took: 1425ms with 1 players.
+Cycle event: 152
+Item: 0
+Player: 370
+Player2: 427
+Player3: 17
+NPC: 98
+Object: 0
+Packet: 6
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[19/09/2017, 10:39: PM] Main tick took: 205ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 21
+Player2: 2
+Player3: 0
+NPC: 29
+Object: 0
+Packet: 153
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[24/09/2017, 04:01: PM] Main tick took: 101ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 100
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[28/09/2017, 05:30: PM] Main tick took: 140ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 3
+Object: 0
+Packet: 137
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[28/09/2017, 05:30: PM] Main tick took: 471ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 42
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 427
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[28/09/2017, 11:08: PM] Main tick took: 285ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 91
+Player2: 171
+Player3: 0
+NPC: 20
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[28/09/2017, 11:08: PM] Main tick took: 106ms with 0 players.
+Cycle event: 0
+Item: 0
+Player: 102
+Player2: 0
+Player3: 0
+NPC: 4
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[28/09/2017, 11:09: PM] Main tick took: 170ms with 2 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 168
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[03/10/2017, 03:15: AM] Main tick took: 105ms with 1 players.
+Cycle event: 103
+Item: 0
+Player: 0
+Player2: 1
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[13/10/2017, 04:26: AM] Main tick took: 145ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 0
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 144
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[18/10/2017, 07:14: AM] Main tick took: 349ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 28
+Player2: 0
+Player3: 0
+NPC: 1
+Object: 0
+Packet: 320
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[18/10/2017, 07:26: AM] Main tick took: 587ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 45
+Player2: 416
+Player3: 0
+NPC: 94
+Object: 0
+Packet: 0
+Packet(reset bank): 0
+Character backup: 0
+--------------
+[07/11/2017, 12:22: AM] Main tick took: 721ms with 1 players.
+Cycle event: 0
+Item: 0
+Player: 0
+Player2: 1
+Player3: 0
+NPC: 2
+Object: 0
+Packet: 718
+Packet(reset bank): 0
+Character backup: 0
+--------------

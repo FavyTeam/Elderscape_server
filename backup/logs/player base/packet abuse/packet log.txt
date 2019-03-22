@@ -1,0 +1,145 @@
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 13, at: -1, -1, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: oldgameframe
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 10, at: -1, -1, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: filteroff
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 34, at: -1, -1, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: settingsforclient1 BSS-0123456789
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 41, at: -1, -1, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: settingsforclient2 9S7179554077ZG6000090
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 10, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: musicauto
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 13, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: musicloopoff
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ChangeRegion1, Packet type: 121. Packet size: 0, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 77. Packet size: 12, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 16, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 16, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 86. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 16, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 86. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: Walk to: 3096, 3515
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickObjectFirst, Packet type: 132. Packet size: 6, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: objectX: 3096
+Yolo It at 07/11/2017, 12:22: AM: objectId: 3194
+Yolo It at 07/11/2017, 12:22: AM: objectY: 3514
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 86. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 86. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Command, Packet type: 103. Packet size: 14, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: playerCommand: packetloss567
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 86. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingOther, Packet type: 130. Packet size: 0, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: Walk to: 3096, 3515
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickObjectFirst, Packet type: 132. Packet size: 6, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: objectX: 3096
+Yolo It at 07/11/2017, 12:22: AM: objectId: 3194
+Yolo It at 07/11/2017, 12:22: AM: objectY: 3514
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending RemoveItem, Packet type: 145. Packet size: 6, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: interfaceId: 5382
+Yolo It at 07/11/2017, 12:22: AM: removeSlot: 25
+Yolo It at 07/11/2017, 12:22: AM: removeId: 1434
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending RemoveItem, Packet type: 145. Packet size: 6, at: 3096, 3515, 0
+Yolo It at 07/11/2017, 12:22: AM: interfaceId: 5064
+Yolo It at 07/11/2017, 12:22: AM: removeSlot: 0
+Yolo It at 07/11/2017, 12:22: AM: removeId: 1434
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:22: AM: Sending Silent packet, Packet type: 3. Packet size: 1, at: 3096, 3515, 0
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 13, uid: 7075192849030185984, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: oldgameframe
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 10, uid: 2375528567448877056, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: filteroff
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 34, uid: 8929374146385882112, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: settingsforclient1 BSS-0123456789
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 41, uid: 4443332146473889792, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: settingsforclient2 9S7179554077ZG6000090
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 10, uid: 2662156863294031872, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: musicauto
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 13, uid: 3678740109973789696, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: musicloopoff
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Silent packet, Packet type: 3. Packet size: 1, uid: 7693711509088212992, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ChangeRegion1, Packet type: 121. Packet size: 0, uid: 1309482564183603200, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 16, uid: 8719146648138323968, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 16, uid: 4313329217523297280, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Command, Packet type: 103. Packet size: 16, uid: 3487978795467563008, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: playerCommand: nomusicselected
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, uid: 8758305137931573248, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Silent packet, Packet type: 3. Packet size: 1, uid: 7676120367873880064, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5, uid: 1146706772306049024, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: Walk to: 3096, 3515
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickObjectFirst, Packet type: 132. Packet size: 6, uid: 2563248602916931584, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: objectX: 3096
+Yolo It at 07/11/2017, 12:25: AM: objectId: 3194
+Yolo It at 07/11/2017, 12:25: AM: objectY: 3514
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, uid: 783118633113734144, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, uid: 70779218453641216, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Bank10, Packet type: 43. Packet size: 6, uid: 1524624560547953664, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: interfaceId: 5382
+Yolo It at 07/11/2017, 12:25: AM: removeId: 1215
+Yolo It at 07/11/2017, 12:25: AM: removeSlot: 35
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, uid: 6297173423979615232, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4, uid: 1554292906187579392, at: 3096, 3515, 0, wealth: 40.4m
+-------------------------------------------------------------
+Yolo It at 07/11/2017, 12:25: AM: Sending Bank5, Packet type: 117. Packet size: 6, uid: 2262460074341543936, at: 3096, 3515, 0, wealth: 40.4m
+Yolo It at 07/11/2017, 12:25: AM: interfaceId: 5064
+Yolo It at 07/11/2017, 12:25: AM: removeId: 1215
+Yolo It at 07/11/2017, 12:25: AM: removeSlot: 0

@@ -1,0 +1,83 @@
+// YELLOW TIER
+962 0 // Christmas cracker
+20997 0 // Twisted bow
+1038 9 // Red partyhat
+1040 9 // Yellow partyhat
+1042 9 // Blue partyhat
+1044 9 // Green partyhat
+1046 9 // Purple partyhat
+1048 9 // White partyhat
+11862 9 // Black partyhat
+11863 9 // Rainbow partyhat
+
+// PURPLE TIER
+21006 0 // Kodai wand
+21018 5 // Ancestral hat
+21021 0 // Ancestral robe top
+21024 0 // Ancestral robe bottom
+1053 6 // Green h'ween mask.
+1055 6 // Blue h'ween mask
+1057 6 // Red h'ween mask
+13343 8 // Black santa hat
+1050 8 // Santa hat
+10348 0 // 3rd age platebody
+10346 0 // 3rd age platelegs
+12817 0 // Elysian spirit shield
+10350 10 // 3rd age full helmet
+10352 0 // 3rd age kiteshield
+10338 0 // 3rd age robe top
+10340 0 // 3rd age robe
+10330 0 // 3rd age range top
+10332 0 // 3rd age range legs
+10334 0 // 3rd age range coif
+10336 0 // 3rd age vambraces
+10342 0 // 3rd age mage hat
+10344 0 // 3rd age amulet
+20784 0 // Dragon claws
+12825 0 // Arcane spirit shield
+12821 0 // Spectral spirit shield
+6199 4 // Pet Mystery box
+
+// NORMAL TIER
+11284 0 // Dragonfire shield
+13576 0 // Dragon warhammer
+11832 0 // Bandos chestplate
+11834 0 // Bandos tassets
+11828 0 // Armadyl chestplate
+11830 0 // Armadyl plateskirt
+11802 0 // Armadyl godsword
+11806 0 // Saradomin godsword
+21003 0 // Elder maul
+19478 0 // Light ballista
+12931 7 // Serpentine helm
+13199 7 // Magma helm
+13197 7 // Tanzanite helm
+11785 0 // Armadyl crossbow
+19481 0 // Heavy ballista
+12791 0 // Rune pouch
+13231 0 // Primordial crystal
+19544 4 // Tormented bracelet
+21034 0 // Dexterous prayer scroll
+21079 0 // Arcane prayer scroll
+2577 4 // Ranger boots
+11926 0 // Odium ward
+11924 0 // Malediction ward
+21012 0 // Dragon hunter crossbow
+11335 8 // Dragon full helm
+
+// LOW TIER
+13271 0 // Abyssal dagger (p++)
+11826 10 // Armadyl helmet
+12926 0 // Toxic blowpipe
+11804 0 // Bandos godsword
+11808 0 // Zamorak godsword
+6585 0 // Amulet of fury
+12002 0 // Occult necklace
+19553 0 // Amulet of torture
+19547 0 // Necklace of anguish
+6889 0 // Mages' book
+6914 0 // Master wand
+11838 0 // Saradomin sword
+13227 0 // Eternal crystal
+19550 0 // Ring of suffering
+12601 0 // Ring of the gods

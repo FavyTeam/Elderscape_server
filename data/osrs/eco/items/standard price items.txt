@@ -1,0 +1,18 @@
+16001 // Blood money 8k (Donator one)
+16000 // Blood money 1.5k (Vote one)
+2714 // Large casket
+2717 // Medium casket
+2720 // Small casket
+2724 // Tiny casket
+
+1601 // Diamond
+1603 // Ruby
+1605 // Emerald
+1607 // Sapphire
+1615 // Dragonstone
+
+1513 18 // Magic logs
+1515 14 // Yew logs
+1519 10 // Willow logs
+1521 8 // Oak logs
+1511 6 // Logs

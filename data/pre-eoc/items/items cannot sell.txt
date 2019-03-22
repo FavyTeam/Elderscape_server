@@ -1,0 +1,340 @@
+// Items cannot be sold to the shop or price checked to sell to the shop.
+
+995 // Coins
+7478 // Donator tokens
+6529 // Tokkul
+13307 // Blood money
+
+20784 // Dragon claws
+4067 // Vote ticket
+7478 // Donator token
+604 // Bone shard
+19564 // Royal seed pod
+
+20005 // Ring of nature
+12424 // 3rd age bow
+12422 // 3rd age wand
+12205 // Bronze platebody (g)
+12207 // Bronze platelegs (g)
+12209 // Bronze plateskirt (g)
+12211 // Bronze full helm (g)
+12213 // Bronze kiteshield (g)
+12215 // Bronze platebody (t)
+12217 // Bronze platelegs (t)
+12219 // Bronze plateskirt (t)
+12221 // Bronze full helm (t)
+12223 // Bronze kiteshield (t)
+12225 // Iron platebody (t)
+12227 // Iron platelegs (t)
+12229 // Iron plateskirt (t)
+12231 // Iron full helm (t)
+12233 // Iron kiteshield (t)
+12235 // Iron platebody (g)
+12237 // Iron platelegs (g)
+12239 // Iron plateskirt (g)
+12241 // Iron full helm (g)
+12243 // Iron kiteshield (g)
+20169 // Steel platebody (g)
+20172 // Steel platelegs (g)
+20175 // Steel plateskirt (g)
+20178 // Steel full helm (g)
+20181 // Steel kiteshield (g)
+20184 // Steel platebody (t)
+20187 // Steel platelegs (t)
+20190 // Steel plateskirt (t)
+20193 // Steel full helm (t)
+20196 // Steel kiteshield (t)
+2633 // Blue beret
+2635 // Black beret
+2637 // White beret
+12247 // Red beret
+2631 // Highwayman mask
+12245 // Beanie
+12447 // Black skirt (t)
+12451 // Black wizard robe (t)
+12455 // Black wizard hat (t)
+12445 // Black skirt (g)
+12449 // Black wizard robe (g)
+12453 // Black wizard hat (g)
+7362 // Studded body (g)
+7366 // Studded chaps (g)
+7364 // Studded body (t)
+7368 // Studded chaps (t)
+10306 // Black helm (h1)
+10308 // Black helm (h2)
+10310 // Black helm (h3)
+10312 // Black helm (h4)
+10314 // Black helm (h5)
+7332 // Black kiteshield(h)
+7338 // Black kiteshield(h)
+7344 // Black kiteshield(h)
+7350 // Black kiteshield(h)
+7356 // Black kiteshield(h)
+10400 // Black ele' shirt
+10402 // Black ele' legs
+10420 // White ele' blouse
+10422 // White ele' skirt
+10404 // Red ele' shirt
+10406 // Red ele' legs
+10424 // Red ele' blouse
+10426 // Red ele' skirt
+10408 // Blue ele' shirt
+10410 // Blue ele' legs
+10428 // Blue ele' blouse
+10430 // Blue ele' skirt
+10412 // Green ele' shirt
+10414 // Green ele' legs
+10432 // Green ele' blouse
+10434 // Green ele' skirt
+12249 // Imp mask
+12251 // Goblin mask
+20166 // Wooden shield (g)
+20272 // Cabbage round shield
+12498 // Bandos bracers
+12500 // Bandos d'hide
+12502 // Bandos chaps
+12504 // Bandos coif
+12363 // Bronze dragon mask
+12365 // Iron dragon mask
+12367 // Steel dragon mask
+12369 // Mithril dragon mask
+12371 // Lava dragon mask
+19973 // Light tuxedo jacket
+19976 // Light tuxedo cuffs
+19979 // Light trousers
+19982 // Light tuxedo shoes
+19985 // Light bow tie
+20050 // Obsidian cape (r)
+19991 // Bucket helm
+10398 // Sleeping cap
+12265 // Bandos robe top
+12267 // Bandos robe legs
+12269 // Bandos stole
+12271 // Bandos mitre
+12273 // Bandos cloak
+12275 // Bandos crozier
+12193 // Ancient robe top
+12195 // Ancient robe legs
+12197 // Ancient cloak
+12199 // Ancient crozier
+12201 // Ancient stole
+12203 // Ancient mitre
+19730 // Bloodhound
+10416 // Purple ele' shirt
+10418 // Purple ele' legs
+10436 // Purple ele' blouse
+10438 // Purple ele' skirt
+12315 // Pink elegant shirt
+12317 // Pink elegant legs
+12339 // Pink elegant blouse
+12341 // Pink elegant skirt
+12343 // Gold elegant blouse
+12345 // Gold elegant skirt
+12347 // Gold elegant shirt
+12349 // Gold elegant legs
+10316 // Bob shirt
+10318 // Bob shirt
+10320 // Bob shirt
+10322 // Bob shirt
+10324 // Bob shirt
+10392 // A powdered wig
+10396 // Pantaloons
+10366 // Amulet of magic(t)
+12253 // Armadyl robe top
+12255 // Armadyl robe legs
+12257 // Armadyl stole
+12259 // Armadyl mitre
+12261 // Armadyl cloak
+12263 // Armadyl crozier
+20164 // Large spade
+12277 // Mithril platebody (g)
+12279 // Mithril platelegs (g)
+12281 // Mithril kiteshield (g)
+12283 // Mithril full helm (g)
+12285 // Mithril plateskirt (g)
+12287 // Mithril platebody (t)
+12289 // Mithril platelegs (t)
+12291 // Mithril kiteshield (t)
+12293 // Mithril full helm (t)
+12295 // Mithril plateskirt (t)
+12598 // Holy sandals
+2645 // Red headband
+2647 // Black headband
+2649 // Brown headband
+12299 // White headband
+12301 // Blue headband
+12303 // Gold headband
+12305 // Pink headband
+12307 // Green headband
+7319 // Red boater
+7321 // Orange boater
+7323 // Green boater
+7325 // Blue boater
+7327 // Black boater
+12309 // Pink boater
+12311 // Purple boater
+12313 // White boater
+7370 // Green d'hide body(g)
+7378 // Green d'hide chaps (g)
+7372 // Green d'hide body (t)
+7380 // Green d'hide chaps (t)
+10296 // Adamant helm (h1)
+10298 // Adamant helm (h2)
+10300 // Adamant helm (h3)
+10302 // Adamant helm (h4)
+10304 // Adamant helm (h5)
+7334 // Adam kiteshield(h)
+7340 // Adam kiteshield(h)
+7346 // Adam kiteshield(h)
+7352 // Adam kiteshield(h)
+7358 // Adam kiteshield(h)
+10364 // Amulet of strength (t)
+12361 // Cat mask
+12428 // Penguin mask
+12319 // Crier hat
+20240 // Crier coat
+20243 // Crier bell
+20246 // Black leprechaun hat
+12359 // Leprechaun hat
+20266 // Black unicorn mask
+20269 // White unicorn mask
+20059 // Bucket helm (g)
+20251 // Arceuus banner
+20254 // Hosidius banner
+20257 // Lovakengj banner
+20260 // Piscarilius banner
+20263 // Shayzien banner
+20249 // Clueless scroll
+20080 // Mummy's head
+20083 // Mummy's body
+20086 // Mummy's hands
+20089 // Mummy's legs
+20092 // Mummy's feet
+12373 // Dragon cane
+20020 // Lesser demon mask
+20023 // Greater demon mask
+20026 // Black demon mask
+20029 // Old demon mask
+20032 // Jungle demon mask
+19918 // Nunchaku
+12351 // Musketeer hat
+12441 // Musketeer tabard
+12443 // Musketeer pants
+12956 // Cow top
+12957 // Cow trousers
+12958 // Cow gloves
+12959 // Cow shoes
+11919 // Cow mask
+20014 // 3rd age pickaxe
+12426 // 3rd age longsword
+20017 // Ring of blood money
+12480 // Bandos platebody
+12482 // Bandos platelegs
+12484 // Bandos plateskirt
+12486 // Bandos full helm
+12488 // Bandos kiteshield
+12391 // Gilded boots
+20146 // Gilded med helm
+20149 // Gilded chainbody
+20152 // Gilded sq shield
+20158 // Gilded spear
+20161 // Gilded hasta
+10286 // Rune helm (h1)
+10288 // Rune helm (h2)
+10290 // Rune helm (h3)
+10292 // Rune helm (h4)
+10294 // Rune helm (h5)
+7336 // Rune kiteshield(h)
+7342 // Rune kiteshield(h)
+7348 // Rune kiteshield(h)
+7354 // Rune kiteshield(h)
+7360 // Rune kiteshield(h)
+8950 // Pirate hat
+2639 // Tan cavalier
+2641 // Dark cavalier
+2643 // Black cavalier
+11277 // Cavalier mask
+12321 // White cavalier
+12323 // Red cavalier
+12325 // Navy cavalier
+7374 // Green d'hide body (g)
+7382 // Green d'hide chaps (g)
+7376 // Green d'hide body (t)
+7384 // Green d'hide chaps (t)
+12327 // Red d'hide body (g)
+12329 // Red d'hide chaps (g)
+12331 // Red d'hide body (t)
+12333 // Red d'hide chaps (t)
+10362 // Amulet of glory(t)
+19921 // Ancient d'hide boots
+19924 // Bandos d'hide boots
+19927 // Guthix d'hide boots
+19930 // Armadyl d'hide boots
+19933 // Saradomin d'hide boots
+19936 // Zamorak d'hide boots
+12490 // Ancient bracers
+12492 // Ancient d'hide
+12494 // Ancient chaps
+12496 // Ancient coif
+12518 // Green dragon mask
+12520 // Blue dragon mask
+12522 // Red dragon mask
+12524 // Black dragon mask
+2599 // Adam platebody (t)
+2601 // Adam platelegs (t)
+2603 // Adam kiteshield (t)
+2605 // Adam full helm(t)
+2607 // Adam platebody (g)
+2609 // Adam platelegs (g)
+2611 // Adam kiteshield (g)
+2613 // Adam full helm(g)
+12516 // Pith helmet
+12514 // Explorer backpack
+19912 // Zombie head
+19915 // Cyclops head
+19958 // Dark tuxedo jacket
+19961 // Dark tuxedo cuffs
+19964 // Dark trousers
+19967 // Dark tuxedo shoes
+19970 // Dark bow tie
+12337 // Sagacious spectacles
+12335 // Briefcase
+12353 // Monocle
+12355 // Big pirate hat
+12357 // Katana
+12430 // Afro
+19943 // Arceuus house scarf
+19946 // Hosidius house scarf
+19949 // Lovakengj house scarf
+19952 // Piscarilius house scarf
+19955 // Shayzien house scarf
+19988 // Blacksmith's helm
+19997 // Holy wraps
+19941 // Heavy casket
+20113 // Arceuus house hood
+20116 // Hosidius house hood
+20119 // Lovakengj house hood
+20122 // Piscarilius house hood
+20125 // Shayzien house hood
+20035 // Samurai kasa
+20038 // Samurai shirt
+20041 // Samurai gloves
+20044 // Samurai greaves
+20047 // Samurai boots
+20128 // Hood of darkness
+20131 // Robe top of darkness
+20134 // Gloves of darkness
+20137 // Robe bottom of darkness
+20140 // Boots of darkness
+19724 // Left eye patch
+20008 // Fancy tiara
+20053 // Half moon spectacles
+20056 // Ale of the gods
+20110 // Bowl wig
+20095 // Ankou mask
+20098 // Ankou top
+20101 // Ankou gloves
+20104 // Ankou leggings
+20107 // Ankou socks
+12437 // 3rd age cloak
+20011 //3rd age axe

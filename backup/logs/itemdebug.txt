@@ -1,0 +1,21 @@
+M-----New entry at: 19/04/2017, 05:04: AM
+Here1: 1215, Dragon dagger, 3088, 3513
+Here2
+Here3
+Here4
+Here5
+Here6
+Here7
+Here8
+Here9
+Here10
+Here11
+Here12
+Here19
+Here21: 1215, 3088, 3513, true
+Here22: 0, 0
+Here23
+Here24: true
+Here25
+Here31
+Here17

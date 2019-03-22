@@ -1,0 +1,146 @@
+Title: Attack Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Attack
+Requirements Sub Text:
+Title Id: 32
+Complete Amount: 200000000
+
+Title: Defence Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Defence
+Title Id: 33
+Complete Amount: 200000000
+
+Title: Strength Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Strength
+Title Id: 34
+Complete Amount: 200000000
+
+Title: Hitpoints Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Hitpoints
+Title Id: 35
+Complete Amount: 200000000
+
+Title: Ranged Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Ranged
+Requirements Sub Text:
+Title Id: 36
+Complete Amount: 200000000
+
+Title: Prayer Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Prayer
+Requirements Sub Text:
+Title Id: 37
+Complete Amount: 200000000
+
+Title: Magic Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Magic
+Requirements Sub Text:
+Title Id: 38
+Complete Amount: 200000000
+
+Title: Cooking Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Cooking
+Requirements Sub Text:
+Title Id: 39
+Complete Amount: 200000000
+
+Title: Woodcutting Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Woodcutting
+Title Id: 40
+Complete Amount: 200000000
+
+Title: Fletching Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Fletching
+Title Id: 41
+Complete Amount: 200000000
+
+Title: Fishing Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Fishing
+Requirements Sub Text:
+Title Id: 42
+Complete Amount: 200000000
+
+Title: Firemaking Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Firemaking
+Title Id: 43
+Complete Amount: 200000000
+
+Title: Crafting Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Crafting
+Requirements Sub Text:
+Title Id: 44
+Complete Amount: 200000000
+
+Title: Smithing Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Smithing
+Title Id: 45
+Complete Amount: 200000000
+
+Title: Mining Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Mining
+Requirements Sub Text:
+Title Id: 46
+Complete Amount: 200000000
+
+Title: Herblore Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Herblore
+Title Id: 47
+Complete Amount: 200000000
+
+Title: Agility Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Agility
+Requirements Sub Text:
+Title Id: 48
+Complete Amount: 200000000
+
+Title: Thieving Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Thieving
+Title Id: 49
+Complete Amount: 200000000
+
+Title: Slayer Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Slayer
+Requirements Sub Text:
+Title Id: 50
+Complete Amount: 200000000
+
+Title: Farming Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in Farming
+Requirements Sub Text:
+Title Id: 51
+Complete Amount: 200000000
+
+Title: Runecrafting Legend
+Title After Name: No
+Requirements Sub Text: 200m experience in
+Requirements Sub Text: Runecrafting
+Title Id: 52
+Complete Amount: 200000000

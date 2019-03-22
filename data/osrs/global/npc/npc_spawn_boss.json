@@ -1,0 +1,395 @@
+[
+	{
+		"npc_name": "Vet'ion",
+		"npc_type": 6611,
+		"x": 3214,
+		"y": 3793,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Crazy Archaeologist",
+		"npc_type": 6618,
+		"x": 2977,
+		"y": 3703,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Deranged Archaeologist",
+		"npc_type": 7806,
+		"x": 3683,
+		"y": 3706,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Callisto",
+		"npc_type": 6503,
+		"x": 3216,
+		"y": 3872,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ice Strykewyrm",
+		"npc_type": 11006,
+		"x": 2956,
+		"y": 3894,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ice Strykewyrm",
+		"npc_type": 11006,
+		"x": 2950,
+		"y": 3884,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ice Strykewyrm",
+		"npc_type": 11006,
+		"x": 2966,
+		"y": 3875,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ice Strykewyrm",
+		"npc_type": 11006,
+		"x": 2954,
+		"y": 3862,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Cerberus",
+		"npc_type": 5862,
+		"x": 1240,
+		"y": 1252,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Dagannoth Supreme",
+		"npc_type": 2265,
+		"x": 2907,
+		"y": 4441,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Dagannoth Prime",
+		"npc_type": 2266,
+		"x": 2908,
+		"y": 4458,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Dagannoth Rex",
+		"npc_type": 2267,
+		"x": 2924,
+		"y": 4447,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "K'ril Tsutsaroth",
+		"npc_type": 3129,
+		"x": 2926,
+		"y": 5324,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Commander Zilyana",
+		"npc_type": 2205,
+		"x": 2898,
+		"y": 5268,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Kree'arra",
+		"npc_type": 3162,
+		"x": 2833,
+		"y": 5302,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "General Graardor",
+		"npc_type": 2215,
+		"x": 2870,
+		"y": 5361,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Corporeal Beast",
+		"npc_type": 319,
+		"x": 2988,
+		"y": 4383,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Chaos Elemental",
+		"npc_type": 2054,
+		"x": 3275,
+		"y": 3914,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Chaos Fanatic",
+		"npc_type": 6619,
+		"x": 2980,
+		"y": 3846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Lizardman Shaman",
+		"npc_type": 6766,
+		"x": 1489,
+		"y": 3700,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Lizardman Shaman",
+		"npc_type": 6766,
+		"x": 1499,
+		"y": 3703,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Lizardman Shaman",
+		"npc_type": 6766,
+		"x": 1509,
+		"y": 3695,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Lizardman Shaman",
+		"npc_type": 6766,
+		"x": 1533,
+		"y": 3691,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Lizardman Shaman",
+		"npc_type": 6766,
+		"x": 1550,
+		"y": 3681,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Whirlpool",
+		"npc_type": 493,
+		"x": 2275,
+		"y": 10038,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Whirlpool",
+		"npc_type": 493,
+		"x": 2275,
+		"y": 10034,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Whirlpool",
+		"npc_type": 493,
+		"x": 2284,
+		"y": 10038,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Whirlpool",
+		"npc_type": 493,
+		"x": 2284,
+		"y": 10034,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+		{
+		"npc_name": "Whirlpool",
+		"npc_type": 496,
+		"x": 2278,
+		"y": 10035,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Zakl'n Gritch",
+		"npc_type": 3130,
+		"x": 2923,
+		"y": 5329,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Tstanon Karlak",
+		"npc_type": 3131,
+		"x": 2934,
+		"y": 5327,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Balfrug Kreeyath",
+		"npc_type": 3132,
+		"x": 2925,
+		"y": 5320,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Sergeant Steelwill",
+		"npc_type": 2217,
+		"x": 2871,
+		"y": 5357,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Sergeant Grimspike",
+		"npc_type": 2218,
+		"x": 2869,
+		"y": 5364,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Sergeant Strongstack",
+		"npc_type": 2216,
+		"x": 2872,
+		"y": 5362,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Wingman Skree",
+		"npc_type": 3163,
+		"x": 2828,
+		"y": 5302,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Flockleader Geerin",
+		"npc_type": 3164,
+		"x": 2833,
+		"y": 5300,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Flockleader Geerin",
+		"npc_type": 3165,
+		"x": 2837,
+		"y": 5304,
+		"height": 2,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Bree",
+		"npc_type": 2208,
+		"x": 2895,
+		"y": 5263,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Growler",
+		"npc_type": 2207,
+		"x": 2897,
+		"y": 5273,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Starlight",
+		"npc_type": 2206,
+		"x": 2903,
+		"y": 5266,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Venenatis",
+		"npc_type": 6504,
+		"x": 3309,
+		"y": 3741,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Tormented demon",
+		"npc_type": 11011,
+		"x": 3264,
+		"y": 3685,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Tormented demon",
+		"npc_type": 11011,
+		"x": 3271,
+		"y": 3712,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "King Black Dragon",
+		"npc_type": 239,
+		"x": 2271,
+		"y": 4700,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Scorpia",
+		"npc_type": 6615,
+		"x": 3232,
+		"y": 10341,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Vorkath",
+		"npc_type": 8059,
+		"x": 2269,
+		"y": 4062,
+		"height": 0,
+		"face_action": "ROAM",
+		"behind_wall_distance": 15
+	},
+	{
+		"npc_name": "Abyssal sire",
+		"npc_type": 5886,
+		"x": 3102,
+		"y": 4855,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Tekton",
+		"npc_type": 7540,
+		"x": 3336,
+		"y": 5328,
+		"height": 0,
+		"face_action": "WEST"
+	}
+]

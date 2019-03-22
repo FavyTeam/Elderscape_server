@@ -1,0 +1,22 @@
+Id: 20017
+Name: Ring of coins
+Price: 37500000
+Noted: false
+Stackable: false
+Mask: false
+Helm: false
+Full body: false
+F2p: false
+Random: false
+Stab attack bonus: 0
+Slash attack bonus: 0
+Crush attack bonus: 0
+Magic attack bonus: 0
+Ranged attack bonus: 0
+Stab defence bonus: 0
+Slash defence bonus: 0
+Crush defence bonus: 0
+Magic defence bonus: 0
+Ranged defence bonus: 0
+Strength bonus: 0
+Prayer bonus: 0

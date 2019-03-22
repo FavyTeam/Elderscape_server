@@ -1,0 +1,76 @@
+// List of object coordinates removed.
+
+// Stool at Entrana bank
+2857 3335 0
+
+// Fence removed from Entrana.
+2838 3343 0
+
+// Tile beside chest at Duel arena.
+3382 3269 0
+
+// Barrier tiles at General store.
+3085 3509 0
+3085 3510 0
+
+// Entrana around the old oak tree beside Entrana bank.
+2851 3332 0
+2851 3333 0
+2851 3334 0
+
+// Slayer tower removed door at top floor
+3445 3554 2
+3445 3555 2
+
+// Entrana smithing area.
+2832 3349 0
+
+// Trees near to Edgeville wilderness.
+3076 3516 0
+3076 3517 0
+3077 3516 0
+3077 3517 0
+
+3082 3516 0
+3082 3517 0
+3083 3516 0
+3083 3517 0
+
+3090 3516 0
+3090 3517 0
+3091 3516 0
+3091 3517 0
+
+3097 3516 0
+3097 3517 0
+3098 3516 0
+3098 3517 0
+
+// Under Mandrith at Resource wilderness area
+3183 3945 0
+
+// South of Wilderness resource gate
+3184 3944 0
+
+// Jail
+3013 3184 0
+3014 3184 0
+3015 3185 0
+3017 3184 0
+3017 3185 0
+3018 3184 0
+3019 3184 0
+3014 3185 0
+3014 3186 0
+3014 3187 0
+3018 3184 0
+3018 3185 0
+3018 3186 0
+3019 3184 0
+3019 3185 0
+3019 3186 0
+3018 3187 0
+3019 3187 0
+
+// Donator zone removed clipping
+2192 3233 0

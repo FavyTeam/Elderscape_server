@@ -1,0 +1,265 @@
+Title: Gladiator
+Title After Name: No
+Requirements Sub Text: 100 kills against a player
+Requirements Sub Text: Purple coloured title
+Title Id: 76
+Complete Amount: 100
+
+Title: Commander
+Title After Name: No
+Requirements Sub Text: 250 kills against a player
+Requirements Sub Text: Purple coloured title
+Title Id: 77
+Complete Amount: 250
+
+Title: War-chief
+Title After Name: No
+Requirements Sub Text: 500 kills against a player
+Requirements Sub Text: Purple coloured title
+Title Id: 78
+Complete Amount: 500
+
+Title: Immortal
+Title After Name: No
+Requirements Sub Text: 1000 kills against a player
+Requirements Sub Text: Purple coloured title
+Title Id: 79
+Complete Amount: 1000
+
+Title: Melee Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a Melee main
+Requirements Sub Text: against a player
+Title Id: 7
+Complete Amount: 10
+
+Title: Melee Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a Melee main
+Requirements Sub Text: against a player
+Title Id: 8
+Complete Amount: 30
+
+Title: Melee Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a Melee main
+Requirements Sub Text: against a player
+Title Id: 9
+Complete Amount: 60
+
+Title: Melee General
+Title After Name: No
+Requirements Sub Text: 100 kills as a Melee main
+Requirements Sub Text: against a player
+Title Id: 10
+Complete Amount: 100
+
+Title: Melee Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a Melee main
+Requirements Sub Text: against a player
+Title Id: 11
+Complete Amount: 150
+
+Title: Hybrid Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a Hybrid
+Requirements Sub Text: against a player
+Title Id: 12
+Complete Amount: 10
+
+Title: Hybrid Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a Hybrid
+Requirements Sub Text: against a player
+Title Id: 13
+Complete Amount: 30
+
+Title: Hybrid Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a Hybrid
+Requirements Sub Text: against a player
+Title Id: 14
+Complete Amount: 60
+
+Title: Hybrid General
+Title After Name: No
+Requirements Sub Text: 100 kills as a Hybrid
+Requirements Sub Text: against a player
+Title Id: 15
+Complete Amount: 100
+
+Title: Hybrid Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a Hybrid
+Requirements Sub Text: against a player
+Title Id: 16
+Complete Amount: 150
+
+Title: Berserker Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a Berserker pure
+Requirements Sub Text: against a player
+Title Id: 17
+Complete Amount: 10
+
+Title: Berserker Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a Berserker pure
+Requirements Sub Text: against a player
+Title Id: 18
+Complete Amount: 30
+
+Title: Berserker Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a Berserker pure
+Requirements Sub Text: against a player
+Title Id: 19
+Complete Amount: 60
+
+Title: Berserker General
+Title After Name: No
+Requirements Sub Text: 100 kills as a Berserker pure
+Requirements Sub Text: against a player
+Title Id: 20
+Complete Amount: 100
+
+Title: Berserker Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a Berserker pure
+Requirements Sub Text: against a player
+Title Id: 21
+Complete Amount: 150
+
+Title: Pure Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a Pure
+Requirements Sub Text: against a player
+Title Id: 22
+Complete Amount: 10
+
+Title: Pure Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a Pure
+Requirements Sub Text: against a player
+Title Id: 23
+Complete Amount: 30
+
+Title: Pure Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a Pure
+Requirements Sub Text: against a player
+Title Id: 24
+Complete Amount: 60
+
+Title: Pure General
+Title After Name: No
+Requirements Sub Text: 100 kills as a Pure
+Requirements Sub Text: against a player
+Title Id: 25
+Complete Amount: 100
+
+Title: Pure Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a Pure
+Requirements Sub Text: against a player
+Title Id: 26
+Complete Amount: 150
+
+Title: Ranged Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a Ranged tank
+Requirements Sub Text: against a player
+Title Id: 27
+Complete Amount: 10
+
+Title: Ranged Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a Ranged tank
+Requirements Sub Text: against a player
+Title Id: 28
+Complete Amount: 30
+
+Title: Ranged Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a Ranged tank
+Requirements Sub Text: against a player
+Title Id: 29
+Complete Amount: 60
+
+Title: Ranged General
+Title After Name: No
+Requirements Sub Text: 100 kills as a Ranged tank
+Requirements Sub Text: against a player
+Title Id: 30
+Complete Amount: 100
+
+Title: Ranged Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a Ranged tank
+Requirements Sub Text: against a player
+Title Id: 31
+Complete Amount: 150
+
+Title: F2P Cadet
+Title After Name: No
+Requirements Sub Text: 10 kills as a F2P PKer
+Requirements Sub Text: against a player
+Title Id: 80
+Complete Amount: 10
+
+Title: F2P Soldier
+Title After Name: No
+Requirements Sub Text: 30 kills as a F2P PKer
+Requirements Sub Text: against a player
+Title Id: 81
+Complete Amount: 30
+
+Title: F2P Sergeant
+Title After Name: No
+Requirements Sub Text: 60 kills as a F2P PKer
+Requirements Sub Text: against a player
+Title Id: 82
+Complete Amount: 60
+
+Title: F2P General
+Title After Name: No
+Requirements Sub Text: 100 kills as a F2P PKer
+Requirements Sub Text: against a player
+Title Id: 83
+Complete Amount: 100
+
+Title: F2P Legend
+Title After Name: No
+Requirements Sub Text: 150 kills as a F2P PKer
+Requirements Sub Text: against a player
+Title Id: 84
+Complete Amount: 150
+
+Title: Bot Bully
+Title After Name: No
+Requirements Sub Text: 20 Bot kills
+Requirements Sub Text:
+Title Id: 72
+Complete Amount: 20
+
+Title: Bot Smasher
+Title After Name: No
+Requirements Sub Text: 50 Bot kills
+Requirements Sub Text:
+Title Id: 73
+Complete Amount: 50
+
+Title: Bot Hunter
+Title After Name: No
+Requirements Sub Text: 100 Bot kills
+Requirements Sub Text:
+Title Id: 74
+Complete Amount: 100
+
+Title: Bot Slayer
+Title After Name: No
+Requirements Sub Text: 200 Bot kills
+Requirements Sub Text:
+Title Id: 75
+Complete Amount: 200

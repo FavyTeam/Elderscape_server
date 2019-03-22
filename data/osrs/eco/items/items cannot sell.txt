@@ -1,0 +1,24 @@
+// Items cannot be sold to the shop or price checked to sell to the shop.
+
+995 // Coins
+7478 // Donator tokens
+6529 // Tokkul
+13307 // Blood money
+
+14876 // Ancient statuette
+14877 // Seren statuette
+14878 // Armadyl statuette
+14879 // Zamorak statuette
+14880 // Saradomin statuette
+14881 // Bandos statuette
+14882 // Ruby chalice
+14883 // Guthxian brazier
+14884 // Armadyl totem
+14885 // Zamorak medallion
+14886 // Saradomin carving
+14887 // Bandos scrimshaw
+14888 // Saradomin amphora
+14889 // Ancient psaltery bridge
+14890 // Bronzed dragon claw
+14891 // Third age carafe
+14892 // Broken statue headdress

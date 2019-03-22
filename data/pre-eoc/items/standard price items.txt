@@ -1,0 +1,56 @@
+// Green dragon loot.
+1753
+
+// Dragon bones
+536
+
+// Blue dragonhide
+1751
+
+// Red dragonhide
+1749
+
+// Lava dragon loot.
+11943
+11992
+1747
+
+16001 // Blood money 8k (Donator one)
+16000 // Blood money 1.5k (Vote one)
+
+20199 // Monk's robe top (g)
+20202 // Monk's robe (g)
+20155 // Gilded 2h sword
+12389 // Gilded scimitar
+12385 // Black d'hide body (t)
+12387 // Black d'hide chaps (t)
+12383 // Black d'hide chaps (g)
+12381 // Black d'hide body (g)
+20217 // Team cape i
+20214 // Team cape x
+20211 // Team cape zero
+20208 // Golden apron
+20205 // Golden chef's hat
+12596 // Rangers' tunic
+19994 // Ranger gloves
+12639 // Guthix halo
+12637 // Saradomin halo
+12638 // Zamorak halo
+
+14876 // Ancient statuette
+14877 // Seren statuette
+14878 // Armadyl statuette
+14879 // Zamorak statuette
+14880 // Saradomin statuette
+14881 // Bandos statuette
+14882 // Ruby chalice
+14883 // Guthxian brazier
+14884 // Armadyl totem
+14885 // Zamorak medallion
+14886 // Saradomin carving
+14887 // Bandos scrimshaw
+14888 // Saradomin amphora
+14889 // Ancient psaltery bridge
+14890 // Bronzed dragon claw
+14891 // Third age carafe
+14892 // Broken statue headdress

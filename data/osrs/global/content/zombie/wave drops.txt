@@ -1,0 +1,44 @@
+Wave level: 5
+4315 // Team-1 cape (more)
+
+Wave level: 10
+1379 // Staff
+3105 // Rock climbing boots
+6568 // Obsidian cape
+
+Wave level: 20
+2412 // God cape (more)
+
+Wave level: 30 // When runite bar is unlocked.
+3753 // Warrior helm
+3751 // Berserker helm
+3749 // Archer helm
+3755 // Farseer helm
+10548 // Fighter hat
+10547 // Healer hat
+10549 // Runner hat
+10550 // Ranger hat
+4095 // Mystic gloves (more)
+4097 // Mystic boots (more)
+4093 // Mystic bottom (more)
+4091 // Mystic top (more)
+4089 // Mystic hat (more)
+
+Wave level: 40 // When black leather is unlocked.
+4587 // Dragon scimitar
+1215 // Dragon dagger
+1305 // Dragon longsword 
+1434 // Dragon mace
+4675 // Ancient staff
+11335 // Dragon full helm
+1149 // Dragon med helm
+4585 // Dragon plateskirt
+4087 // Dragon platelegs
+11732 // Dragon boots
+3140 // Dragon chainbody
+15126 // Amulet of ranging
+10551 // Fighter torso
+10828 // Helm of Neitiznot
+7462 // Barrows gloves
+19110 // Dragon defender
+6570 // Fire cape

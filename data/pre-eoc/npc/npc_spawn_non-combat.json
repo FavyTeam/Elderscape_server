@@ -1,0 +1,1164 @@
+[
+	{
+		"npc_description": "Party pete",
+		"npc_type": 11201,
+		"x": 1696,
+		"y": 4248,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+      "npc_name": "Banker",
+      "npc_type": 6939,
+      "x": 1694,
+      "y": 4258,
+      "height": 0,
+      "face_action": "EAST",
+	  "behind_wall_distance":1
+    },
+    {
+      "npc_name": "Banker",
+      "npc_type": 6940,
+      "x": 1694,
+      "y": 4257,
+      "height": 0,
+      "face_action": "EAST",
+	  "behind_wall_distance":1
+    },
+	{
+	    "npc_name":"Banker",
+		"npc_type":6941,
+		"x":1691,
+		"y":4258,
+		"height":0,
+		"face_action":"WEST",
+		"behind_wall_distance":1
+	},
+	{
+		"npc_name":"Banker",
+		"npc_type":6942,
+		"x":1691,
+		"y":4257,
+		"height":0,
+		"face_action":"WEST",
+		"behind_wall_distance":1
+	},
+		{
+		"npc_name": "Estocada",
+		"npc_type": 3670,
+		"x": 3376,
+		"y": 3269,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1743,
+		"y": 5207,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1743,
+		"y": 5207,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1737,
+		"y": 5202,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1737,
+		"y": 5196,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1740,
+		"y": 5186,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1740,
+		"y": 5178,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1742,
+		"y": 5172,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1744,
+		"y": 5166,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1740,
+		"y": 5160,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1743,
+		"y": 5153,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1749,
+		"y": 5152,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1751,
+		"y": 5144,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1758,
+		"y": 5149,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1764,
+		"y": 5152,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1772,
+		"y": 5151,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1778,
+		"y": 5151,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1777,
+		"y": 5168,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1774,
+		"y": 5175,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1777,
+		"y": 5181,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1777,
+		"y": 5189,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1783,
+		"y": 5197,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1780,
+		"y": 5204,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1778,
+		"y": 5210,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1779,
+		"y": 5218,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1780,
+		"y": 5226,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1776,
+		"y": 5232,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1769,
+		"y": 5222,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1761,
+		"y": 5219,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1751,
+		"y": 5223,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1743,
+		"y": 5223,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1741,
+		"y": 5223,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1739,
+		"y": 5215,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1751,
+		"y": 5209,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1760,
+		"y": 5212,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1759,
+		"y": 5201,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1771,
+		"y": 5200,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1760,
+		"y": 5189,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1767,
+		"y": 5177,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Baby mole",
+		"npc_type": 3341,
+		"x": 1754,
+		"y": 5179,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+   {
+      "npc_name":"Void Knight",
+      "npc_type":1758,
+      "x":2194,
+      "y":3244,
+      "height":0,
+      "face_action":"ROAM"
+   },
+	{
+		"npc_description": "Kalphite larva",
+		"npc_type": 1161,
+		"x": 3470,
+		"y": 9498,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite larva",
+		"npc_type": 1161,
+		"x": 3475,
+		"y": 9484,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite larva",
+		"npc_type": 1161,
+		"x": 3487,
+		"y": 9496,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite larva",
+		"npc_type": 1161,
+		"x": 3501,
+		"y": 9500,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Kalphite larva",
+		"npc_type": 1161,
+		"x": 3493,
+		"y": 9514,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "A'abla",
+		"npc_type": 3341,
+		"x": 3376,
+		"y": 3269,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2976,
+		"y": 3849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2982,
+		"y": 3846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2987,
+		"y": 3846,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2989,
+		"y": 3842,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2980,
+		"y": 3842,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "White Chaos Elemental Jr.",
+		"npc_type": 11118,
+		"x": 2982,
+		"y": 3849,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Void Knight (Falador market)",
+		"npc_type": 1758,
+		"x": 2998,
+		"y": 3389,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Vote manager (Falador market)",
+		"npc_type": 7283,
+		"x": 2997,
+		"y": 3389,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+    {
+      "npc_name": "Donator(virtual) assistant (Falador market)",
+      "npc_type": 5523,
+      "x": 2996,
+      "y": 3389,
+      "height": 0,
+      "face_action": "SOUTH"
+    },
+	{
+    "npc_name": "Durial321",
+    "npc_type": 11057,
+    "x": 3084,
+    "y": 3508,
+    "height": 0,
+    "face_action": "WEST"
+  },
+	{
+        "npc_name": "Baby impling",
+		"npc_type": 1645,
+		"x": 2339,
+		"y": 3588,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Baby impling",
+		"npc_type": 1645,
+		"x": 2332,
+		"y": 3581,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+  {
+    "npc_name": "Young impling",
+    "npc_type": 1646,
+    "x": 2325,
+    "y": 3587,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Young impling",
+    "npc_type": 1646,
+    "x": 2329,
+    "y": 3580,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Gourmet impling",
+    "npc_type": 1647,
+    "x": 2334,
+    "y": 3587,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Earth impling",
+    "npc_type": 1648,
+    "x": 2341,
+    "y": 3583,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Essence impling",
+    "npc_type": 1649,
+    "x": 2333,
+    "y": 3590,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Eclectic impling",
+    "npc_type": 1650,
+    "x": 2336,
+    "y": 3583,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Nature impling",
+    "npc_type": 1651,
+    "x": 2337,
+    "y": 3592,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Magpie impling",
+    "npc_type": 1652,
+    "x": 2328,
+    "y": 3584,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Ninja impling",
+    "npc_type": 1653,
+    "x": 2329,
+    "y": 3591,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+  {
+    "npc_name": "Dragon impling",
+    "npc_type": 1654,
+    "x": 2338,
+    "y": 3579,
+    "height": 0,
+    "face_action": "ROAM"
+  },
+    {
+      "npc_name": "Max hit dummy",
+      "npc_type": 1337,
+      "x": 2192,
+      "y": 3250,
+      "height": 0,
+      "face_action": "SOUTH"
+    },
+	{
+		"npc_name": "Shop assistant",
+		"npc_type": 513,
+		"x": 2193,
+		"y": 3239,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+    {
+      "npc_name": "Banker",
+      "npc_type": 396,
+      "x": 2198,
+      "y": 3257,
+      "height": 0,
+      "face_action": "SOUTH",
+	  "behind_wall_distance":2
+    },
+    {
+      "npc_name": "Banker",
+      "npc_type": 397,
+      "x": 2199,
+      "y": 3257,
+      "height": 0,
+      "face_action": "SOUTH",
+	  "behind_wall_distance":2
+    },
+    {
+      "npc_name": "Donator(virtual) assistant",
+      "npc_type": 5523,
+      "x": 2203,
+      "y": 3252,
+      "height": 0,
+      "face_action": "ROAM"
+    },
+    {
+      "npc_name": "Dark crab",
+      "npc_type": 3915,
+      "x": 2194,
+      "y": 3232,
+      "height": 0,
+      "face_action": "WEST"
+    },
+    {
+      "npc_name": "Anglerfish",
+      "npc_type": 4082,
+      "x": 2198,
+      "y": 3235,
+      "height": 0,
+      "face_action": "WEST"
+    },
+	{
+		"npc_name": "Pvp task master",
+		"npc_type": 315,
+		"x": 3082,
+		"y": 3507,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Mandrith",
+		"npc_type": 6599,
+		"x": 3183,
+		"y": 3945,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Party Pete",
+		"npc_type": 5792,
+		"x": 3078,
+		"y": 3507,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Nurse healer",
+		"npc_type": 3343,
+		"x": 3094,
+		"y": 3499,
+		"height": 4,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Cleaner",
+		"npc_type": 2901,
+		"x": 3191,
+		"y": 3927,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Vote manager",
+		"npc_type": 7283,
+		"x": 3082,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Vannaka",
+		"npc_type": 403,
+		"x": 3096,
+		"y": 3499,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Make-over mage",
+		"npc_type": 599,
+		"x": 3090,
+		"y": 3495,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Bob",
+		"npc_type": 505,
+		"x": 3100,
+		"y": 3513,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Sir Prysin",
+		"npc_type": 9360,
+		"x": 3078,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Wise old man",
+		"npc_type": 2253,
+		"x": 3079,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Guide",
+		"npc_type": 2244,
+		"x": 3076,
+		"y": 3508,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Fairy",
+		"npc_type": 57,
+		"x": 3076,
+		"y": 3510,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Horvik",
+		"npc_type": 549,
+		"x": 3081,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Teleporter",
+		"npc_type": 872,
+		"x": 3086,
+		"y": 3496,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+   {
+      "npc_name":"Banker",
+      "npc_type":1036,
+      "x":3098,
+      "y":3492,
+      "height":0,
+      "face_action":"NORTH",
+      "behind_wall_distance":2
+   },
+   {
+      "npc_name":"Banker",
+      "npc_type":1036,
+      "x":3096,
+      "y":3492,
+      "height":0,
+      "face_action":"NORTH",
+      "behind_wall_distance":2
+   },
+   {
+      "npc_name":"Banker",
+      "npc_type":1036,
+      "x":3096,
+      "y":3491,
+      "height":0,
+      "face_action":"WEST",
+      "behind_wall_distance":2
+   },
+   {
+      "npc_name":"Banker",
+      "npc_type":1036,
+      "x":3096,
+      "y":3489,
+      "height":0,
+      "face_action":"WEST",
+      "behind_wall_distance":2
+   },
+	{
+		"npc_name": "Gundai (At Magebank)",
+		"npc_type": 1600,
+		"x": 2541,
+		"y": 4715,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Aggie (Draynor)",
+		"npc_type": 4284,
+		"x": 3086,
+		"y": 3258,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 6080,
+		"x": 2481,
+		"y": 3429,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 6083,
+		"x": 2479,
+		"y": 3437,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Martin the Master Gardener",
+		"npc_type": 5832,
+		"x": 2819,
+		"y": 3336,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Mage of Zamorak",
+		"npc_type": 2580,
+		"x": 2861,
+		"y": 3374,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shrimp",
+		"npc_type": 3913,
+		"x": 2876,
+		"y": 3342,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Lobster",
+		"npc_type": 3914,
+		"x": 2879,
+		"y": 3339,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 3915,
+		"x": 3045,
+		"y": 3702,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 635,
+		"x": 2879,
+		"y": 3335,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 1506,
+		"x": 2876,
+		"y": 3331,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 3915,
+		"x": 3183,
+		"y": 3926,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 635,
+		"x": 3187,
+		"y": 3927,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 1506,
+		"x": 3181,
+		"y": 3926,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Surgeon General Tafani",
+		"npc_type": 3343,
+		"x": 3373,
+		"y": 3276,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Aubury",
+		"npc_type": 637,
+		"x": 3253,
+		"y": 3402,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "TzHaar-Mej-Jal",
+		"npc_type": 2180,
+		"x": 2437,
+		"y": 5169,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "TzHaar Ket-Zuh",
+		"npc_type": 2182,
+		"x": 2445,
+		"y": 5178,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 2464,
+		"y": 3501,
+		"height": 3,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 2850,
+		"y": 3498,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 3318,
+		"y": 3429,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 3275,
+		"y": 3213,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 2970,
+		"y": 2974,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 4234,
+		"x": 2547,
+		"y": 2971,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Hans",
+		"npc_type": 3077,
+		"x": 3222,
+		"y": 3221,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"x": 3161,
+		"y": 2977,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"x": 3163,
+		"y": 2977,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"x": 3161,
+		"y": 2982,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"x": 3161,
+		"y": 2981,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 691,
+		"x": 3162,
+		"y": 2987,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Jatix",
+		"npc_type": 1174,
+		"x": 2810,
+		"y": 3344,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shop assistant",
+		"npc_type": 513,
+		"x": 2856,
+		"y": 3338,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Drogo dwarf",
+		"npc_type": 1048,
+		"x": 3024,
+		"y": 9739,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ellis",
+		"npc_type": 3231,
+		"x": 2825,
+		"y": 3354,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Void Knight",
+		"npc_type": 3789,
+		"x": 3084,
+		"y": 3511,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "TzHaar-Hur-Tel",
+		"npc_type": 2183,
+		"x": 2477,
+		"y": 5147,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 2800,
+		"x": 3048,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 2800,
+		"x": 3049,
+		"y": 3512,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 2800,
+		"x": 3052,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Master Farmer",
+		"npc_type": 3257,
+		"x": 2850,
+		"y": 3372,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Farmer",
+		"npc_type": 3086,
+		"x": 2852,
+		"y": 3370,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Hatius Cosaintus",
+		"npc_type": 5523,
+		"x": 3076,
+		"y": 3512,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Barbarian",
+		"npc_type": 5227,
+		"x": 2551,
+		"y": 3564,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 520,
+		"x": 3080,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	}
+]
