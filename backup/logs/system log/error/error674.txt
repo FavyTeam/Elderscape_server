@@ -1,0 +1,11 @@
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.mina.transport.socket.nio.SocketAcceptor.registerNew(SocketAcceptor.java:363)
+	at org.apache.mina.transport.socket.nio.SocketAcceptor.access$800(SocketAcceptor.java:55)
+	at org.apache.mina.transport.socket.nio.SocketAcceptor$Worker.run(SocketAcceptor.java:222)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.lang.Thread.run(Unknown Source)

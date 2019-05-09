@@ -3826,3 +3826,62 @@ Rest: 2284
 [21/03/2019, 03:11: AM] Server content save took: 16 ms
 [21/03/2019, 03:14: AM] [Main loop took: 2 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
 [21/03/2019, 03:24: AM] Uptime: 1 hour.
+[23/03/2019, 03:01: AM] Server starting up...
+[23/03/2019, 03:01: AM] Mysql Connector : network.sql.SQLNetwork@6aaa5eb0
+[23/03/2019, 03:01: AM] 
+[23/03/2019, 03:01: AM] Server finished loading: 5.0 seconds.
+[23/03/2019, 03:01: AM] Client version: 0
+[23/03/2019, 03:01: AM] Port: 43595
+[23/03/2019, 03:01: AM] Mode: Pvp
+[23/03/2019, 03:01: AM] Running as live mode
+[23/03/2019, 03:21: AM] Uptime: 20 minutes.
+[23/03/2019, 03:21: AM] Server content save took: 56 ms
+[23/03/2019, 03:31: AM] [Main loop took: 2 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
+[23/03/2019, 03:41: AM] Uptime: 40 minutes.
+[24/03/2019, 09:10: AM] Server starting up...
+[24/03/2019, 09:10: AM] Mysql Connector : network.sql.SQLNetwork@6aaa5eb0
+[24/03/2019, 09:10: AM] 
+[24/03/2019, 09:10: AM] Server finished loading: 4.1 seconds.
+[24/03/2019, 09:10: AM] Client version: 0
+[24/03/2019, 09:10: AM] Port: 43595
+[24/03/2019, 09:10: AM] Mode: Pvp
+[24/03/2019, 09:10: AM] Running as live mode
+[24/03/2019, 09:30: AM] Uptime: 20 minutes.
+[24/03/2019, 09:30: AM] Server content save took: 86 ms
+[24/03/2019, 09:40: AM] [Main loop took: 4 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
+[24/03/2019, 09:50: AM] Uptime: 40 minutes.
+[24/03/2019, 09:50: AM] Server content save took: 44 ms
+[24/03/2019, 10:10: AM] [Main loop took: 4 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
+[24/03/2019, 10:10: AM] Uptime: 1 hour.
+[24/03/2019, 10:10: AM] Server content save took: 47 ms
+[24/03/2019, 10:30: AM] Uptime: 1 hour.
+[24/03/2019, 10:30: AM] Server content save took: 23 ms
+[24/03/2019, 10:40: AM] [Main loop took: 4 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
+[24/03/2019, 10:50: AM] Uptime: 1 hour.
+[24/03/2019, 10:50: AM] Server content save took: 24 ms
+[24/03/2019, 11:10: AM] [Main loop took: 4 ms] [Players online: 0] [Players online used Wilderness in past 5 mins: 0]
+[24/03/2019, 11:10: AM] Uptime: 2 hours.
+[24/03/2019, 11:43: AM] Server starting up...
+[24/03/2019, 11:43: AM] Mysql Connector : network.sql.SQLNetwork@6aaa5eb0
+[24/03/2019, 11:43: AM] 
+[24/03/2019, 11:43: AM] Server finished loading: 4.7 seconds.
+[24/03/2019, 11:43: AM] Client version: 0
+[24/03/2019, 11:43: AM] Port: 43595
+[24/03/2019, 11:43: AM] Mode: Pvp
+[24/03/2019, 11:43: AM] Running as live mode
+[24/03/2019, 12:03: PM] Uptime: 20 minutes.
+[24/03/2019, 12:31: PM] Server starting up...
+[24/03/2019, 12:31: PM] Mysql Connector : network.sql.SQLNetwork@6aaa5eb0
+[24/03/2019, 12:31: PM] 
+[24/03/2019, 12:31: PM] Server finished loading: 4.1 seconds.
+[24/03/2019, 12:31: PM] Client version: 0
+[24/03/2019, 12:31: PM] Port: 43595
+[24/03/2019, 12:31: PM] Mode: Pvp
+[24/03/2019, 12:31: PM] Running as live mode
+[24/03/2019, 12:32: PM] Uptime: 0 minutes.
+[24/03/2019, 12:32: PM] Server content save took: 37 ms
+[24/03/2019, 12:32: PM] JFrame used: Read data.txt from website and dedicated_server_config folder from server.
+[24/03/2019, 12:32: PM] Client version: 377
+[24/03/2019, 12:32: PM] Vote reward: 2000
+[24/03/2019, 12:32: PM] Runelocus tickets: 5
+[24/03/2019, 12:32: PM] Uptime: 0 minutes.

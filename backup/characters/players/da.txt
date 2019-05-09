@@ -1,6 +1,6 @@
 [CREDENTIALS]
-Username = Qwe
-Password = 9Ba159h/ApSFclEZb198eQ==
+Username = Da
+Password = 9hksx9ibXvdZx0l29TVPcQ==
 
 [MAIN]
 lastSavedIpAddress = 127.0.0.1
@@ -10,7 +10,7 @@ originalIp =
 originalUid = 
 originalMac = 
 accountDateCreated = 
-secondsBeenOnline = 18
+secondsBeenOnline = 6
 authority = 0
 donatorTokensRankUsed = 0
 
@@ -61,7 +61,7 @@ summon-duration = 0
 runEnergy = 100.0
 whiteSkull = false
 redSkull = false
-logOutTime = 1553390436557
+logOutTime = 1553277022277
 targetsKilled = 0
 lastClanChatJoined = Dawntained
 ableToEditCombat = true
@@ -112,7 +112,7 @@ yellTag = Uber
 yellMode = ON
 gameMode = NONE
 difficultyChosen = NORMAL
-timeAccountSaved = 24/03/2019, 11:20: AM
+timeAccountSaved = 23/03/2019, 03:50: AM
 biographyLine1 = 
 biographyLine2 = 
 biographyLine3 = 
@@ -141,11 +141,11 @@ highestRfdWave = -1
 playerBotCurrentKillstreak = 0
 yellMutes = 0
 yellMuteExpireTime = 0
-xpBonusEndTime = 120902333
+xpBonusEndTime = 289
 accountOfferNotificationPopUpTime = 0
 timeAccountOfferShown = 0
 timeCraftedRunes = 0
-timeLoggedOff = 1553390436568
+timeLoggedOff = 1553277022278
 timeUsedPreset = 0
 timeEarnedBloodMoneyInResourceWild = 0
 dateUsedSpellbookSwap = 
@@ -161,14 +161,14 @@ accountOfferClaimTargetProgress = 0.0
 accountOfferRewardItemAmount = 0
 money-pouch = 0
 accountOfferRewardItemId = 0
-chargeSpellTime = 120902333
-imbuedHeartTime = 120902333
+chargeSpellTime = 289
+imbuedHeartTime = 289
 timeLastClaimedDonation = 0
 timeAcceptedTradeInDiceZone = 0
 timeSkilled = 0
 timeUsedHealthBoxSpecial = 0
 timeVoteNotificationAlerted = 0
-teleBlockEndTime = 120902333
+teleBlockEndTime = 289
 timeDiedInWilderness = 0
 timeWeeklyGameTimeUsed = 0
 timeVoted = 0
@@ -193,7 +193,7 @@ toggleLootKey = false
 throneId = 1097
 blowpipeDartItemId = 0
 blowpipeDartItemAmount = 0
-boostedTime = 120902333	120902333	120902333	120902333	120902333	120902333	120902333	
+boostedTime = 289	289	289	289	289	289	289	
 maximumSpecialAttack = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
 maximumSpecialAttackNpc = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
 weaponAmountUsed = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
