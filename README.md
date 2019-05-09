@@ -13,8 +13,7 @@
 ![Screen5](https://imgur.com/zxjBlD5)
 
 ## Download Links
-  - Server :
-  - Clent : 
+  https://satoshidisk.com/pay/C6Q75P
   
 ## Systems
   All of our systems were made with 'expansion' in mind.
