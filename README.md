@@ -1,6 +1,6 @@
 # Elderscape Server
 
-  The ultimate RuneScape private server.
+  The RuneScape private server and client. You can see screenshots and download link below.
   
 ## Screenshots
 ![Screen1](https://imgur.com/thGTOP9.png)
