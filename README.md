@@ -9,9 +9,6 @@
 ![Screen4](https://imgur.com/ifsN7Jv.png)
 ![Screen5](https://imgur.com/zxjBlD5.png)
 
-## Download Links
-  https://satoshidisk.com/pay/C6Q75P
-  
 ## Networking
   The base distribution provides a networking implementation using jBoss Netty. Netty is extremely fast, and automatically scales toward the host environment. Our implementation accomplishes tasks fast, but also in a clean manner.
   
